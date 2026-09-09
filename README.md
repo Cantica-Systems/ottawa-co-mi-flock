@@ -20,7 +20,7 @@ data/
     stats.csv                portal totals, one row per snapshot
 
 raw/
-  <agency>/YYYY/MM/DD/…      portal page text as published
+  <agency>/page.txt          current portal page; git history is the series
 ```
 
 Search-audit CSVs are partitioned by **search time**. A search from 31 August lives in `2026-08.csv` even if it first appeared here in September. Ids already stored are left as-is.
