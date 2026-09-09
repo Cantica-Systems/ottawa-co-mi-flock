@@ -1,10 +1,10 @@
 # Ottawa County Flock archive
 
-Public-record archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Ottawa County agencies:
+This is an archive of [Flock Safety transparency portals](https://transparency.flocksafety.com/) for Ottawa County agencies. It collects the data those portals publish — search audits, share lists, and page snapshots — before that material falls off the public record. The portals keep about 30 days of search audits; after that window the same records are only available through FOIA.
 
 - **Holland PD** — `https://transparency.flocksafety.com/holland-mi-pd`
 
-Same idea as [west-michigan-dispatch](https://github.com/Cantica-Systems/west-michigan-dispatch) and [kent-co-mi-flock](https://github.com/Cantica-Systems/kent-co-mi-flock): **the git history is the time-series.** The portals only keep about 30 days of search audits. This repo keeps every search id we have seen, in the month it occurred.
+Kent County agencies are in [kent-co-mi-flock](https://github.com/Cantica-Systems/kent-co-mi-flock).
 
 Latest summary: [`SNAPSHOT.md`](SNAPSHOT.md).
 
