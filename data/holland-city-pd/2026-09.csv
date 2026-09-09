@@ -3,3 +3,51 @@ id,userId,searchDate,networkCount,offenseType
 814622ac-34b6-44d3-89aa-0c6b68659fbf,***,2026-09-01T12:14:13.725Z,1347,
 be11ea78-affe-4bc1-bff5-f6afe6e6635f,***,2026-09-01T12:24:24.533Z,1347,
 db9bace3-9a22-4302-a5ae-c1bc85609355,***,2026-09-01T13:59:51.292Z,1387,
+f6e30f41-e7d3-44e1-8938-f4a8725d62dd,,2026-09-01T16:08:09.705Z,1384,Financial Crime (Embezzlement/Fraud)
+3d2ee33c-318f-44a8-afbc-6592ee884320,,2026-09-01T16:13:26.301Z,1384,Financial Crime (Embezzlement/Fraud)
+6ae3d0dc-213a-4ce4-b9bf-975e44e7da43,,2026-09-01T19:29:13.703Z,1,Motor Vehicle Theft/Stolen
+5e4628ac-438a-497b-ab1e-3d17a7fefa07,,2026-09-01T19:32:33.426Z,1,Welfare Check
+261d04d1-4993-4396-94fb-f4075f1ddf98,,2026-09-01T21:43:32.729Z,1,Hit and Run/Car Accident
+89d189e2-553f-4a76-b45d-f78ba7548dea,,2026-09-02T10:53:28.304Z,1,Destruction/Damage/Vandalism of Property
+49a4742e-458b-4207-80ba-67bc45257963,,2026-09-02T11:03:20.955Z,1,Destruction/Damage/Vandalism of Property
+28e3b329-a8ef-4f7f-bb38-ab78ffeb6789,,2026-09-02T13:37:03.181Z,1,Hit and Run/Car Accident
+5d0284b9-8e4e-4a7d-aaa3-c2043895580f,,2026-09-02T14:29:20.469Z,1,Hit and Run/Car Accident
+6a0e8542-6df2-46a1-a7b9-abeff9b5263b,,2026-09-03T05:07:57.009Z,1330,Assault/Battery Offenses (Domestic)
+c57ab3f3-c52b-4dd1-8256-b1c0721d6e26,,2026-09-03T06:12:34.838Z,1330,Assault/Battery Offenses (Domestic)
+f5a0fb2d-7630-4dad-8887-ff351795f384,,2026-09-03T12:46:12.881Z,1371,Threats/Harassment
+8c144665-6b32-464c-85ee-a798aea7f413,,2026-09-03T13:43:14.653Z,1370,Threats/Harassment
+e82a4876-7119-4504-b41d-b449c129cf63,,2026-09-03T15:59:37.128Z,1326,Missing/Endangered Person/Runaway
+8cba92a5-3848-4e54-b856-06bdb519f9e3,,2026-09-03T16:33:35.739Z,1326,Missing/Endangered Person/Runaway
+b14d6871-1244-4295-b807-1e16ba6aa483,,2026-09-04T00:08:09.856Z,1371,Hit and Run/Car Accident
+fb4f9592-1e93-47cf-b877-b3cd8de75aa6,,2026-09-04T13:08:56.180Z,1,Burglary/Breaking & Entering
+38c4e591-7fe8-4f9a-9189-a4f6070c2f55,,2026-09-04T14:13:45.479Z,1276,Motor Vehicle Theft/Stolen
+e4848d40-d052-4965-a1a5-c463d2fe449e,,2026-09-04T22:30:17.764Z,1361,Traffic Infraction
+19e44ba4-18f7-4104-850f-8a81ed83b091,,2026-09-05T05:28:30.227Z,1312,Hit and Run/Car Accident
+48ed01f4-7910-482b-bc8f-67023ed4ea19,,2026-09-05T21:47:27.839Z,1364,Weapons Offense (Guns/Shots Fired)
+8714c8e2-c223-47af-912d-eb260c94daa0,,2026-09-05T21:47:34.236Z,1270,Weapons Offense (Guns/Shots Fired)
+8f524368-4c4f-4344-be60-53529b95659d,,2026-09-05T21:48:14.366Z,1,Weapons Offense (Guns/Shots Fired)
+18ec36de-fdc8-46a5-aaf6-82648f45d295,,2026-09-05T21:48:24.595Z,1364,Weapons Offense (Guns/Shots Fired)
+5d873782-94f8-4cd8-8231-f1248906185a,,2026-09-05T21:49:56.646Z,1,Weapons Offense (Guns/Shots Fired)
+6fc04610-fd0b-40b2-a202-0eb2d361a092,,2026-09-05T21:51:40.365Z,1,Weapons Offense (Guns/Shots Fired)
+211dd99a-cf09-46df-9259-91d339b5a168,,2026-09-05T22:00:41.496Z,1364,Weapons Offense (Guns/Shots Fired)
+9bb59137-cba7-4f5f-8aa9-628c6a480b17,,2026-09-05T22:00:44.382Z,1270,Weapons Offense (Guns/Shots Fired)
+e0383a27-9703-4da1-b232-c31c70550e97,,2026-09-05T22:02:25.366Z,1,Weapons Offense (Guns/Shots Fired)
+387b0298-dede-4270-a1e5-54430faa7e39,,2026-09-05T22:04:48.991Z,1313,Weapons Offense (Guns/Shots Fired)
+e3209523-32de-4719-a66b-a282b1ebf73b,,2026-09-06T07:44:53.003Z,1,Driving Under the Influence (DUI/DWI/OWI/OVI)
+834e3115-1612-4105-aff5-41d89f4a879d,,2026-09-06T08:02:26.440Z,1361,Driving Under the Influence (DUI/DWI/OWI/OVI)
+1bd8af17-09d0-44a2-a071-12800eed42c3,,2026-09-06T09:03:56.758Z,1361,Driving Under the Influence (DUI/DWI/OWI/OVI)
+b2ef3224-3578-4b71-a517-20ff283da8b2,,2026-09-06T12:41:27.444Z,1267,Assault/Battery Offenses
+12010618-c36f-4835-bef1-bcdcf5e5eed2,,2026-09-06T16:26:07.405Z,1266,Motor Vehicle Theft/Stolen
+9805c823-eab9-4276-af0f-df9cfe2ca7fa,,2026-09-06T17:34:02.335Z,1266,Stolen Property Offenses
+26ddd744-c00b-4efd-b9aa-f39dd3aa9ec2,,2026-09-06T19:54:34.581Z,1360,Assault/Battery Offenses (Domestic)
+b640455e-2a86-454b-ac7d-1ca83fd78160,,2026-09-07T02:40:41.518Z,1309,Drugs/Narcotics
+2f945138-7533-4303-a9ac-0bbccbde2350,,2026-09-07T03:03:31.510Z,1308,Destruction/Damage/Vandalism of Property
+432f661a-2a0a-4165-a3dd-ee184e6f1ac4,,2026-09-07T03:17:15.481Z,1309,Drugs/Narcotics
+a2c32c74-8c79-438e-8804-b266f660361a,,2026-09-07T22:30:24.561Z,1266,Weapons Offense (Guns/Shots Fired)
+06564c16-33f0-4c8c-9569-5f20bd133ada,,2026-09-08T01:29:30.198Z,1309,Weapons Offense (Guns/Shots Fired)
+646712e4-1d9f-484b-b537-bba50c928192,,2026-09-08T03:22:09.664Z,1309,Weapons Offense (Guns/Shots Fired)
+8a84411a-15af-4de4-b8ff-7098811fe619,,2026-09-08T04:24:33.887Z,1309,Weapons Offense (Guns/Shots Fired)
+ae6529b2-ce21-4282-813c-87483739b95c,,2026-09-08T18:57:23.489Z,1343,Curfew/Loitering/Vagrancy Violations
+79de95a0-77b1-48d0-bbfa-1235ea4e213e,,2026-09-08T19:07:01.000Z,1343,Curfew/Loitering/Vagrancy Violations
+b8296a20-d3d4-47dd-a519-b8e4f6a177e4,,2026-09-08T20:06:41.953Z,1344,Larceny/Theft Offenses
+9fc3da8d-3f09-45b4-8f77-5e4d6dd9b554,,2026-09-08T22:03:48.292Z,1301,Weapons Offense (Guns/Shots Fired)
