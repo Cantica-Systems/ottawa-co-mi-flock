@@ -1,0 +1,2419 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+Visit Flock
+Holland MI PD
+Transparency Portal
+
+Last updated: Wed Sep 09 2026
+
+Overview
+
+The Holland Department of Public Safety uses Flock Safety technology to capture objective evidence without compromising individual privacy. The Holland Department of Public Safety utilizes retroactive searches to solve crimes after they've occurred. Additionally, the Holland Department of Public Safety utilizes real time alerting of hotlist vehicles to capture wanted criminals. In an effort to ensure proper usage and guardrails are in place, we have made the below policies and usage statistics available to the public.
+
+Community Impact
+Featured Success Stories
+
+Homicide & Missing Endangered
+
+2023- FSC used to track suspect and witness movements the night prior. Helped to verify witness' story and add credibility to it. Also helped build a timeline for the incident which is used in Homicide and high-level incidents.
+
+2024- Endangered was diagnosed with Alzheimer and Diabetes. Endangered takes insulin every morning at 0900 hours which he does not have with him. Endangered likely left the residence at 0300 hours in MI/----. Multiple FLOCK hits with endangered being in Wyoming, MI at 0501 hours. Endangered subject was located by surveillance units utilizing FLOCK to narrow down endangered location
+
+2024- Female was entered into LEIN as Missing Endangered. Endangered left Holland around 1330 hours and was enroute to Inkster, Michigan to visit family. Endangered was driving a vehicle which was plated and a description of the vehicle was given to officers. Officers utilized this information to search FLOCK cameras and managed to obtain a match to the endangered vehicle in Dearborn. Detectives used this information to coordinate with other agencies in Michigan to locate the subject who was not harmed.
+
+2025- Assisted SSCENT, a northern MSP narcotics team in locating their fugitive who had threatened to kill a detective once the suspect learned he had sold narcotics to an undercover detective. SSCENT advised that the suspect was possibly in the Muskegon area but working in Ottawa County. WEMET utilized FSC and established a pattern of life locating the suspect while on his way to work at Tyson foods. OTSH Deputies assisted taking the suspect into custody.
+
+2026- WEMET detectives were working an extensive narcotics investigation in the Holland area. Numerous arrests were made throughout the investigation, but one individual was outstanding and was difficult to locate. WEMET received a tip on a possible boyfriend of the suspect. FSC was used to locate the vehicle establishing a pattern of life that led detectives to a new apartment, not known to detectives. During the investigation the suspect fugitive was seen outside the apartment and was taken into custody.
+
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+22
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+22
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+528,274
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+250
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Wisconsin DOJ, MI LEIN
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+1,876
+
+Sharing Network Data With
+
+Organizations granted access to Holland MI PD data.
+
+Germantown OH PD
+(Dead/Old) Plymouth IN PD
+Abbotsford WI PD
+Adams County IL SO
+Adams County IN SO
+Adams County WI SO
+Adams WI PD
+Addison IL PD
+Adrian MI PD
+Adrian Township MI PD
+Akron OH PD
+Albion MI DPS
+Alexandria IN PD
+Allegan County SO MI
+Allen County IN SO
+Almont MI PD
+Alpena County MI SO
+Alvin TX PD
+Amberley Village OH PD
+Anderson IN PD
+Anna TX PD
+Antioch IL PD
+Arlington Heights IL PD
+Armada MI PD
+Arthur IL PD
+Ashland County OH SO
+Ashland County WI SO
+Ashland OH PD
+Ashtabula County OH SO
+Ashtabula OH PD
+Athalia OH PD
+Athens County OH SO
+Auburn Hills MI PD
+Auburn IN PD
+Auglaize County OH SO
+Aurora IL PD
+Aurora OH PD
+Austin County TX SO
+Aviston IL PD
+Avon IN PD
+Baraboo WI PD
+Barberton OH PD
+Barrington Hills IL PD
+Barron County WI SO
+Bartlett IL PD
+Batavia OH PD
+Battle Creek MI PD
+Bayfield County WI SO
+Beachwood OH PD
+Beaver Dam WI PD
+Bellefontaine PD - OH
+Bellevue OH PD
+Belpre OH PD
+Belvidere IL PD
+Benton IL PD
+Berea OH PD
+Berkeley IL PD
+Berne IN PD
+Berrien County MI SO
+Beverly Hills MI PD
+Beverly OH PD
+Big Bend WI PD
+Birmingham MI PD
+Blackman/Leoni Public Safety MI
+Bloomfield Twp MI PD
+Bloomington IL PD
+Blue Ash OH PD
+Boardman Township OH PD
+Bolivar OH PD
+Boone County IL SO
+Bourbonnais IL PD
+Bowling Green OH PD
+Braidwood IL PD
+Bremen IN PD
+Bridgeport Township MI PD
+Bridgeview IL PD
+Brighton MI PD
+Bristol IN PD
+Brook Park OH PD
+Brookfield WI PD
+Brooklyn OH PD
+Brookville OH PD
+Brown County IL SO
+Brown Deer WI PD
+Brownsburg IN PD
+Brownstown Twp PD MI
+Brunswick OH PD
+Bryan OH PD
+Bureau Co. IL SO
+Burnett County WI SO
+Burnham IL PD
+Burr Ridge IL PD
+Burton MI PD
+Bushnell IL PD
+Butler IN PD
+Butler Township OH PD
+Byron IL PD
+Caledonia WI PD
+Calhoun County MI SO
+Calumet County WI SO
+Calumet Park IL PD
+Cambridge City IN PD
+Campton Hills IL PD
+Canton IL PD
+Canton OH PD
+Carbondale IL PD
+Carmel IN PD
+Carol Stream IL PD
+Carpentersville IL PD
+Carroll County OH SO
+Carrollton OH PD
+Carson County TX SO
+Carterville IL PD
+Cary IL PD
+Case Western Reserve University OH PD
+Cass County IN SO
+Cass County MI SO
+Centerville IN PD
+Centerville OH PD
+Centralia IL PD
+Champaign County IL SO
+Champaign IL PD
+Charleston IL PD
+Charlestown PD IN
+Charlotte MI PD
+Charter Township of Buena Vista MI PD
+Chatham IL PD
+Chenoa IL PD
+Cherry Valley IL PD
+Chester Township OH PD
+Chesterfield Twp MI PD
+Chesterton IN PD
+Chetek WI PD
+Cheviot OH PD
+Chicago IL PD
+Chillicothe IL PD
+City of Delavan WI PD
+Clark County IN SO
+Clark County OH SO
+Clarksville IN PD
+Clawson MI PD
+Clayton Township PD MI
+Clermont County SO - OH
+Cleveland Heights OH PD
+Clinton County MI SO
+Clinton County SO - OH
+Clinton Township MI PD
+Clio MI PD
+Clyde PD OH
+Coldwater MI PD
+Colerain Township PD - OH
+Columbia County WI SO
+Columbus IN PD
+Cortland IL PD
+Cortland OH PD
+Corydon IN PD
+Cottage Grove WI PD
+Country Club Hills IL PD
+Covert Township PD MI
+Crainville IL PD
+Crawford County IL SO
+Crawford County IN SO
+Crawford County WI SO
+Crawfordsville IN PD
+Crest Hill IL PD
+Creve Coeur IL PD
+Cridersville OH PD
+Cross Creek Township OH PD
+Crown Point IN PD
+Crystal Lake IL PD
+Cumberland Metro IN PD
+Cuyahoga Falls OH PD
+Danville IL PD
+Danville IN PD
+Darien IL PD
+Davison Township MI PD
+Dayton PD - OH
+Dearborn County IN SO
+Dearborn Heights MI PD
+Dearborn MI PD
+Decatur IN PD
+Deer Park OH PD
+Defiance County OH SO
+DeKalb IL PD
+Delaware County IN SO
+Delaware County OH SO
+Delhi Twp OH PD
+Delphi IN PD
+Depue IL PD
+Des Plaines IL PD
+Detroit MI PD
+Dickinson County MI SO
+Dixmoor IL PD
+DNU Creston OH PD
+Dodge County WI SO
+Dolton IL PD
+Downers Grove IL PD
+Dublin OH PD
+DuPage Co IL Prosecutor Office
+DuPage County IL SO
+East Dundee IL PD
+East Hazel Crest IL PD
+East Lansing MI PD
+East Liverpool OH PD
+East Peoria IL PD
+Eastlake OH PD
+Eastpointe MI PD
+Eaton OH PD
+Eaton Rapids MI PD
+Eau Claire County WI SO
+Ecorse MI PD
+Elk Grove IL PD
+Elk Rapids MI PD
+Elkhart County IN SO
+Elkhart PD IN
+Elkhorn WI PD
+Elm Grove WI PD
+Elwood IN PD
+Elyria OH PD
+Energy IL PD
+Enon OH PD
+Erie County OH SO
+Euclid OH PD
+Evansville IN PD
+Evendale OH PD
+Fairfax OH PD
+Fairfield PD - OH
+Fairfield Township OH PD
+Fairlawn OH PD
+Fairmount IN PD
+Farmer City IL PD
+Farmington Hills MI PD
+Farmington MI DPS
+Fayette County IL SO
+Fayette OH PD
+Fenton MI PD
+Fishers IN PD
+Flat Rock MI PD
+Flint MI PD
+Flint Township MI PD
+Flora- IL - PD
+Florence Co. WI SO
+Flossmoor IL PD
+Floyd County IN SO
+Flushing City MI PD
+Forest County WI SO
+Forest Park OH PD
+Forest Preserve District Will County PD (IL)
+Fort Loramie OH PD
+Fort Wayne IN PD
+Fort Worth TX PD
+Fox Lake IL PD
+Fox Valley IL Parks District
+Frankenmuth MI PD - New Business
+Franklin County IL SO
+Franklin County OH SO
+Franklin IN PD
+Franklin Park IL PD
+Franklin WI PD
+Franklin-Bingham Farms MI PD
+Fraser MI DPS
+Freeport IL PD
+Fremont OH PD
+Friendswood TX PD
+Fruitport Township MI PD
+Fulton County IL SO
+Fulton IL PD
+Gahanna OH PD
+Galesburg IL PD
+Gallia County OH SO
+Garden City MI PD
+Garfield Heights OH PD
+Gary IN PD
+Gas City IN PD
+Gaylord MI PD
+Geauga County OH SO
+Genesee Co. MI 911 Dispatch Authority
+Genesee County MI SO
+Genoa Township OH PD
+Georgetown IL PD
+Georgetown IN PD
+Glen Carbon IL PD
+Glen Ellyn IL PD
+Glencoe IL PD
+Glendale OH PD
+Glenview IL PD
+Gogebic County MI SO
+Golf Manor OH PD
+Goshen IN PD
+Goshen TWP OH PD
+Grafton WI PD
+Granbury TX PD
+Grand Beach/Michiana MI PD
+Grand Blanc Twp MI PD
+Grand Chute WI PD
+Grand Haven MI DPS
+Grand Rapids MI PD
+Grand Traverse County MI SO
+Grand Valley State University MI
+Grandville PD MI
+Grant County IN SO
+Grant County WI SO
+Grayslake IL PD
+Green Bay WI PD
+Green Lake County WI SO
+Greene County IN SO
+Greene County OH SO
+Greenfield IN PD
+Greenfield WI PD
+Greenwood IN PD
+Griffith IN PD
+Grosse Ile MI PD
+Grove City OH PD
+Groveport OH PD
+Grundy County IL 911
+Grundy County IL SO
+Guernsey County OH SO
+Gun Lake Tribal PD MI
+Gurnee IL PD
+Hamilton County IN SO
+Hamilton County OH SO
+Hamilton Township OH PD (Warren County)
+Hamtramck MI PD
+Hancock County IN SO
+Hanover Park IL PD
+Hardin County OH SO
+Harper Community College IL PD
+Harris County TX SO
+Harrison County IN SO
+Harrison OH PD
+Hartford City IN PD
+Harvey IL PD
+Harwood Heights IL PD
+Hazel Crest IL PD
+Hazel Park MI PD
+Hebron IN PD
+Henry County IL SO
+Henry County IN SO
+Henry County OH SO
+Herrin IL PD
+Hickory Hills IL PD
+Highland IN PD
+Highland Park IL PD
+Highland Park MI PD
+Hillsboro OH PD
+Hinckley IL PD
+Hobart IN PD
+Hoffman Estates IL PD
+Holland TX PD
+Holmen WI PD
+Holmes County SO OH
+Homecroft IN PD
+Hoopeston IL PD
+Houston Arson Bureau TX
+Houston TX PD
+Howard County IN SO
+Hudson WI PD
+Humble ISD PD TX
+Hunting Valley OH PD
+Huntingburg IN PD
+Huntington County IN SO
+Huntington IN PD
+Huntley IL PD
+Huron OH PD
+Huron Township MI PD
+Illinois Attorney General
+IN - Albion PD
+IN - Angola PD
+IN - Jasonville PD
+IN - Middletown PD
+IN - Noble County Prosecutors
+IN - Rensselaer PD
+IN - Sweetser PD
+IN - Tipton County SO
+IN- Noble County SO
+Independence OH PD
+Indian Hill OH PD
+Indiana Department of Corrections
+Indiana Department of Natural Resources
+Indiana State Police IN PD
+Indianapolis Metro PD IN
+Ingalls IN PD
+Inkster MI PD
+Inverness IL PD
+Iowa County WI SO
+Jackson County Central Dispatch MI
+Jackson County MI SO
+Jackson MI PD
+Jackson WI PD
+Jacksonville IL PD
+Janesville WI PD
+Jasper County IN SO
+Jasper IN PD
+Jefferson County OH SO
+Jefferson County SO IN
+Jefferson County WI SO
+Jefferson WI PD
+Jeffersonville IN PD
+Jennings County IN SO
+Johnson County IN SO
+Johnson County TX SO
+Johnston City IL PD
+Joliet IL PD
+Joliet Junior College IL PD
+Justice IL PD
+Kalamazoo County MI SO
+Kalamazoo MI PD
+Kalamazoo Township MI PD
+Kane County Forest Preserve IL PD
+Kane County IL SO
+Kankakee County IL SO
+Kankakee IL PD
+Kellogg Community College Campus MI PD
+Kendall County IL SO
+Kendall County TX SO
+Kendallville IN PD
+Kenosha County WI SO
+Kenosha WI PD
+Kent County MI SO
+Kentwood MI PD
+Kettering OH PD
+Kewanee IL PD
+Killeen TX PD
+Kleberg TX County Attorney's Task Force
+Knox County IL SO
+Knox County IN SO
+Kokomo IN PD
+La Grange IL PD
+La Grange Park IL PD
+Lac Courte Oreilles Tribal Police WI
+Ladd IL PD
+Lafayette IN PD
+LaGrange IN PD
+Lake County IL SO
+Lake County IN SO
+Lake County OH SO
+Lake Delton WI PD
+Lake Forest IL PD
+Lake Geneva WI PD
+Lake In The Hills IL PD
+Lake Michigan College Campus PD
+Lake Mills WI PD
+Lake Villa IL PD
+Lake Zurich IL PD
+Lakemore OH PD
+Lakewood OH PD
+Lansing IL PD
+Lansing MI PD
+Lapeer City MI PD
+Lapel IN PD
+Laporte County IN SO
+LaSalle Co. IL SO - New
+Lasalle IL PD
+Lathrup Village MI PD
+Lavon TX PD
+Lawrence County IL SO
+Lawrence County IN SO
+Lebanon OH PD
+Lee County IL SO
+Lemont IL PD
+Lena IL PD
+Lenawee County MI SO
+Lexington KY PD
+Licking County OH SO
+Ligonier IN PD
+Lima OH PD
+Lincoln Park MI PD
+Lisle IL PD
+Lithopolis OH PD
+Little Traverse Bay Band of Odawa Indians MI PD
+Livingston County IL SO
+Livingston County MI SO
+Livonia MI PD
+Lockland OH PD
+Lodi WI PD
+Logansport IN PD
+Lombard IL PD
+Lorain County OH SO
+Lorain OH PD
+Loudon County TN SO
+Loudon TN PD
+Louisville OH PD
+Loves Park IL PD
+Lowell MI PD
+Lucas County OH SO
+Lufkin TX PD
+Lyons IL PD
+Macomb County MI SO
+Macomb IL PD
+Macon County IL SO
+Madeira OH PD
+Madison County IN SO
+Madison Heights MI PD
+Madison Township MI PD
+Madison Village OH PD
+Mahoning Valley Law Enforcement TF (OH)
+Mansfield OH PD
+Mansfield TX PD
+Manteno IL PD
+Maple Bluff WI PD
+Maple Heights OH PD
+Marathon County WI SO
+Marinette County SO (WI)
+Marinette WI PD
+Marion County OH SO
+Marion Health PD (IN)
+Marion IL PD
+Marion IN PD
+Marion OH PD
+Markle IN PD
+Marquette County MI SO
+Marquette County WI SO
+Marseilles IL PD
+Marshall County Prosecutor’s Office IN
+Marshall TX PD
+Martinsville IN PD
+Marysville MI PD
+Marysville OH PD
+Mason County IL SO
+Mason PD - OH
+Matteson IL PD
+Mattoon IL PD
+Maumee OH PD
+McCook IL PD
+McDonough County IL SO
+McFarland WI PD
+McHenry County Conservation District IL PD
+McHenry County IL SO
+McKinney TX PD
+Mclean County IL SO
+Medina County OH SO
+Medina Township OH PD
+Melrose Park IL PD
+Melvindale MI PD
+Menard County IL SO
+Menasha WI PD
+Mendota IL PD
+Menominee County SO MI
+Menominee Tribal WI PD
+Menomonee Falls WI PD
+Mentor OH PD
+Mequon WI PD
+Mercer County OH SO
+Mesquite TX PD
+Metamora Township MI PD
+Metra IL PD
+Metro East Auto Theft (IL)
+Metro Police Authority of Genesee County MI
+Metropolis IL PD
+MI - Bloomfield Public Safety
+MI - Riverview PD
+MI - Saginaw County SO
+MI - Village of Middleville
+Miami County OH SO
+Michigan City IN PD
+Michigan Department of Corrections (MDOC)
+Michigan Department of Natural Resources
+Michigan Senate MI PD
+Michigan State Police
+Middleburg Heights OH PD
+Middlebury IN PD
+Midlothian IL PD
+Milan IL PD
+Milan MI PD
+Milford MI PD
+Milton IN PD
+Milwaukee County WI SO
+Milwaukee WI PD
+Minster OH PD
+Mokena IL PD
+Moline IL PD
+Monee IL PD
+Monon IN PD
+Monona WI PD
+Monroe County MI SO
+Monroe County WI SO
+Monroe MI PD
+Monroe OH PD
+Montgomery County IN SO
+Montgomery County TX SO
+Moraine OH PD
+Morgan County IL SO
+Morgan County IN SO
+Morris IL PD
+Morrow OH PD
+Morton Grove IL PD
+Morton IL PD
+Mount Morris Township PD MI
+Mount Pleasant WI PD
+Mount Prospect IL PD
+Mount Vernon IN PD
+Mount Vernon OH PD
+Mountain Bay Metro WI PD
+Muncie IN PD
+Mundelein IL PD
+Muscoda WI PD
+Muskego WI PD
+Muskegon County MI SO
+Muskegon Heights MI PD
+Muskegon MI PD
+Muskegon Township MI PD (Muskegon County)
+Muskingum County OH SO
+Napoleon OH PD
+Napoleon Twp MI PD
+Nappanee IN PD
+National Center for Missing & Exploited Children [NCMEC]
+Neshkoro WI PD
+New Albany OH PD
+New Baden IL PD
+New Baltimore MI PD
+New Berlin WI PD
+New Bremen OH PD
+New Haven IN PD
+New Knoxville OH PD
+New Richmond OH PD
+Newark OH PD
+Newtown OH PD
+NICTD - IN PD
+Niles IL PD
+Niles OH PD
+Noble County OH SO
+Noblesville IN PD
+Norfolk Southern RR IL PD
+Normal IL PD
+North Chicago IL PD
+North Manchester IN PD
+North Muskegon MI PD
+North Olmsted OH PD
+North Randall OH PD
+North Ridgeville OH PD
+North Royalton OH PD
+Northbrook IL PD
+Northville Twp MI PD
+Norton Shores MI PD
+Norwalk OH PD
+Norwood OH PD
+Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
+Novi MI PD
+O'Fallon IL PD
+Oak Brook IL PD
+Oak Creek WI PD
+Oak Lawn IL PD
+Oak Park MI Dept of Public Safety
+Oakland County MI SO
+Obetz OH PD
+Obion County TN SO
+Oceana County MI SO
+Oconomowoc WI PD
+Ogle County IL SO
+Oglesby IL PD
+OH - Blanchester PD
+OH - Bridgeport PD
+OH - Butler County SO
+OH - Chillicothe PD
+OH - Commercial Point PD
+OH - Hamilton PD
+OH - Harrison County SO
+OH - Highland County SO
+OH - Jefferson County Drug Task Force
+OH - Johnny Appleseed Metropolitan Park District PD
+OH - Mariemont PD
+OH - Metroparks Toledo
+OH - Middletown PD
+OH - Milford PD
+OH - Oakwood PD
+OH - Preservation Parks of Delaware County
+OH - Sabina PD
+OH - South Bloomfield PD
+OH - Stark Parks Public Safety
+OH - U.S.23 Major Crimes Task Force
+OH - Willard PD
+OH - Williamsburg PD
+OH- Springfield Township PD (Hamilton Co)
+Ohio Attorney General's Office - OOCIC
+Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
+Ohio State Fire Marshal
+Ohio State Highway Patrol
+OK - Washita County SO
+Olmsted Township OH PD
+Onalaska WI PD
+Oneida County WI SO
+Ontonagon County MI SO
+Oregon OH PD
+Orland Hills IL PD
+Oswego IL PD
+Ottawa County MI SO
+Ottawa County OH SO
+Ottawa IL PD
+Oxford PD - OH
+Ozaukee County WI SO
+Palos Heights IL PD
+Palos Hills IL PD
+Palos Park IL PD
+Paris TX PD
+Parke County IN SO
+Parma Heights OH PD
+Parma OH PD
+Paulding County OH SO
+Pecatonica IL PD
+Pentwater MI PD
+Peoria County IL SO
+Peoria IL PD
+Peotone IL PD
+Perkins Township OH PD
+Perry County OH SO
+Perrysburg OH PD
+Perrysburg Twp OH PD
+Peru IN PD
+Petersburg IL PD
+Pierce Township OH PD
+Pike County IL SO
+Pittsboro IN PD
+Pittsfield Twp MI PD
+Plainfield IL PD
+Plainfield IN PD
+Plover WI PD
+Plymouth MI PD
+Plymouth PD IN
+Plymouth Township MI PD
+Plymouth WI PD
+Pokagon Tribal MI PD
+Port Clinton OH PD
+Port Edwards WI PD
+Port Huron MI PD
+Portage County WI SO
+Portage IN PD
+Portage MI PD
+Porter County IN SO
+Porter IN PD
+Posen IL PD
+Posey County IN SO
+Powell OH PD
+Prairie Du Chien WI PD
+Prairie Grove IL PD
+Princeton IL PD
+Pulaski County IN SO
+Purdue University IN PD
+Quincy IL PD
+Racine County WI Communications Center
+Racine WI PD
+Rantoul IL PD
+Reading OH PD
+Redford Twp MI PD
+Richfield OH PD
+Richland County WI SO
+Richland Village MI PD
+Ripon WI PD
+River Falls WI PD
+River Grove IL PD
+River Rouge MI PD
+Riverdale IL PD
+Riverside IL PD
+Riverton IL PD
+Robinson IL PD
+Rock County WI SO
+Rock Falls IL PD
+Rock Island County IL SO
+Rock Island IL PD
+Rockdale IL PD
+Rockford Dept of Public Safety MI
+Rockford IL PD
+Rockport IN PD
+Rocky River OH PD
+Rolling Meadows IL PD
+Romeoville IL PD
+Romulus MI PD
+Roselle IL PD
+Rosemont IL PD
+Roseville MI PD
+Ross Township OH PD
+Rossford OH PD
+Rossville IL PD
+Rossville IN PD
+Round Lake Park IL PD
+Round Rock TX PD
+Royal Oak MI PD
+Rush County IN SO
+Sachse TX PD
+Saginaw MI PD
+Saginaw Township MI PD
+Saginaw Valley State University MI PD
+Saint Clair Shores MI PD
+Saint Croix Falls WI PD
+Saint Francis WI PD
+Salem IL PD
+Salem OH PD
+Saline County IL SO
+Sandusky County SO OH
+Sandusky OH PD
+Sangamon County IL SO
+Santa Claus IN PD
+Sauk County WI SO
+Sauk Prairie WI PD
+Sauk Village IL PD
+Savanna IL PD
+Schoolcraft College MI PD
+Schuyler Co. IL SO
+Scurry County TX SO
+Seguin TX PD
+Seymour IN PD
+Sharonville OH PD
+Sheboygan WI PD
+Shelby County IL SO
+Shelby Township MI PD
+Shelbyville IN PD
+Sheridan IN PD
+Sherman IL PD
+Shiloh IL PD
+Shorewood IL PD
+Sidney OH PD
+Silver Lake PD IN
+Skokie IL PD
+Slinger WI PD
+Solon OH PD
+South Barrington IL PD
+South Bend IN Airport Transit PD
+South Bend IN PD
+South Elgin IL PD
+South Euclid OH PD
+South Lyon MI PD
+South Milwaukee WI PD
+South Russell OH PD
+Southern Illinois University IL PD
+Southern View IL PD
+Southfield MI PD
+Speedway IN PD
+Spencer County IN SO
+Spring Arbor MI PD
+Spring Valley IL PD
+Springboro OH PD
+Springdale OH PD
+Springfield OH PD
+Springport Twp MI PD
+St. Charles IL PD
+St. Clair County MI SO
+St. Clair MI PD
+St. Joseph County SO IN
+St. Joseph Department of Public Safety MI
+Starke County IN SO
+Steger IL PD
+Sterling Heights MI PD
+Sterling IL PD
+Stevens Point WI PD
+Stow OH PD
+Strongsville OH PD
+Struthers OH PD
+Sturgis MI PD
+Sullivan IL PD
+Sullivan County IN SO
+Summit County OH SO
+Summit IL PD
+Sumpter Twp MI PD
+Superior WI PD
+Sylvania OH PD
+Sylvania Township OH PD
+Tallmadge OH PD
+Taylor MI PD
+Tazewell County IL SO
+Tell City IN PD
+Terre Haute IN PD
+Texas Department of Criminal Justice
+The Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MI
+Three Rivers MI PD
+Tinley Park IL PD
+Tipp City OH PD
+Tippecanoe County IN SO
+Toledo OH PD
+Tomah WI PD
+Toronto OH PD
+Traverse City MI PD
+Trenton OH PD
+Trenton PD MI
+Troy MI PD
+Troy OH PD
+Tuscarawas County OH SO
+Tuscola County MI SO
+Twinsburg OH PD
+Two Rivers WI PD
+TX - Vidor PD
+Union Township PD (Clermont Co) - OH
+University Circle OH PD
+University of Illinois - Chicago IL PD
+University of Illinois Urbana-Champaign IL PD
+University of Illinois- Springfield
+University of Michigan Ann Arbor Campus MI PD
+University of Michigan Dearborn Campus MI PD
+University of Notre Dame PD (IN)
+University of Wisconsin - Green Bay WI PD
+University of Wisconsin - Madison WI PD
+Urbana OH PD
+Utica MI PD
+Utica OH PD
+Valparaiso IN PD
+Van Buren MI PD
+Van Wert OH PD
+Vandalia IL PD
+Vandalia OH PD
+Vanderburgh County IN SO
+Vermillion County IN SO
+Vernon County WI SO
+Vernon Hills IL PD
+Vicksburg MI PD
+Vienna IL PD
+Vigo County IN SO
+Villa Park IL PD
+Village of Dundee MI PD
+Village of Fox Crossing WI PD
+Village of French Island WI PD
+Village of Manhattan IL PD
+Village of Mukwonago WI PD
+Village of Pingree Grove IL PD
+Village of Turtle Lake WI PD
+Vincennes IN PD
+Virden IL PD
+Wabash County IN SO
+Wabash IN PD
+Wadsworth OH PD
+Wakarusa IN PD
+Walker MI PD
+Walled Lake MI PD
+Walworth County WI SO
+Wapakoneta OH PD
+Warren County OH SO
+Warren MI PD
+Warrensville Heights OH PD
+Warrenville IL PD
+Warrick County IN SO
+Washburn County WI SO
+Washington County IN SO
+Washington County OH SO
+Washington County WI SO
+Washington IL PD
+Waterford Township MI PD
+Waterville OH PD
+Wauconda IL PD
+Waukegan IL PD
+Waukesha County WI SO
+Waukesha WI PD
+Waupaca County WI SO
+Waushara County WI SO
+Wayland MI PD
+Wayne County Airport Authority MI
+Wayne IL PD
+Wells County IN SO
+West Allis WI PD
+West Bend WI PD
+West Bloomfield Twp MI PD
+West Central Consolidated Communications IL PD
+West Chester OH PD
+West Chicago IL PD
+West City IL PD
+West Lafayette IN PD
+West Milton OH PD
+West Terre Haute IN PD
+Westchester IL PD
+Western Michigan University MI PD
+Westfield IN PD
+Westlake OH PD
+Westland MI PD
+Westmont IL PD
+Wheaton IL PD
+Wheeling IL PD
+White County IL SO
+White County IN SO
+White Lake Twp MI PD
+Whitehall MI PD
+Whitehall OH PD
+Whitestown IN PD
+Whitewater WI PD
+Whitley County IN Prosector
+WI Department of Justice
+Wichita Falls TX PD
+Wickliffe OH PD
+Will County IL SO
+Williamson Co. IL SO
+Willoughby Hills OH PD
+Willoughby OH PD
+Willow Springs IL PD
+Willowbrook IL PD
+Wilmette IL PD
+Wilmington OH PD
+Winchester IN PD
+Windsor- IL- PD
+Winnebago County IL SO
+Winnebago County WI SO
+Wintersville OH PD
+Wisconsin State Capitol Police (WI)
+Wixom MI PD
+Wolverine Lake MI PD
+Wonder Lake IL PD
+Wood Dale IL PD
+Woodford County IL SO
+Woodhaven MI PD
+Woodlawn OH PD
+Woodridge IL PD
+Woodstock IL PD
+Wyandot County OH SO
+Wyandotte MI PD
+Wyoming MI PD
+Wyoming OH PD
+Youngstown OH PD
+Zanesville OH PD
+Zeeland MI PD
+Zionsville IN PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Holland MI PD.
+
+Germantown OH PD
+IN - West Baden Springs PD
+[Federal] Indiana Dunes National Park IN PD
+[Federal] Roudebush Medical Center IN Veterans Affairs PD
+[Federal] Tennessee Valley Authority Police
+[Federal] US Postal Inspection Service
+[Federal] Wright Patterson OH Air Force Base
+Adams County IL SO
+Adams County IN SO
+Addison IL PD
+Adrian MI PD
+Akron OH PD
+AL - Andalusia PD
+AL - Autauga County SO
+AL - Sylacauga PD
+AL - Wallace State Community College
+AL- Clarke County SO
+Alabama Law Enforcement Agency (ALEA)
+Alabaster AL PD
+Alachua FL PD
+Albion MI DPS
+Alcoa TN PD
+Alexandria IN PD
+Algood TN PD
+Allegan County SO MI
+Allen County IN SO
+Allen TX PD
+Almont MI PD
+Alpena County MI SO
+Altoona IA PD
+Amberley Village OH PD
+Amherst OH PD
+Anchorage KY PD
+Anderson County TN SO
+Anderson IN PD
+Angleton PD TX
+Ankeny IA PD
+Anoka County MN SO
+Anthony TX PD
+Antigo WI PD
+Antrim County SO MI
+Arcola IL PD
+Arcola TX PD
+Ardmore AL PD
+Arlington TX PD
+Armada MI PD
+Arnold MO PD
+Arthur IL PD
+Ashland City TN PD
+Ashland County OH SO
+Ashland County WI SO
+Ashland OH PD
+Ashland WI PD
+Ashtabula County OH SO
+Ashville AL PD
+Athens County OH SO
+Athens IL PD
+Aubrey TX PD
+Auburn Hills MI PD
+Auburn IN PD
+Auburn NY PD
+Audrain County MO SO
+Audubon Park KY PD
+Auglaize County OH SO
+Austin County TX SO
+Aviston IL PD
+Avon IN PD
+Baker County FL SO
+Baldwin County GA SO
+Baldwinsville Central School District Inc NY
+Barberton OH PD
+Bardstown PD KY
+Bargersville IN PD
+Barron County WI SO
+Bartholomew County IN SO
+Batavia OH PD
+Battle Creek MI PD
+Baylor Scott & White PD (TX)
+Baytown TX PD
+Beaumont TX PD
+Bedford OH PD
+Beech Grove IN PD
+Bellville TX PD
+Belpre OH PD
+Belvidere IL PD
+Berea OH PD
+Berkley Dept of Public Safety MI
+Berrien County MI SO
+Bessemer AL PD
+Beverly Hills MI PD
+Bexley OH PD
+Big Spring PD TX
+Birmingham MI PD
+Blackman/Leoni Public Safety MI
+Bloomfield Twp MI PD
+Blount County TN SO
+Blountsville AL PD
+Blue Springs MO PD
+Boardman Township OH PD
+Bogata TX PD
+Bolingbrook IL PD
+Bond County IL SO
+Boone County IL SO
+Boone County IN SO
+Bosque County TX SO
+Bourbonnais IL PD
+Bowling Green KY PD
+Bowling Green Warren County Drug Task Force KY
+Bradford County FL SO
+Bradley IL PD
+Braidwood IL PD
+Brecksville OH PD
+Breese IL PD
+Bremen IN PD
+Brent AL PD
+Brentwood MO PD
+Brevard County FL SO
+Bridgeport Township MI PD
+Bristol IN PD
+Broadview Heights OH PD
+Brook Park OH PD
+Brookfield WI PD
+Brookville OH PD
+Broward County FL SO
+Brown County SO IN
+Brown Deer WI PD
+Brownsburg IN PD
+Brownstown Twp PD MI
+Brunswick OH PD
+Buchanan County MO SO
+Buffalo State University NY PD
+Bullitt County KY SO
+Bureau Co. IL SO
+Burnett County WI SO
+Burr Ridge IL PD
+Burton MI PD
+Butler IN PD
+Butler Township OH PD
+Cactus TX PD
+Caldwell CO TX SO
+Caldwell County TX Constable's Pct 2
+Calhoun County AL SO
+Calhoun County MI SO
+Calloway County KY SO
+Calumet Park IL PD
+Cambridge City IN PD
+Canton IL PD
+Canton OH PD
+Cape Girardeau MO PD
+Carlyle IL PD
+Carmel IN PD
+Carroll County OH SO
+Carson City NV SO
+Carterville IL PD
+Cary IL PD
+Casey IL PD
+Cass County IN SO
+Cass County MI SO
+Castle Hills TX PD
+Castroville TX PD
+Cedar Lake IN PD
+Celina TX PD
+Centerville OH PD
+Centralia IL PD
+Chambers County AL SO
+Chambers County TX SO
+Charleston IL PD
+Charleston MO DPS
+Charlestown PD IN
+Charlotte MI PD
+Charter Township of Buena Vista MI PD
+Chatham IL PD
+Cheatham County TN SO
+Chenoa IL PD
+Cherokee County AL SO
+Chester Township OH PD
+Chesterfield MO PD
+Chesterfield PD IN
+Chesterfield Twp MI PD
+Chesterton IN PD
+Chetek WI PD
+Cheviot OH PD
+Chippewa PA PD
+Cicero IN PD
+City of Delavan WI PD
+City of Hurstbourne (KY)
+City of Oak Ridge North TX PD
+City of West TX PD
+Claiborne County TN SO
+Clark Co. IL Sheriff's Dept.
+Clark County IN SO
+Clark County OH SO
+Clark-Pleasant Police Department - IN PD
+Clarksville IN PD
+Clawson MI PD
+Clay County MO SO
+Clayton County GA PD
+Clayton Township PD MI
+Clear Lake WI PD
+Clearwater FL PD
+Cleveland Metro Parks OH PD
+Clinton County MI SO
+Clinton TN PD
+Clinton Township MI PD
+Clio MI PD
+Coastal Bend College Campus PD
+Cobb County GA PD
+Cocke County TN SO
+Cocoa Beach FL PD
+Cocoa FL PD
+Coconut Creek FL PD
+Coldwater MI PD
+Colerain Township PD - OH
+Coles County IL SO
+College Park GA PD
+Columbia County FL SO
+Columbus IN PD
+Columbus WI PD
+Community Health PD IN
+Cooke County TX SO
+Cookeville TN PD
+Copley Township OH PD
+Coral Springs FL PD
+Cottage Grove WI PD
+Cottleville MO PD
+Covert Township PD MI
+Covington County AL SO
+Crainville IL PD
+Crawford County IL SO
+Crawford County IN SO
+Crawford County WI SO
+Crawfordsville IN PD
+Crest Hill IL PD
+Crestview FL PD
+Creve Coeur IL PD
+Creve Coeur MO PD
+Crossville TN PD
+Crowell TX PD
+Crowley TX PD
+Crown Point IN PD
+Crystal City MO PD
+Crystal Lake IL PD
+CSX Railroad PD
+Cullman County AL SO
+Cumberland Metro IN PD
+Cumberland WI PD
+Cumby TX PD
+Cuyahoga Falls OH PD
+Cuyahoga Heights OH PD
+CVG Airport KY PD
+Cypress Fairbanks ISD (TX) PD
+Dadeville AL PD
+Dale County AL SO
+Dandridge TN PD
+Danville IN PD
+Danville KY PD
+Daphne AL PD
+Davenport FL PD
+Davenport IA PD
+Davie FL PD
+Davison Township MI PD
+Dayton IN PD
+Daytona Beach Shores FL PD
+Dearborn County IN SO
+Dearborn Heights MI PD
+Decatur AL PD
+Decatur County IN SO
+Decatur IN PD
+Deer Park OH PD
+Deer Park TX PD
+Defiance County OH SO
+Delaware County IN SO
+Delaware County OH SO
+Delhi Twp OH PD
+Delphi IN PD
+Denton County TX SO
+Des Peres MO DPS
+DeSoto TX PD
+DFW Airport PD TX
+Dickinson County MI SO
+Dickinson TX PD
+Dickson TN PD
+Dodge County WI SO
+Dolton IL PD
+Dothan AL PD
+Douglas County IL SO
+Douglas County NV SO
+Dubois County IN SO
+Dumas TX PD
+DuPage County IL SO
+Dyer County TN SO
+Dyersburg TN PD
+East Lansing MI PD
+East Peoria IL PD
+East Tawakoni TX PD
+Eastlake OH PD
+Eastpointe MI PD
+Eaton Rapids MI PD
+Eau Claire County WI SO
+Ecorse MI PD
+Ector County TX SO
+Edinburg TX PD
+Edinburgh IN PD
+Edmundson MO PD
+El Paso IL PD
+Elizabethtown KY PD
+Elk Rapids MI PD
+Elkhart County IN SO
+Elkhart PD IN
+Ellettsville IN PD
+Elm Grove WI PD
+Elm Ridge TX PD
+Elmore OH PD
+Elwood IN PD
+Elyria OH PD
+Englewood OH PD
+Enon OH PD
+Erath County TX SO
+Erie County NY SO
+Erie County OH SO
+Erwin TN PD
+Escambia County FL SO
+Etowah County AL SO
+Eufaula AL PD
+Euless TX PD
+Eureka MO PD
+Evansville IN PD
+Fairfax OH PD
+Fairfield PD - OH
+Fairfield Township OH PD
+Fairlawn OH PD
+Fairmount IN PD
+Falfurrias TX PD
+Farmer City IL PD
+Farmersville TX PD
+Farmington Hills MI PD
+Farmington MI DPS
+Farmington MO PD
+Fayette County TN SO
+Fenton MI PD
+Ferdinand IN PD
+Ferguson MO PD
+Ferndale MI PD [INACTIVE]
+Festus MO PD
+Fish and Wildlife Commission FL PD
+Fishers IN PD
+Flat Rock MI PD
+Flint MI PD
+Flint Township MI PD
+Flock Safety Training
+Flora- IL - PD
+Florence AL PD
+Florence Co. WI SO
+Florence KY PD
+Florida Atlantic University FL PD
+Florida City FL PD
+Florissant MO PD
+Floyd County IN SO
+Flushing City MI PD
+Foley AL PD
+Forest Park OH PD
+Fort Bend County Const TX Pct 4
+Fort Loramie OH PD
+Fort Stockton TX PD
+Fort Walton Beach FL PD
+Fort Worth TX PD
+Fortville IN PD
+Frankenmuth MI PD - New Business
+Franklin County AL SO
+Franklin County IL SO
+Franklin County MO SO
+Franklin IN PD
+Franklin WI PD
+Franklin-Bingham Farms MI PD
+Fraser MI DPS
+Fremont OH PD
+Friendswood TX PD
+Fruitland Park FL PD
+Fruitport Township MI PD
+Fulshear TX PD
+Fulton County IN SO
+Fulton IL PD
+Fulton MO PD
+Fultondale AL PD
+Gahanna OH PD
+Gainesville FL PD
+Galena Park ISD TX PD
+Galesburg IL PD
+Galveston County TX SO
+Galveston TX PD
+Garden City MI PD
+Gardendale AL PD
+Garfield Heights OH PD
+Garrard County KY SO
+Gary IN PD
+Gas City IN PD
+Gaylord MI PD
+Geauga County OH SO
+Geddes Town NY PD
+Genesee County MI SO
+Georgetown IL PD
+Georgetown IN PD
+Glades County FL SO
+Glasgow KY PD
+Glendale OH PD
+Glenwood IL PD
+Gogebic County MI SO
+Golf Manor OH PD
+Goshen IN PD
+Grand Beach/Michiana MI PD
+Grand Blanc Twp MI PD
+Grand Haven MI DPS
+Grand Rapids MI PD
+Grand Traverse County MI SO
+Grand Valley State University MI
+Grandville PD MI
+Grant County IN SO
+Grant County WI SO
+Gray County TX SO
+Grayslake IL PD
+Grayson County TX SO
+Green Township OH PD
+Greenbrier TN PD
+Greencastle IN PD
+Greendale IN PD
+Greene County IN Prosecutors
+Greene County OH SO
+Greenfield IN PD
+Greenfield WI PD
+Greensburg IN PD
+Greenville AL PD
+Greenwood IN PD
+Greenwood Independent School District TX
+Griffith IN PD
+Grosse Ile MI PD
+Groveport OH PD
+Grundy County IL SO
+Guadalupe County TX SO
+Guernsey County OH SO
+Gulf Breeze FL PD
+Gun Lake Tribal PD MI
+Guntersville AL PD
+Hackleburg AL PD
+Hamblen County TN SO
+Hamburg Town NY PD
+Hamburg Village NY PD
+Hamilton AL PD
+Hamilton County IN SO
+Hamtramck MI PD
+Hancock County IN SO
+Hannibal MO PD
+Hanover IN PD
+Hanover Park IL PD
+Hardin County KY SO
+Hardin County OH SO
+Harris County Const TX Pct 1
+Harris County Const TX Pct 4
+Harris County Const TX Pct 5
+Harris County TX SO
+Harrison County IN SO
+Hartland WI PD
+Hartselle AL PD
+Harvey IL PD
+Harwood Heights IL PD
+Havana FL PD
+Hayden AL PD
+Hazel Crest IL PD
+Hazel Park MI PD
+Hazelwood MO PD
+Heart of Texas Auto Theft Task Force
+Hebron IN PD
+Henderson County KY SO
+Henderson KY PD
+Henderson TX PD
+Hendersonville TN PD
+Hendry County FL SO
+Henry County IN SO
+Henry County OH SO
+Heritage Creek KY PD
+Hermitage PA PD
+Herrin IL PD
+Hickory Creek TX PD
+Hickory Hills IL PD
+Hidalgo County TX SO
+Higginsville MO PD
+High Springs FL PD
+Highland IN PD
+Highland Park MI PD
+Hilliard OH PD
+Hillsborough County FL SO
+Hinckley IL PD
+Hobart IN PD
+Holland MI PD
+Holly Hill FL PD
+Holmen WI PD
+Holmes County FL SO
+Homewood AL PD
+Homewood IL PD
+Hoopeston IL PD
+Hoover AL PD
+Hope IN PD
+Hopkinsville KY PD
+Horizon TX PD
+Houston Housing Authority TX
+Houston TX PD
+Howard County IN SO
+Huber Heights OH PD
+Hudson WI PD
+Hueytown AL PD
+Huffman ISD TX PD
+Hume PD IL
+Huntington IN PD
+Huntsville AL PD
+Huron Township MI PD
+Hurst TX PD
+Hutchins TX PD
+IA - Eldridge PD
+IA - Storm Lake PD
+Illinois Attorney General
+IN - Angola PD
+IN - Jasonville PD
+IN - Noble County Prosecutors
+Indian Hill OH PD
+Indian Hills KY PD
+Indian River County FL SO
+Indian River Shores FL PD
+Indiana Department of Corrections
+Indiana Department of Natural Resources
+Indiana State Police IN PD
+Indianapolis International Airport IN PD
+Indianapolis Metro PD IN
+Ingalls IN PD
+Inkster MI PD
+Iowa Department of Corrections
+Iowa State University IA PD
+Ironwood PSD MI
+Iroquois IL SO
+Irving TX PD
+Itasca IL PD
+Jack County TX SO
+Jackson AL PD
+Jackson County IN SO
+Jackson County MI SO
+Jackson MI PD
+Jacksonville Beach FL PD
+Jacksonville FL SO
+Jasper AL PD
+Jasper CO IL SO
+Jasper County IN SO
+Jasper IN PD
+Jefferson City MO PD
+Jefferson City TN PD
+Jefferson County KY SO
+Jefferson County MO SO
+Jefferson County OH SO
+Jefferson County TN SO
+Jeffersontown KY PD
+Jemison AL PD
+Jennings County IN SO
+Johnsburg IL PD
+Johnson County IN SO
+Johnson County TN SO
+Johnson County TX SO
+Johnston City IL PD
+Joliet IL PD
+Juneau County WI SO
+Kalamazoo County MI SO
+Kalamazoo Township MI PD
+Kane County Forest Preserve IL PD
+Kankakee County IL SO
+Kaufman TX PD
+Kellogg Community College Campus MI PD
+Kenmore Village NY PD
+Kenosha County WI SO
+Kent County MI SO
+Kentwood MI PD
+Killeen TX PD
+Kingsford Heights IN PD
+Kingston Springs TN PD
+Kingston TN PD
+Kleberg TX County Attorney's Task Force
+Knox County IL SO
+Knox County IN SO
+Knox County TN SO
+Knoxville TN PD [Inactive]
+Kokomo IN PD
+La Grange Park IL PD
+La Porte TX PD
+Lackawanna City NY PD
+Lafayette IN PD
+Lafayette TN PD
+LaGrange County SO IN
+LaGrange IN PD
+LaGrange KY PD
+Lake City FL PD
+Lake County OH SO
+Lake Delton WI PD
+Lakeland FL PD
+Lakemore OH PD
+Lakeside Park-Crestview Hills KY PD
+Lakewood OH PD
+Lancaster TX PD
+Lansing IL PD
+Lantana FL PD
+Lapeer City MI PD
+Lapel IN PD
+Laporte County IN SO
+Laporte IN PD
+Largo FL PD
+Las Vegas Metro Police Department - NV
+LaSalle Co. IL SO - New
+Lasalle IL PD
+Lathrup Village MI PD
+Lauderdale County AL SO
+Lavon TX PD
+Lawrence County IN SO
+Lawrence District Attorney PA
+Lawrence IN PD
+Lebanon TN PD
+Lee County AL SO
+Lee County IL SO
+Leeds AL PD
+Leesburg AL PD
+Lenawee County MI SO
+Lenoir City TN PD
+Leon County Sheriffs Office (FL)
+Lexington KY PD
+Liberty County FL SO
+Liberty Hill TX PD
+Liberty MO PD
+Licking County OH SO
+Ligonier IN PD
+Lima OH PD
+Lincoln AL PD
+Lincoln Park MI PD
+Lindale TX PD
+Linden IN PD
+Lineville AL PD
+Lithopolis OH PD
+Little Traverse Bay Band of Odawa Indians MI PD
+Live Oak FL PD
+Live Oak TX PD
+Livingston County IL SO
+Livingston County MI SO
+Livingston TX PD
+Livonia MI PD
+Lockland OH PD
+Lodi OH PD
+Lodi WI PD
+Logan County KY SO
+Logansport IN PD
+Long Beach IN PD
+Lorain County OH SO
+Loudon TN PD
+Louisville Airport PD
+Louisville Metro KY PD
+Louisville OH PD
+Loveland OH PD
+Lowe's Corporation
+Lowell MI PD
+Lubbock County TX SO
+Lucas County OH SO
+Lufkin TX PD
+Luling TX PD
+Lyndhurst OH PD
+Lyons IL PD
+Mabank TX PD
+Mackinaw IL PD
+Macomb County MI SO
+Macomb IL PD
+Macon County AL SO
+Madison County AL SO
+Madison County IN SO
+Madison Heights MI PD
+Madisonville KY PD
+Mahoning Twp PA PD
+Mahoning Valley Law Enforcement TF (OH)
+Manchester MO PD
+Mansfield OH PD
+Mansfield TX PD
+Maple Heights OH PD
+Maplewood MO PD
+Marathon County WI SO
+Marble Falls TX PD
+Margate FL PD
+Marianna FL PD
+Marinette County SO (WI)
+Marion County IN SO
+Marion County OH SO
+Marion County WV SO
+Marion Health PD (IN)
+Marion IL PD
+Marion IN PD
+Markle IN PD
+Marquette County MI SO
+Marshall County AL SO
+Marshall County Prosecutor’s Office IN
+Marshall TX PD
+Marshall WI PD
+Marshalltown IA PD
+Martin County FL SO
+Martins Ferry OH PD
+Martinsville IN PD
+Maryland Heights MO PD
+Marysville MI PD
+Marysville OH PD
+Maryville TN PD
+Mason PD - OH
+Matteson IL PD
+Mattoon IL PD
+Maumee OH PD
+Mauston WI PD
+McCracken County KY SO
+McKinney TX PD
+McMinnville TN PD
+Meadows Place TX PD
+Medina County OH SO
+Medina Township OH PD
+Melvindale MI PD
+Menasha WI PD
+Menominee County SO MI
+Menomonee Falls WI PD
+Mentor OH PD
+Mercer County OH SO
+Mesquite TX PD
+Metamora IL PD
+Metamora Township MI PD
+Metro Police Authority of Genesee County MI
+Metropolis IL PD
+MI - Riverview PD
+MI - Saginaw County SO
+MI - Village of Middleville
+Miami County OH SO
+Miami Gardens FL PD
+Miami-Dade FL SO
+Miamisburg OH PD
+Michigan City IN PD
+Michigan Department of Natural Resources
+Michigan State Police
+Middle Tennessee State TN PD
+Middlebury IN PD
+Middletown KY PD
+Midland County TX SO
+Midlothian IL PD
+Milan MI PD
+Milan TN PD
+Milford MI PD
+Milltown IN PD
+Milton GA PD
+Milton IN PD
+Mineral Area Drug Task Force MO
+Mineral County NV SO
+Minster OH PD
+Miramar FL PD
+Missouri City TX PD
+Missouri Department of Conservation
+Missouri Department of Public Safety
+Mogadore OH PD
+Monahans TX PD
+Monmouth IL PD
+Monon IN PD
+Monroe County IN SO
+Monroe County MI SO
+Monroe County WI SO
+Monroe GA PD
+Monroe MI PD
+Monroeville OH PD
+Monterey TN PD
+Montevallo AL PD
+Montezuma IN PD
+Montgomery County Constable
+Precinct 3 (TX)
+Montgomery County Constable
+Precinct 4 (TX)
+Montgomery County TN SO
+Montgomery County TX SO
+Monticello IL PD
+Monticello IN PD
+Moody AL PD
+Moore County TX SO
+Mooresville IN PD
+Moraine OH PD
+Morehead KY PD
+Morgan County AL SO
+Morgan County IN SO
+Morgan County TN SO
+Morrison IL PD
+Morristown TN PD
+Morton Grove IL PD
+Mount Dora FL PD
+Mount Morris Township PD MI
+Mount Pleasant WI PD
+Mount Vernon IN PD
+Mount Vernon OH PD
+Mountain Brook AL PD
+Mountain City TN PD
+Mt. Washington KY PD
+Mt. Zion IL PD
+Muncie IN PD
+Murphysboro IL PD
+Muscle Shoals AL PD
+Muskego WI PD
+Muskegon County MI SO
+Muskegon Heights MI PD
+Muskegon MI PD
+Muskegon Township MI PD (Muskegon County)
+Napoleon OH PD
+Napoleon Twp MI PD
+Nappanee IN PD
+Nekoosa WI PD
+Nelson County KY SO
+New Albany IN PD
+New Baden IL PD
+New Baltimore MI PD
+New Berlin TX Marshal's Office [Inactive]
+New Bremen OH PD
+New Castle IN PD
+New Chicago IN PD
+New Haven IN PD
+New Knoxville OH PD
+New Lenox IL PD
+New London OH PD
+New Paris OH PD
+Newark OH PD
+Newburgh Heights OH PD
+Newport TN PD
+Niagara County NY SO
+Niceville FL PD
+Nicholasville KY PD
+NICTD - IN PD
+Niles OH PD
+Noblesville IN PD
+Nolanville TX PD
+Nolensville TN PD
+North Canton OH PD
+North County Cooperative MO PD
+North Muskegon MI PD
+North Richland Hills TX PD
+North Ridgeville OH PD
+North Royalton OH PD
+Northbrook IL PD
+Northfield KY PD
+Northport AL PD
+Northville Twp MI PD
+Norton Shores MI PD
+Norwood OH PD
+Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
+Novi MI PD
+Oak Creek WI PD
+Oak Grove MO PD
+Oak Lawn IL PD
+Oak Park MI Dept of Public Safety
+Oak Point TX PD
+Oak Ridge TN PD
+Oakbrook Terrace IL PD
+Oakland County MI SO
+Oakland TN PD
+Oakwood Village OH PD (Cuyahoga)
+Oceana County MI SO
+Odessa MO PD
+Ogle County IL SO
+OH - Chillicothe PD
+OH - Highland County SO
+OH - Jefferson County Drug Task Force
+OH - Johnny Appleseed Metropolitan Park District PD
+OH - Mariemont PD
+OH - Metroparks Toledo
+OH - Milford PD
+OH - Oakwood PD
+OH - Sabina PD
+OH - South Bloomfield PD
+OH - U.S.23 Major Crimes Task Force
+OH - Willard PD
+OH - Williamsburg PD
+OH- Springfield Township PD (Hamilton Co)
+Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
+Ohio State Fire Marshal
+Okeechobee County FL SO
+Oldham County KY PD
+Olmsted Falls OH PD
+Olmsted Township OH PD
+Onalaska TX PD
+Ontonagon County MI SO
+Oolitic Marshal’s Office
+Opelika AL PD
+Orange Beach AL PD
+Orange County FL SO
+Oregon OH PD
+Orland Hills IL PD
+Orlando FL PD
+Osage Beach MO PD
+Osceola County FL SO
+Osceola WI PD
+Ottawa County MI SO
+Ottawa County OH SO
+Ottawa IL PD
+Overland MO PD
+Owen County IN SO
+Owensboro KY PD
+Oxford AL PD
+Paducah KY PD
+Palestine TX PD
+Palm Beach County FL SO
+Palmyra MO PD
+Palos Hills IL PD
+Paoli IN PD
+Paris IL PD
+Paris KY PD
+Paris TN PD
+Paris TX PD
+Park Forest IL PD
+Park Hills MO PD
+Parke County IN SO
+Parma Heights OH PD
+Parma OH PD
+Paulding County OH SO
+Pell City AL PD
+Pensacola FL PD
+Pentwater MI PD
+Peoria IL PD
+Peotone IL PD
+Perkins Township OH PD
+Perry County IN SO
+Perry County MO SO
+Perrysburg OH PD
+Perrysburg Twp OH PD
+Peru IL PD
+Peru IN PD
+Pharr TX PD
+Phelps County MO SO
+Phenix City AL PD
+Pierce Township OH PD
+Pinellas County FL SO
+Pinellas Park FL PD
+Pittsboro IN PD
+Pittsfield IL PD
+Plainfield IL PD
+Plainfield IN PD
+Plainview TN PD
+Pleasant Prairie WI PD
+Plover WI PD
+Plymouth MI PD
+Plymouth PD IN
+Plymouth Township MI PD
+Plymouth WI PD
+Pocahontas IL PD [Inactive]
+Pokagon Tribal MI PD
+Poland Township OH PD
+Polk County FL SO
+Polk County TX SO
+Ponder TX PD
+Port Clinton OH PD
+Port Huron MI PD
+Portage IN PD
+Portage MI PD
+Portage WI PD
+Porter County IN SO
+Porter IN PD
+Posen IL PD
+Posey County IN SO
+Powell OH PD
+Prairie Du Chien WI PD
+Prairie Grove IL PD
+Prattville AL PD
+Preble County OH SO
+Princeton IN PD
+Prospect PD KY
+Prosper TX PD
+Pulaski County IN SO
+Purdue University IN PD
+Putnam County IN SO
+Putnam County TN SO
+Quincy IL PD
+Racine WI PD
+Radcliff KY PD
+Ralls County MO SO
+Reading OH PD
+Reagan County TX SO
+Red Oak PD TX
+Red River TX SO
+Redford Twp MI PD
+Reedsburg WI PD
+Reeves CO TX SO
+Regional Vehicle Burglary Suppression Taskforce TX
+Reno NV PD
+Reno TX PD
+Richfield OH PD
+Richland County SC SO
+Richland County WI SO
+Richland Village MI PD
+Richmond Heights MO PD
+Richmond TX PD
+Ridgeland MS PD
+RIG WI DTF
+River Falls WI PD
+Riverdale IL PD
+Riverside PD - OH
+Riverton IL PD
+Riviera Beach FL PD
+Robertson County TN SO
+Robinson IL PD
+Robstown TX PD
+Rock Hill SC PD
+Rockdale IL PD
+Rockford Dept of Public Safety MI
+Rockwall County TX SO
+Rockwood TN PD
+Rocky River OH PD
+Roman Forest TX PD
+Rome WI PD
+Romulus MI PD
+Roseland IN PD
+Roseville MI PD
+Ross Township OH PD
+Ross Township PA PD
+Rossford OH PD
+Round Lake Beach IL PD
+Round Rock TX PD
+Royal Oak MI PD
+Rush County IN SO
+Rusk CO TX SO
+Russell County AL SO
+Russellville AL PD
+Rutledge TN PD
+Saginaw MI PD
+Saint Clair Shores MI PD
+Saint Croix Falls WI PD
+Salem OH PD
+Saline County IL SO
+Sangamon County IL SO
+Santa Rosa County FL SO
+Sarasota FL PD
+Sauk County WI SO
+Sauk Prairie WI PD
+Sauk Village IL PD
+Sawyer County WI SO
+Schertz TX PD
+Schoolcraft College MI PD
+Schuyler Co. IL SO
+Scott City MO PD
+Scott County IN SO
+Scott County KY SO
+Scottsboro AL PD
+Scottsville KY PD
+Scurry County TX SO
+Seguin TX PD
+SEMO Drug Task Force MO
+Sevier County TN SO
+Sevierville TN PD
+Seymour IN PD
+Sharonville OH PD
+Sheboygan WI PD
+Shelby County AL SO
+Shelby County IL SO
+Shelby County IN SO
+Shelby County KY SO
+Shelby County TN SO
+Shelby Township MI PD
+Shelbyville IN PD
+Shepherdsville KY PD
+Shorewood IL PD
+Sidney OH PD
+Sikeston MO DPS
+Slinger WI PD
+Smith County TX SO
+Smyrna TN PD
+Snead AL PD
+Snyder TX PD
+Solon OH PD
+Sour Lake TX PD
+South Bend IN Airport Transit PD
+South Bend IN PD
+South Central OH Major Crimes Unit
+South Miami FL PD
+South Plains Auto Theft Task Force TX
+South Sioux City NE PD
+Southern Illinois University IL PD
+Southfield MI PD
+Southgate KY PD
+Southmayd TX PD
+Sparta TN PD
+Sparta WI PD
+Speedway IN PD
+Spencer County IN SO
+Splendora TX PD
+Spring Arbor MI PD
+Spring Hill TN PD
+Spring Valley IL PD
+Springdale OH PD
+Springfield OH PD
+Springfield TN PD
+Springport Twp MI PD
+St John IN PD
+St. Ann MO PD
+St. Augustine FL PD
+St. Charles County MO PD
+St. Clair County MI SO
+St. Clair MI PD
+St. Clairsville OH PD
+St. Cloud FL PD
+St. Francois County MO SO
+St. John MO PD
+St. Joseph County SO IN
+St. Joseph Department of Public Safety MI
+St. Louis County MO PD
+St. Matthews KY PD
+Starke County IN SO
+Ste. Genevieve County MO SO
+Steger IL PD
+Sterling Heights MI PD
+Steubenville OH PD
+Stow OH PD
+Strongsville OH PD
+Struthers OH PD
+Sturgis MI PD
+Sugarcreek Township OH PD
+Sullivan County IN SO
+Summit County OH SO
+Sumpter Twp MI PD
+Sumter County FL SO
+Sunbury OH PD
+Sunset Hills MO PD
+Sylvania OH PD
+Sylvania Township OH PD
+Talladega County AL SO
+Tallahassee Police Department (FL)
+Tarpon Springs FL PD
+Taylor MI PD
+Tell City IN PD
+Temple TX PD
+Terre Haute IN PD
+Texas Department of Criminal Justice
+Texas Financial Crimes Intelligence Center
+Texas Medical Center PD
+The Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MI
+Thomasville AL PD
+Thornton CO PD
+Three Rivers MI PD
+Tilton IL PD
+Tinley Park IL PD
+Tipp City OH PD
+Tippecanoe County IN SO
+Titusville FL PD
+Toledo OH PD
+Tomah WI PD
+Toronto OH PD
+Town & Country MO PD
+Traverse City MI PD
+Treasure Island FL PD
+Trenton IL PD
+Trenton OH PD
+Trenton PD MI
+Trotwood OH PD
+Trousdale County TN SO
+Troy AL PD
+Troy MI PD
+Truesdale MO PD
+Trussville AL PD
+Tuscaloosa AL PD
+Tuscaloosa County AL SO
+Tuscarawas County OH SO
+Tuscola County MI SO
+Twinsburg OH PD
+TX - Cuero PD
+TX - Horseshoe Bay PD
+TX - Krugerville PD
+TX - Mount Enterprise PD
+TX - Riesel PD
+TX - San Saba County SO
+TX - Seymour PD
+TX - Shelby County SO
+TX - Vidor PD
+TX - Young County SO
+Tyler TX PD
+Ulysses KS PD
+Union City TN PD
+Union County KY SO
+Union MO PD
+Union Township PD (Clermont Co) - OH
+University Circle OH PD
+University Heights OH PD
+University of Central Missouri PD
+University of Indianapolis IN PD
+University of Louisville KY PD
+University of Michigan Dearborn Campus MI PD
+University of Notre Dame PD (IN)
+University of South Florida at St. Petersburg FL PD
+University Park IL PD
+UT Southwestern Medical Center TX
+Utica MI PD
+Valparaiso IN PD
+Van Buren MI PD
+Van Wert OH PD
+Vandalia OH PD
+Vanderburgh County IN SO
+Vernon County WI SO
+Vestavia Hills AL PD
+Vicksburg MI PD
+Vienna IL PD
+Vigo County IN SO
+Villa Park IL PD
+Village of Dundee MI PD
+Village of French Island WI PD
+Village of Mukwonago WI PD
+Vincennes IN PD
+Virden IL PD
+Wadsworth OH PD
+Wakarusa IN PD
+Walker MI PD
+Walled Lake MI PD
+Walters State Community College TN Campus PD
+Walworth County WI SO
+Wapakoneta OH PD
+Wapello County IA SO
+Ward County TX SO
+Warren County OH SO
+Warren MI PD
+Warren OH PD
+Warrensville Heights OH PD
+Warrick County IN SO
+Warson Woods MO PD
+Wartburg TN PD
+Washington County IN SO
+Washington County OH SO
+Washington County WI SO
+Washington Island WI PD
+Washington MO PD
+Washoe County NV SO
+Waterford Township MI PD
+Watertown WI PD
+Waterville OH PD
+Wauconda IL PD
+Waukesha County WI SO
+Waukesha WI PD
+Waukon IA PD
+Wauwatosa WI PD
+Wayland MI PD
+Wayne IL PD
+Webster Groves MO PD
+Wells County IN SO
+Wentzville MO PD
+West Allis WI PD
+West Bend WI PD
+West Bloomfield Twp MI PD
+West Buechel KY PD
+West Carrollton OH PD
+West Chester OH PD
+West Chicago IL PD
+West Des Moines IA PD
+West Lafayette IN PD
+West Palm Beach FL PD
+West Tawakoni TX PD
+West Terre Haute IN PD
+Westchester IL PD
+Westfield IN PD
+Westlake OH PD
+Westland MI PD
+Westmont IL PD
+Wheaton IL PD
+White County IN SO
+White House TN PD
+White Lake Twp MI PD
+White Pine TN PD
+Whitehall MI PD
+Whitestown IN PD
+Whitewater WI PD
+Whitley County IN Prosector
+Wichita Falls TX PD
+Williamson Co. IL SO
+Williamson County TN SO
+Willoughby Hills OH PD
+Willoughby OH PD
+Willow Springs IL PD
+Wilmore KY PD
+Wilson County TX SO
+Wilton Manors FL PD
+Winfield AL PD
+Winnebago County IL SO
+Winnebago County WI SO
+Winneconne WI PD
+Wisconsin State Capitol Police (WI)
+Wixom MI PD
+Wolverine Lake MI PD
+Wood County WI SO
+Wood Dale IL PD
+Woodford County IL SO
+Woodhaven MI PD
+Woodlawn OH PD
+Woodson Terrace MO PD
+Woodstock AL PD
+Wooster OH PD
+Wright City MO PD
+Wyandot County OH SO
+Wyandotte MI PD
+Wyoming MI PD
+Wyoming OH PD
+Xenia OH PD
+Youngstown OH PD
+Zanesville OH PD
+Zeeland MI PD
+Zionsville IN PD
+Policy & Trust
+
+What's Detected
+
+License Plates, Vehicles
+
+What's Not Detected
+
+Facial recognition, People, Gender, Race
+
+Acceptable Use Policy
+
+Data is used for law enforcement purposes only. Data is owned by The Holland Department of Public Safety and is never sold to 3rd parties.
+
+Prohibited Uses
+
+Immigration enforcement, traffic enforcement, harassment or intimidation, usage based solely on a protected class (i.e. race, sex, religion), Personal use.
+
+Access Policy
+
+All system access requires a valid reason and is stored indefinitely.
+
+Hotlist Policy
+
+Hotlist hits are required to be human verified prior to action.
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+
+Provided by Flock Safety
