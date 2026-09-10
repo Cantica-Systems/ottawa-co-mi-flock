@@ -5,7 +5,7 @@ Visit Flock
 Holland MI PD
 Transparency Portal
 
-Last updated: Wed Sep 09 2026
+Last updated: Thu Sep 10 2026
 
 Overview
 
@@ -35,6 +35,47 @@ Holland Department of Public Safety News
 
 2026- WEMET detectives were working an extensive narcotics investigation in the Holland area. Numerous arrests were made throughout the investigation, but one individual was outstanding and was difficult to locate. WEMET received a tip on a possible boyfriend of the suspect. FSC was used to locate the vehicle establishing a pattern of life that led detectives to a new apartment, not known to detectives. During the investigation the suspect fugitive was seen outside the apartment and was taken into custody.
 
+In the Michigan News
+MANCELONA, MI
+6/1/2026
+
+SEXUAL ASSAULT
+
+Flock LPR Helps Michigan Deputies Arrest Sexual Assault Suspect in 12 Hours
+LPR
+Read full story
+CLINTON TOWNSHIP, MI
+5/28/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Recover Stolen U-Haul in Clinton Township, MI
+LPR
+Read full story
+JACKSON, MI
+5/25/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Deputies Recover Stolen Vehicles and Handgun in Jackson, MI
+LPR
+Read full story
+SILVER CREEK TOWNSHIP, MI
+5/21/2026
+
+HIT-AND-RUN
+
+Flock LPR Helps Identify Suspect in Fatal Michigan Hit-and-Run
+LPR
+Read full story
+ORION TOWNSHIP, MI
+5/19/2026
+
+CARJACKING
+
+Flock LPR Helps Track Carjacking Suspect to Arrest in Michigan
+LPR
+Read full story
 Data & Usage Summary
 
 Data Retention
@@ -59,13 +100,13 @@ Unique Vehicles Detected
 
 Number of unique plate reads over the last 30 days.
 
-525,171
+524,290
 
 Number of Searches
 
 Total user search sessions over the last 30 days.
 
-250
+253
 
 Hotlists Alerted On
 
@@ -77,7 +118,16 @@ Number of Hotlist Hits
 
 Total hotlist hits over the last 30 days.
 
-1,901
+1,936
+Top Offense Types
+
+Offense Types used for LPR searches in the last 30 days.
+
+Weapons Offense (Guns/Shots Fired)
+Hit and Run/Car Accident
+Assault/Battery Offenses
+Assault/Battery Offenses (Domestic)
+Wanted Person (Arrest Warrant/Fugitive)
 
 Sharing Network Data With
 
@@ -801,7 +851,6 @@ Plover WI PD
 Plymouth MI PD
 Plymouth PD IN
 Plymouth Township MI PD
-Plymouth WI PD
 Pokagon Tribal MI PD
 Port Clinton OH PD
 Port Edwards WI PD
@@ -1159,7 +1208,6 @@ Aviston IL PD
 Avon IN PD
 Baker County FL SO
 Baldwin County GA SO
-Baldwinsville Central School District Inc NY
 Barberton OH PD
 Bardstown PD KY
 Bargersville IN PD
@@ -1213,7 +1261,6 @@ Broadview Heights OH PD
 Brook Park OH PD
 Brookfield WI PD
 Brookville OH PD
-Broward County FL SO
 Brown County SO IN
 Brown Deer WI PD
 Brownsburg IN PD
@@ -1339,7 +1386,6 @@ Cumby TX PD
 Cuyahoga Falls OH PD
 Cuyahoga Heights OH PD
 CVG Airport KY PD
-Cypress Fairbanks ISD (TX) PD
 Dadeville AL PD
 Dale County AL SO
 Dandridge TN PD
@@ -1371,7 +1417,6 @@ DFW Airport PD TX
 Dickinson County MI SO
 Dickinson TX PD
 Dickson TN PD
-Dodge County WI SO
 Dolton IL PD
 Dothan AL PD
 Douglas County IL SO
@@ -1603,7 +1648,6 @@ Huntington IN PD
 Huntsville AL PD
 Huron Township MI PD
 Hurst TX PD
-Hutchins TX PD
 IA - Eldridge PD
 IA - Storm Lake PD
 Illinois Attorney General
@@ -1935,7 +1979,6 @@ Norton Shores MI PD
 Norwood OH PD
 Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
 Novi MI PD
-Oak Creek WI PD
 Oak Grove MO PD
 Oak Lawn IL PD
 Oak Park MI Dept of Public Safety
@@ -2026,12 +2069,10 @@ Pittsfield IL PD
 Plainfield IL PD
 Plainfield IN PD
 Plainview TN PD
-Pleasant Prairie WI PD
 Plover WI PD
 Plymouth MI PD
 Plymouth PD IN
 Plymouth Township MI PD
-Plymouth WI PD
 Pocahontas IL PD [Inactive]
 Pokagon Tribal MI PD
 Poland Township OH PD
@@ -2160,7 +2201,6 @@ Sour Lake TX PD
 South Bend IN Airport Transit PD
 South Bend IN PD
 South Central OH Major Crimes Unit
-South Miami FL PD
 South Plains Auto Theft Task Force TX
 South Sioux City NE PD
 Southern Illinois University IL PD
@@ -2212,7 +2252,6 @@ Sunset Hills MO PD
 Sylvania OH PD
 Sylvania Township OH PD
 Talladega County AL SO
-Tallahassee Police Department (FL)
 Tarpon Springs FL PD
 Taylor MI PD
 Tell City IN PD
@@ -2366,7 +2405,6 @@ Wilton Manors FL PD
 Winfield AL PD
 Winnebago County IL SO
 Winnebago County WI SO
-Winneconne WI PD
 Wisconsin State Capitol Police (WI)
 Wixom MI PD
 Wolverine Lake MI PD
@@ -2390,90 +2428,40 @@ Zeeland MI PD
 Zionsville IN PD
 Policy & Trust
 
-What ALPR Captures, How Information is Retained, and What an Observation Does Not Establish
+Holland City ALPR System
 
-The Holland Department of Public Safety uses automated license plate recognition (ALPR) technology to capture vehicle-related information from vehicles passing by an ALPR camera.
+Our cameras are strictly still photograph cameras. They do not record any movements or actions. (Written within our department policy as well)
 
-An ALPR observation may include:
+Our cameras capture one moment in time and show the back of a vehicle and the license plate.
 
-- The license plate number
-- An image of the vehicle and the license plate
-- The date and time of the observation
-- The location of the ALPR camera
-- General visible vehicle characteristics, such as make, color, body style, and other distinguishing features
+Our cameras also show date, time and location of the camera providing the photo.
 
-ALPR technology provides a time and location-based observation of a vehicle. It does not independently identify the driver or passengers of the vehicle, nor does it establish that a crime has occurred or that the vehicle or its occupants are involved in any criminal activity.
+What the ALPR System Does Not Do
 
-An ALPR alert or search result serves as an investigative lead. It must be evaluated alongside other available information and verified independently before any enforcement action is taken. Personnel must ensure they have the appropriate lawful basis for any investigative detention, search, arrest, or other law enforcement actions.
+Does not record audio or video.
+Does not show or provide any information about the occupants of the vehicle.
+Does not run the license plate or registered owner through the Secretary of State.
+Does not provide GPS data or tracking information.
+Does not use facial recognition technology.
+Does not continuously track an individual's movements.
+Does not use data to issue traffic tickets.
+Does not capture demographic data.
+Does not capture cell phone information or IP address data.
+Does not provide immigration information or status
 
-The standard retention period for ALPR observation data at HDPS is 30 days. Information may be retained beyond this period only if it is relevant to an authorized investigation, preserved as evidence, required by court order, or mandated by law. Evidence that is preserved is maintained in accordance with applicable evidence retention, records retention, and legal requirements.
+What the ALPR System Does Do
 
-Access to ALPR information is restricted to trained and authorized personnel. Searches and user activities are logged and may be reviewed to ensure compliance with HDPS policy, applicable laws, and authorized law enforcement purposes.
-
-What's Not Detected
-
-The Holland Department of Public Safety uses ALPR technology to identify vehicle-related information, not the identity or personal characteristics of the people inside a vehicle. The ALPR system does not use facial recognition, does not collect biometric information, and does not identify the driver or occupants of a vehicle. It does not determine a person's race, gender, identity, or whether an individual has committed a crime. The system provides vehicle-related information that may assist investigators in developing or confirming investigative leads; any determination regarding a person's identity or involvement in an incident requires additional investigative information and appropriate verification.
-
-Authorized Purposes, Search Documentation, Information Sharing and Oversight
-
-As of September 2026, the Holland Department of Public Safety (HDPS) employs a network of 22 Flock automated license plate recognition (ALPR) cameras as a focused investigative tool for specific, legitimate law enforcement and public safety purposes.
-
-HDPS personnel may access or search ALPR information only when it relates to their official duties and is supported by a specific, articulable law enforcement or public safety purpose. Each search must be linked to a reason for the search to include a valid complaint number.
-
-Authorized uses of ALPR information may include:
-
-- Investigating reported criminal activity
-- Identifying or locating vehicles related to a criminal investigation
-- Locating stolen vehicles or stolen license plates
-- Assisting in the identification or recovery of stolen property
-- Locating vehicles associated with individuals wanted for criminal activity or with valid arrest warrants
-- Assisting in locating missing, endangered, or abducted persons
-- Responding to serious or imminent threats to public safety
-- Developing, confirming, or corroborating investigative leads
-- Identifying possible connections between related criminal incidents
-- Supporting authorized investigations conducted with other law enforcement or criminal justice agencies
-- Other lawful criminal justice purposes as authorized by HDPS policy
-
-ALPR information is intended to provide an investigative lead and should be considered alongside other available evidence. Merely observing a vehicle does not establish that a crime has occurred, identify who was driving or occupying the vehicle, or prove that the vehicle or its occupants were involved in criminal activity.
-
-Before taking enforcement action based on a real-time alert, personnel must independently verify the observed license plate and vehicle information. They must also confirm that the underlying alert or record remains current and valid and establish an independent lawful basis for any actions taken. An ALPR alert does not replace the legal requirements for investigative detention, search, arrest, or other law enforcement actions.
-
-Access to the ALPR system is restricted to trained and authorized personnel, with access levels appropriate to their official responsibilities. User activity, including searches, alerts, and information-sharing actions, is logged and may be reviewed or audited by supervisory personnel.
-
-ALPR information may only be shared with authorized law enforcement or criminal justice partners for legitimate investigative or public safety purposes. Requests from other agencies must be linked to a valid criminal complaint, case number, or documented emergent public safety need. Information obtained through HDPS's ALPR system may not be used or shared further for unrelated or unauthorized purposes.
-
-Responsible information sharing is crucial because criminal activity, stolen-vehicle cases, and missing-person investigations often span multiple jurisdictions. All information sharing must comply with KCSO policy, applicable laws, and established access and auditing requirements.
-
-HDPS does not utilize or share ALPR information for civil immigration enforcement purposes.
-
-Privacy, Civil Rights, and Civil Liberties Protections
-
-The Holland Department of Public Safety (HDPS) allows the use of Automatic License Plate Recognition (ALPR) information only for legitimate law enforcement and public safety purposes related to official duties.
-
-HDPS personnel must not access, search, use, or share ALPR information for the following reasons:
-
-- Curiosity, personal reasons, or any purposes unrelated to official duties.
-- Harassment, intimidation, retaliation, or personal financial gain.
-- Commercial purposes or for the benefit of unauthorized individuals, businesses, or organizations.
-- Merely to determine where a person or vehicle has been observed without a legitimate law enforcement or public safety purpose.
-- To broadly monitor or create a history of a person’s or vehicle’s movements without a specific, articulable, and authorized law enforcement purpose.
-- To target individuals or groups based solely on race, ethnicity, national origin, religion, sex, gender, political beliefs or affiliations, disability, or any other characteristic protected by law.
-- To identify, monitor, or collect information about individuals or groups solely because of their participation in lawful speech, assembly, association, worship, protest, political activity, or other First Amendment-protected activities.
-- For civil immigration enforcement, including locating a person solely based on their actual or suspected civil immigration status.
-- For any purpose prohibited by law, court order, or HDPS policy.
-- With unauthorized individuals, organizations, or agencies.
-
-These restrictions do not prevent HDPS from investigating reported criminal conduct, threats of violence, or other unlawful activities, even if such conduct occurs at or near a public gathering or is associated with an individual engaged in protected activities. Any ALPR search must be based on reported conduct, investigative facts, or public safety concerns, and not solely on a person’s beliefs, associations, protected characteristics, or participation in lawful activities.
-
-The prohibition on civil immigration enforcement does not prevent HDPS from responding to an immediate safety threat or conducting a lawful criminal investigation within its authority.
-
-Any suspected misuse of ALPR information will be subject to supervisory review. Confirmed misuse may lead to removal of system access, administrative investigation, disciplinary action, referral for criminal investigation (when appropriate), or other actions consistent with HDPS policy and applicable law.
+1- The System focuses on vehicles- not people.
+2- Vehicles checked in the system are very limited and specifically selected based on information gathered by officers or detectives during law enforcement investigations.
+3- These Checks are case-driven and because a vehicle is associated with criminal activity, wanted suspects, or lost individuals
+4- Each check requires justification by entering a complaint number and law enforcement reason for the check into the system (Policy strictly limits to law enforcement only)
+5- Each check is completely tracked and able to be audited
 
 Holland Department of Public Safety Policy
 
 The Holland Department of Public Safety is aware of recent changes to Flock's data retention periods, network configuration, and other system functions. The Holland Department of Public Safety is conducting a comprehensive review of its related polices and procedures to ensure continued alignment with current system capabilities, operational needs, and established safeguards. Any necessary revisions will be completed no later than December 31, 2026.
 
-ENTER UPDATED POLICY HERE
+Enter Policy Here
 
 Public Search Audit
 
