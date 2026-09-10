@@ -14,7 +14,7 @@ Latest summary: [`SNAPSHOT.md`](SNAPSHOT.md).
 data/
   holland-city-pd/
     YYYY-MM.csv              search audits, append-only, deduped on Flock id
-    unknown.csv              rows whose searchDate didn't parse (rare)
+    unknown.csv              no Flock id, or searchDate that didn't parse (rare)
     sharing_outbound.csv     agencies granted access to this agency’s data
     sharing_inbound.csv      agencies sharing their data with this agency
     stats.csv                portal totals, one row per snapshot
