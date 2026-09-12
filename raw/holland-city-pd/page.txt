@@ -1,927 +1,2437 @@
+Transparency Portal
+Community Impact
+Policy & Trust
+More Info
+Visit Flock
+Holland MI PD
+Transparency Portal
 
-[data-tp-root="true"]{
-  
---tp-color-bg-default:#FAF9F5;
---tp-color-bg-paper:#FFFFFF;
---tp-color-bg-inverse:#091F14;
---tp-color-primary-main:#1A3E2B;
---tp-color-primary-contrast:#FFFFFF;
---tp-color-navigation-active:rgba(21, 29, 32, 0.35);
---tp-color-text-primary:#000000;
---tp-color-text-secondary:#35494F;
---tp-color-text-muted:#6B7577;
---tp-color-text-link:#3D5E45;
---tp-color-text-inverse:#FFFFFF;
---tp-color-text-inverse-muted:rgba(255, 255, 255, 0.65);
---tp-color-divider:#EBE9E1;
---tp-color-marker:#E1DFD3;
---tp-color-divider-inverse:#1E2E23;
---tp-color-action-primary:#3D5E45;
---tp-color-action-primary-hover:#3D5E45;
---tp-color-action-primary-text:#FFFFFF;
---tp-color-overview-text:#000000;
---tp-color-body-content:#000000;
---tp-color-access-scrollbar-thumb:#5F838F;
---tp-color-tooltip-surface:#202A2E;
---tp-color-section-heading:#406038;
---tp-color-widget-heading:#304833;
---tp-color-activity-border:#304833;
---tp-color-impact-banner:#304833;
---tp-color-policy-surface:#304833;
---tp-color-news-surface:#F3F2EB;
---tp-color-card-border:#536E47;
---tp-color-soft-card-border:#EBE9E1;
---tp-color-row-divider:#D2D5CE;
---tp-color-resource-heading:#3F5E36;
---tp-color-meta-surface:#E5EBEE;
---tp-color-meta-border:rgba(53, 73, 79, 0.4);
---tp-color-meta-text:#35494F;
---tp-color-subtle-text:#929292;
---tp-color-kicker-text:#9C9C9C;
---tp-color-fact-surface:#E1F8E8;
---tp-color-fact-border:rgba(23, 105, 47, 0.4);
---tp-color-fact-text:#17692F;
---tp-color-compliance-divider:rgba(48, 72, 51, 0.2);
+Last updated: Sat Sep 12 2026
 
-}
-@media (prefers-color-scheme: dark){
-  [data-tp-root="true"]:not([data-tp-theme]){
-    
---tp-color-bg-default:#151D20;
---tp-color-bg-paper:#253338;
---tp-color-bg-inverse:#F9FDFF;
---tp-color-primary-main:#18372F;
---tp-color-primary-contrast:#F9FDFF;
---tp-color-navigation-active:rgba(21, 29, 32, 0.35);
---tp-color-text-primary:#EAF0F4;
---tp-color-text-secondary:#C3D2D7;
---tp-color-text-muted:#98B0B8;
---tp-color-text-link:#9FCCC0;
---tp-color-text-inverse:#F9FDFF;
---tp-color-text-inverse-muted:#C4D2BC;
---tp-color-divider:#2E4045;
---tp-color-marker:#3D5E45;
---tp-color-divider-inverse:#35494F;
---tp-color-action-primary:#3D5E45;
---tp-color-action-primary-hover:#108062;
---tp-color-action-primary-text:#F9FDFF;
---tp-color-overview-text:#EAF0F4;
---tp-color-body-content:#EAF0F4;
---tp-color-access-scrollbar-thumb:#35494F;
---tp-color-tooltip-surface:#202A2E;
---tp-color-section-heading:#C4D2BC;
---tp-color-widget-heading:#C4D2BC;
---tp-color-activity-border:#3D5E45;
---tp-color-impact-banner:#1B4B3F;
---tp-color-policy-surface:#0F2922;
---tp-color-news-surface:#1E292B;
---tp-color-card-border:#35494F;
---tp-color-soft-card-border:#2E4045;
---tp-color-row-divider:#35494F;
---tp-color-resource-heading:#9FCCC0;
---tp-color-meta-surface:#2A3C41;
---tp-color-meta-border:#5F838F;
---tp-color-meta-text:#C3D2D7;
---tp-color-subtle-text:#A9BDC4;
---tp-color-kicker-text:#A9BDC4;
---tp-color-fact-surface:#18372F;
---tp-color-fact-border:#409981;
---tp-color-fact-text:#C7E7DD;
---tp-color-compliance-divider:#35494F;
+Overview
 
-  }
-}
-[data-tp-root="true"][data-tp-theme="dark"]{
-  
---tp-color-bg-default:#151D20;
---tp-color-bg-paper:#253338;
---tp-color-bg-inverse:#F9FDFF;
---tp-color-primary-main:#18372F;
---tp-color-primary-contrast:#F9FDFF;
---tp-color-navigation-active:rgba(21, 29, 32, 0.35);
---tp-color-text-primary:#EAF0F4;
---tp-color-text-secondary:#C3D2D7;
---tp-color-text-muted:#98B0B8;
---tp-color-text-link:#9FCCC0;
---tp-color-text-inverse:#F9FDFF;
---tp-color-text-inverse-muted:#C4D2BC;
---tp-color-divider:#2E4045;
---tp-color-marker:#3D5E45;
---tp-color-divider-inverse:#35494F;
---tp-color-action-primary:#3D5E45;
---tp-color-action-primary-hover:#108062;
---tp-color-action-primary-text:#F9FDFF;
---tp-color-overview-text:#EAF0F4;
---tp-color-body-content:#EAF0F4;
---tp-color-access-scrollbar-thumb:#35494F;
---tp-color-tooltip-surface:#202A2E;
---tp-color-section-heading:#C4D2BC;
---tp-color-widget-heading:#C4D2BC;
---tp-color-activity-border:#3D5E45;
---tp-color-impact-banner:#1B4B3F;
---tp-color-policy-surface:#0F2922;
---tp-color-news-surface:#1E292B;
---tp-color-card-border:#35494F;
---tp-color-soft-card-border:#2E4045;
---tp-color-row-divider:#35494F;
---tp-color-resource-heading:#9FCCC0;
---tp-color-meta-surface:#2A3C41;
---tp-color-meta-border:#5F838F;
---tp-color-meta-text:#C3D2D7;
---tp-color-subtle-text:#A9BDC4;
---tp-color-kicker-text:#A9BDC4;
---tp-color-fact-surface:#18372F;
---tp-color-fact-border:#409981;
---tp-color-fact-text:#C7E7DD;
---tp-color-compliance-divider:#35494F;
+The Holland Department of Public Safety (HDPS) employs Flock Safety's automated license plate recognition (ALPR) technology as a investigative and public safety tool. ALPR delivers objective images of vehicles, which can lead to investigative breakthroughs through retrospective searches after incidents are reported. It also offers real-time alerts for stolen vehicles or license plates, vehicles linked to wanted persons, missing or endangered individuals and other critical public safety issues.
 
-}
-[data-tp-root="true"][data-tp-theme="light"]{
-  
---tp-color-bg-default:#FAF9F5;
---tp-color-bg-paper:#FFFFFF;
---tp-color-bg-inverse:#091F14;
---tp-color-primary-main:#1A3E2B;
---tp-color-primary-contrast:#FFFFFF;
---tp-color-navigation-active:rgba(21, 29, 32, 0.35);
---tp-color-text-primary:#000000;
---tp-color-text-secondary:#35494F;
---tp-color-text-muted:#6B7577;
---tp-color-text-link:#3D5E45;
---tp-color-text-inverse:#FFFFFF;
---tp-color-text-inverse-muted:rgba(255, 255, 255, 0.65);
---tp-color-divider:#EBE9E1;
---tp-color-marker:#E1DFD3;
---tp-color-divider-inverse:#1E2E23;
---tp-color-action-primary:#3D5E45;
---tp-color-action-primary-hover:#3D5E45;
---tp-color-action-primary-text:#FFFFFF;
---tp-color-overview-text:#000000;
---tp-color-body-content:#000000;
---tp-color-access-scrollbar-thumb:#5F838F;
---tp-color-tooltip-surface:#202A2E;
---tp-color-section-heading:#406038;
---tp-color-widget-heading:#304833;
---tp-color-activity-border:#304833;
---tp-color-impact-banner:#304833;
---tp-color-policy-surface:#304833;
---tp-color-news-surface:#F3F2EB;
---tp-color-card-border:#536E47;
---tp-color-soft-card-border:#EBE9E1;
---tp-color-row-divider:#D2D5CE;
---tp-color-resource-heading:#3F5E36;
---tp-color-meta-surface:#E5EBEE;
---tp-color-meta-border:rgba(53, 73, 79, 0.4);
---tp-color-meta-text:#35494F;
---tp-color-subtle-text:#929292;
---tp-color-kicker-text:#9C9C9C;
---tp-color-fact-surface:#E1F8E8;
---tp-color-fact-border:rgba(23, 105, 47, 0.4);
---tp-color-fact-text:#17692F;
---tp-color-compliance-divider:rgba(48, 72, 51, 0.2);
+Since the implementation of ALPR technology, HDPS has experienced a significant positive impact on investigations and overall crime reduction efforts. Leads generated by ALPR have been instrumental in identifying and slowing down criminal activity, recovering stolen vehicles and property, supporting investigations into thousands of dollars in reported losses, solving cases that might otherwise have remained unresolved, and locating missing or endangered individuals in Holland City, across Michigan, and throughout the surrounding region.
 
-}
+Criminal activities, stolen vehicles, and missing persons cases often cross jurisdictional lines. Therefore, responsible sharing of information with authorized law enforcement partners enables agencies to connect evidence, identify related criminal activities, and respond more swiftly in urgent situations.
 
-    [data-tp-root="true"] * { box-sizing: border-box; }
-    [data-tp-root="true"] .tpHeaderNav {
-        display: flex;
-        align-items: center;
-        gap: 9px;
-        margin-right: auto;
-    }
-    [data-tp-root="true"] .tpHeaderNav a {
-        display: inline-flex;
-        height: 32px;
-        padding: 0 12px;
-        align-items: center;
-        justify-content: center;
-        border-radius: 10.73px;
-        color: var(--tp-color-text-inverse);
-        font: 500 15px/20.25px "Denim", "Inter", sans-serif;
-        letter-spacing: -0.15px;
-        text-decoration: none;
-        white-space: nowrap;
-    }
-    [data-tp-root="true"] .tpHeaderNav a[aria-current="location"],
-    [data-tp-root="true"] .tpHeaderNav a:hover,
-    [data-tp-root="true"] .tpHeaderNav a:focus-visible { background: var(--tp-color-navigation-active); }
-    [data-tp-root="true"] .tpHeaderMenu { display: none; position: relative; }
-    [data-tp-root="true"] .tpHeaderMenu summary {
-        display: flex;
-        width: 40px;
-        height: 40px;
-        padding: 10px;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: 4px;
-        border-radius: 8px;
-        cursor: pointer;
-        list-style: none;
-    }
-    [data-tp-root="true"] .tpHeaderMenu summary::-webkit-details-marker { display: none; }
-    [data-tp-root="true"] .tpHeaderMenu summary:hover,
-    [data-tp-root="true"] .tpHeaderMenu summary:focus-visible,
-    [data-tp-root="true"] .tpHeaderMenu[open] summary { background: var(--tp-color-navigation-active); }
-    [data-tp-root="true"] .tpHeaderMenu summary > span {
-        display: block;
-        width: 20px;
-        height: 2px;
-        border-radius: 1px;
-        background: var(--tp-color-text-inverse);
-        transition: transform 120ms ease, opacity 120ms ease;
-    }
-    [data-tp-root="true"] .tpHeaderMenu[open] summary > span:first-child {
-        transform: translateY(6px) rotate(45deg);
-    }
-    [data-tp-root="true"] .tpHeaderMenu[open] summary > span:nth-child(2) { opacity: 0; }
-    [data-tp-root="true"] .tpHeaderMenu[open] summary > span:last-child {
-        transform: translateY(-6px) rotate(-45deg);
-    }
-    [data-tp-root="true"] .tpMobileNav {
-        position: absolute;
-        top: calc(100% + 8px);
-        right: 0;
-        display: flex;
-        width: 224px;
-        padding: 8px;
-        flex-direction: column;
-        gap: 4px;
-        border: 1px solid rgba(255, 255, 255, 0.18);
-        border-radius: 10px;
-        background: var(--tp-color-primary-main);
-        box-shadow: 0 12px 28px rgba(0, 0, 0, 0.24);
-    }
-    [data-tp-root="true"] .tpMobileNav a {
-        display: flex;
-        min-height: 40px;
-        padding: 8px 12px;
-        align-items: center;
-        border-radius: 8px;
-        color: var(--tp-color-text-inverse);
-        font: 500 15px/20.25px "Denim", "Inter", sans-serif;
-        letter-spacing: -0.15px;
-        text-decoration: none;
-    }
-    [data-tp-root="true"] .tpMobileNav a[aria-current="location"],
-    [data-tp-root="true"] .tpMobileNav a:hover,
-    [data-tp-root="true"] .tpMobileNav a:focus-visible { background: var(--tp-color-navigation-active); }
+HDPS utilizes ALPR technology with clearly defined safeguards. All searches shall include a reason for the search, offense type and include a valid criminal complaint number. All system activity is logged and reviewed by the Captain of Investigations and an audit process is in place. HDPS does not use ALPR information for civil immigration enforcement purposes.
 
-    [data-tp-root="true"] .tpPortalSection {
-        width: 100%;
-        scroll-margin-top: 88px;
-    }
-    [data-tp-root="true"] .tpOverview h3 {
-        margin: 0 0 8px;
-        color: var(--tp-color-overview-text);
-        font: 600 16px/28px "Inter", sans-serif;
-    }
-    [data-tp-root="true"] .tpOverview p {
-        margin: 0;
-        color: var(--tp-color-overview-text);
-        font: 400 16px/26px "Inter", sans-serif;
-        letter-spacing: 0.1px;
-        white-space: pre-line;
-    }
-    [data-tp-root="true"] .tpHero {
-        position: relative;
-        width: 100%;
-        height: clamp(270px, 29.375vw, 423px);
-        overflow: hidden;
-        background: var(--tp-color-bg-paper);
-    }
-    [data-tp-root="true"] .tpHeroImage,
-    [data-tp-root="true"] .tpHeroOverlay {
-        position: absolute;
-        inset: 0;
-        display: block;
-        width: 100%;
-        height: 100%;
-    }
-    [data-tp-root="true"] .tpHeroImage { object-fit: cover; }
-    [data-tp-root="true"] .tpHeroOverlay {
-        background: linear-gradient(0deg, rgba(0, 0, 0, 0.23) 15.941%, rgba(102, 102, 102, 0.01) 78.616%);
-    }
-    [data-tp-root="true"] .tpHeroOverlay--map {
-        background: linear-gradient(0deg, rgba(0, 0, 0, 0.45) 19.326%, rgba(102, 102, 102, 0.25) 167.38%);
-    }
-    [data-tp-root="true"] .tpHeroContent {
-        position: relative;
-        z-index: 1;
-        display: flex;
-        width: 100%;
-        max-width: 1440px;
-        height: 100%;
-        margin: 0 auto;
-        padding: 0 clamp(24px, 6.9445vw, 100px) 50px;
-        align-items: flex-end;
-    }
-    [data-tp-root="true"] .tpHeroTitleRow {
-        display: flex;
-        min-width: 0;
-        align-items: center;
-        gap: 24px;
-    }
-    [data-tp-root="true"] .tpHeroLogo {
-        --tp-color-bg-paper: #FFFFFF;
-        --tp-color-text-secondary: #35494F;
-        display: flex;
-        width: 145px;
-        height: 145px;
-        flex: 0 0 145px;
-        align-items: center;
-        justify-content: center;
-        overflow: hidden;
-        border: 1.45px solid #D3DEE2;
-        border-radius: 11.6px;
-        background: var(--tp-color-bg-paper);
-        box-shadow: 0 8.529px 15.993px rgba(0, 0, 0, 0.39);
-    }
-    [data-tp-root="true"] .tpHeroLogoImage {
-        display: block;
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
-    }
-    [data-tp-root="true"] .tpHeroLogo svg { width: 88px; height: 88px; }
-    [data-tp-root="true"] .tpHeroText {
-        flex: 1 1 auto;
-        min-width: 0;
-        color: var(--tp-color-text-inverse);
-        filter: drop-shadow(0 8px 7.5px rgba(0, 0, 0, 0.39));
-    }
-    [data-tp-root="true"] .tpHeroText h1 {
-        max-width: 920px;
-        margin: 0;
-        color: inherit;
-        font: 600 60px/65px "Denim INK", "Denim", "Inter", sans-serif;
-        letter-spacing: -1.8px;
-    }
-    [data-tp-root="true"] .tpHeroText p {
-        margin: 16px 0 0;
-        color: inherit;
-        font: 400 14px/20px "Inter", sans-serif;
-    }
-    [data-tp-root="true"] .tpSectionInner {
-        width: 100%;
-        max-width: 1289px;
-        margin: 0 auto;
-        padding: 60px 24px;
-    }
-    [data-tp-root="true"] .tpSectionTitle {
-        width: 100%;
-        margin: 0 0 60px;
-        color: var(--tp-color-section-heading);
-        font: 500 60px/normal "Denim INK", "Denim", "Inter", sans-serif;
-        letter-spacing: -1.8px;
-        text-align: center;
-    }
-    [data-tp-root="true"] .tpCommunityContent,
-    [data-tp-root="true"] .tpDataSummaryStack,
-    [data-tp-root="true"] .tpPolicyStack,
-    [data-tp-root="true"] .tpMoreInfoStack {
-        display: flex;
-        flex-direction: column;
-        gap: 16px;
-    }
-    [data-tp-root="true"] .tpPortalRow { min-width: 0; width: 100%; }
+This transparency portal offers the public access to HDPS's ALPR policies, including safeguards, data retention practices, and usage statistics. Our goal is to showcase the public safety benefits of this technology while also ensuring accountability in its usage.
 
-    [data-tp-root="true"] .tpEditorialRow {
-        display: grid;
-        grid-template-columns: minmax(0, 789fr) minmax(0, 436fr);
-        gap: 16px;
-        align-items: start;
-    }
-    [data-tp-root="true"] .tpEditorialRowSingle { grid-template-columns: minmax(0, 1fr); }
-    [data-tp-root="true"] .tpSuccessStoryCollection,
-    [data-tp-root="true"] .tpSuccessStoryList {
-        display: flex;
-        min-width: 0;
-        flex-direction: column;
-    }
-    [data-tp-root="true"] .tpSuccessStoryCollection > h3 {
-        margin: 0;
-        color: var(--tp-color-body-content);
-        font: 500 30px/normal "Denim INK", "Denim", "Inter", sans-serif;
-        letter-spacing: -0.9px;
-    }
-    [data-tp-root="true"] .tpSuccessStoryList [data-tp-presentation="text"] {
-        padding: 16px 0 !important;
-        border: 0 !important;
-        border-bottom: 1px solid var(--tp-color-compliance-divider) !important;
-        border-radius: 0 !important;
-        background: transparent !important;
-    }
-    [data-tp-root="true"] .tpSuccessStoryList [data-tp-presentation="text"] .tpEntryHeader > p:first-child {
-        color: var(--tp-color-body-content) !important;
-        font: 500 20px/28px "Denim INK", "Denim", "Inter", sans-serif !important;
-        letter-spacing: 0 !important;
-    }
-    [data-tp-root="true"] .tpNewsFeed {
-        height: 100%;
-        padding: 24px;
-        border-radius: 16px;
-        background: var(--tp-color-news-surface);
-        color: var(--tp-color-body-content);
-    }
-    [data-tp-root="true"] .tpNewsFeed > h3 {
-        margin: 0 0 16px;
-        font: 500 30px/normal "Denim INK", "Denim", "Inter", sans-serif;
-        letter-spacing: -0.9px;
-    }
-    [data-tp-root="true"] .tpNewsFeedList {
-        display: flex;
-        flex-direction: column;
-        gap: 8px;
-    }
-    [data-tp-root="true"] .tpNewsCard {
-        display: flex;
-        min-height: 205px;
-        padding: 16px;
-        flex-direction: column;
-        gap: 10px;
-        border: 1px solid var(--tp-color-soft-card-border);
-        border-radius: 8px;
-        background: var(--tp-color-bg-paper);
-    }
-    [data-tp-root="true"] .tpNewsMeta,
-    [data-tp-root="true"] .tpNewsFooter {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 12px;
-    }
-    [data-tp-root="true"] .tpNewsMeta span {
-        min-height: 32px;
-        padding: 6px 12px;
-        border: 1px solid var(--tp-color-meta-border);
-        border-radius: 360px;
-        background: var(--tp-color-meta-surface);
-        color: var(--tp-color-meta-text);
-        font: 500 12px/18px "Inter", sans-serif;
-        text-transform: uppercase;
-    }
-    [data-tp-root="true"] .tpNewsDate {
-        color: var(--tp-color-subtle-text);
-        font: 400 14px/28px "Inter", sans-serif;
-    }
-    [data-tp-root="true"] .tpNewsHeadline { display: flex; flex-direction: column; gap: 8px; }
-    [data-tp-root="true"] .tpNewsHeadline p {
-        margin: 0;
-        color: var(--tp-color-kicker-text);
-        font: 500 12px/18px "Inter", sans-serif;
-        text-transform: uppercase;
-    }
-    [data-tp-root="true"] .tpNewsHeadline h4 {
-        margin: 0;
-        color: var(--tp-color-body-content);
-        font: 500 20px/28px "Denim INK", "Denim", "Inter", sans-serif;
-        letter-spacing: -0.2px;
-    }
-    [data-tp-root="true"] .tpNewsFooter {
-        min-height: 32px;
-        margin-top: auto;
-        font: 500 12px/18px "Inter", sans-serif;
-        text-transform: uppercase;
-    }
-    [data-tp-root="true"] .tpNewsSource {
-        display: inline-flex;
-        height: 24px;
-        padding: 2px 8px;
-        align-items: center;
-        gap: 4px;
-        border: 1px solid var(--tp-color-meta-border);
-        border-radius: 360px;
-        color: var(--tp-color-meta-text);
-    }
-    [data-tp-root="true"] .tpNewsSourceIcon {
-        display: inline-flex;
-        width: 18px;
-        height: 18px;
-        align-items: center;
-        justify-content: center;
-    }
-    [data-tp-root="true"] .tpNewsSourceIcon svg { display: block; width: 15px; height: 14px; }
-    [data-tp-root="true"] .tpNewsFooter a {
-        padding: 6px 12px;
-        border-radius: 10.73px;
-        background: var(--tp-color-action-primary);
-        color: var(--tp-color-action-primary-text);
-        font: 500 15px/20.25px "Denim", "Inter", sans-serif;
-        letter-spacing: -0.15px;
-        text-decoration: none;
-        text-transform: none;
-    }
 
-    [data-tp-root="true"] .tpDataSummarySurface {
-        display: flex;
-        padding: 24px;
-        flex-direction: column;
-        gap: 16px;
-        border-radius: 16px;
-        background: var(--tp-color-news-surface);
-    }
-    [data-tp-root="true"] .tpDataSummaryRow {
-        display: flex;
-        padding: 24px;
-        flex-direction: column;
-        gap: 16px;
-        border-radius: 16px;
-        background: var(--tp-color-news-surface);
-    }
-    [data-tp-root="true"] .tpDataSummaryHeading {
-        margin: 0;
-        color: var(--tp-color-body-content);
-        font: 500 30px/normal "Denim INK", "Denim", "Inter", sans-serif;
-        letter-spacing: -0.9px;
-    }
-    [data-tp-root="true"] .tpDataSummarySurface > h3,
-    [data-tp-root="true"] .tpMythFactList > h3 {
-        margin: 0;
-        color: var(--tp-color-body-content);
-        font: 500 30px/normal "Denim INK", "Denim", "Inter", sans-serif;
-        letter-spacing: -0.9px;
-    }
-    [data-tp-root="true"] .tpResponsivePair {
-        display: grid;
-        grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
-        gap: 16px;
-        align-items: stretch;
-    }
-    [data-tp-root="true"] .tpResponsivePairSingle { grid-template-columns: minmax(0, 1fr); }
+Community Impact
+Featured Success Stories
 
-    [data-tp-root="true"] .tpImpactBanner {
-        display: flex;
-        align-items: stretch;
-        justify-content: center;
-        gap: 10px;
-        min-height: 246px;
-        margin-bottom: 44px;
-        padding: 48px 0;
-        border-radius: 20px;
-        background: var(--tp-color-impact-banner);
-        text-align: center;
-    }
-    [data-tp-root="true"] .tpImpactBannerItem {
-        display: flex;
-        flex: 1 1 0;
-        min-width: 0;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: 24px;
-    }
-    [data-tp-root="true"] .tpImpactBannerSingle .tpImpactBannerItem { flex: 0 1 auto; }
-    [data-tp-root="true"] .tpImpactBannerValue {
-        color: var(--tp-color-text-inverse);
-        font: 500 60px/1 "Inter", "Denim", sans-serif;
-        letter-spacing: -1.98px;
-    }
-    [data-tp-root="true"] .tpImpactBannerLabel {
-        color: var(--tp-color-text-inverse);
-        font: 400 15px/1.35 "Denim", "Inter", sans-serif;
-        letter-spacing: -0.15px;
-        text-transform: uppercase;
-    }
-    [data-tp-root="true"] .tpImpactBannerDivider {
-        width: 1px;
-        align-self: stretch;
-        background: rgba(255, 255, 255, 0.2);
-    }
+Holland Department of Public Safety News
 
-    [data-tp-root="true"] .tpEntryHeader { min-width: 0; }
-    [data-tp-root="true"] [data-tp-presentation="text"],
-    [data-tp-root="true"] [data-tp-presentation="metric"],
-    [data-tp-root="true"] [data-tp-presentation="accessTable"],
-    [data-tp-root="true"] [data-tp-presentation="csv"] {
-        min-width: 0;
-        padding: 16px !important;
-        border: 1px solid var(--tp-color-soft-card-border) !important;
-        border-radius: 8px !important;
-        background: var(--tp-color-bg-paper) !important;
-        color: var(--tp-color-body-content) !important;
-    }
-    [data-tp-root="true"] [data-tp-presentation="text"] .tpEntryHeader > p:first-child,
-    [data-tp-root="true"] [data-tp-presentation="metric"] .tpEntryHeader > p:first-child,
-    [data-tp-root="true"] [data-tp-presentation="accessTable"] .tpEntryHeader > p:first-child,
-    [data-tp-root="true"] [data-tp-presentation="csv"] .tpEntryHeader > p:first-child {
-        color: var(--tp-color-body-content) !important;
-        font: 600 16px/28px "Inter", sans-serif !important;
-    }
-    [data-tp-root="true"] .tpEntryHeader > p + p {
-        margin-top: 2px !important;
-        color: var(--tp-color-body-content) !important;
-        font: 400 14px/20px "Inter", sans-serif !important;
-    }
-    [data-tp-root="true"] [data-tp-presentation="metric"] > div > div:last-child > div:last-child {
-        color: var(--tp-color-text-primary) !important;
-        font: 600 36px/41.4px "Inter", sans-serif !important;
-        letter-spacing: -0.72px !important;
-    }
-    [data-tp-root="true"] [data-tp-entry-type="numberOfOwnedLprCameras"] > div > div:last-child > div:last-child {
-        color: var(--tp-color-text-primary) !important;
-    }
-    [data-tp-root="true"] [data-tp-presentation="text"] > div > div:last-child > div:last-child,
-    [data-tp-root="true"] [data-tp-presentation="accessTable"] > div > div:last-child > div:last-child {
-        color: var(--tp-color-body-content) !important;
-    }
-
-    [data-tp-root="true"] .tpWidgetCard {
-        padding: 16px;
-        border: 1px solid var(--tp-color-soft-card-border);
-        border-radius: 8px;
-        background: var(--tp-color-bg-paper);
-        color: var(--tp-color-body-content);
-    }
-    [data-tp-root="true"] .tpActivitySummaryWidget {
-        border-color: var(--tp-color-activity-border);
-        background: transparent;
-    }
-    [data-tp-root="true"] .tpMetricTableWidget {
-        position: relative;
-        padding-right: 32px;
-    }
-    [data-tp-root="true"] .tpActivityScrollContainer {
-        position: relative;
-        min-width: 0;
-        margin-top: 16px;
-        padding-right: 28px;
-    }
-    [data-tp-root="true"] .tpWidgetHeader h3 {
-        margin: 0;
-        color: var(--tp-color-body-content);
-        font: 600 16px/28px "Inter", sans-serif;
-    }
-    [data-tp-root="true"] .tpWidgetHeader p {
-        margin: 2px 0 0;
-        color: var(--tp-color-body-content);
-        font: 400 14px/20px "Inter", sans-serif;
-    }
-    [data-tp-root="true"] .tpActivityValue {
-        margin-top: 16px;
-    }
-    [data-tp-root="true"] .tpActivityValue strong {
-        color: var(--tp-color-widget-heading);
-        font: 500 60px/1.15 "Inter", sans-serif;
-        letter-spacing: -1.2px;
-    }
-    [data-tp-root="true"] .tpMetricTableWidget ol {
-        margin: 16px 0 0;
-        padding-left: 28px;
-        color: var(--tp-color-body-content);
-    }
-    [data-tp-root="true"] .tpActivityRows {
-        max-height: 240px;
-        margin: 0;
-        padding-left: 28px;
-        overflow-x: hidden;
-        overflow-y: auto;
-        color: var(--tp-color-body-content);
-        scrollbar-width: none;
-        -ms-overflow-style: none;
-    }
-    [data-tp-root="true"] .tpActivityRows::-webkit-scrollbar { display: none; }
-    [data-tp-root="true"] .tpActivityRows li,
-    [data-tp-root="true"] .tpMetricTableWidget li {
-        min-height: 48px;
-        padding: 11px 0 10px 4px;
-        border-bottom: 1px solid var(--tp-color-row-divider);
-        font: 400 16px/26px "Inter", sans-serif;
-    }
-    [data-tp-root="true"] .tpActivityRows li {
-        display: list-item;
-        padding-right: 4px;
-    }
-    [data-tp-root="true"] .tpActivityRowContent {
-        display: grid;
-        min-width: 0;
-        grid-template-columns: minmax(0, 1fr) auto;
-        align-items: center;
-        gap: 12px;
-    }
-    [data-tp-root="true"] .tpActivityRowLabelContainer {
-        position: relative;
-        min-width: 0;
-    }
-    [data-tp-root="true"] .tpActivityRowLabel {
-        display: block;
-        min-width: 0;
-        overflow-x: auto;
-        white-space: nowrap;
-        scrollbar-width: none;
-        -ms-overflow-style: none;
-    }
-    [data-tp-root="true"] .tpActivityRowLabel::-webkit-scrollbar { display: none; }
-    [data-tp-root="true"] .tpActivityRowScrollTrack {
-        position: absolute;
-        right: 0;
-        bottom: -3px;
-        left: 0;
-        display: none;
-        height: 2px;
-        overflow: hidden;
-        border-radius: 999px;
-        background: var(--tp-color-row-divider);
-        pointer-events: none;
-    }
-    [data-tp-root="true"] .tpActivityRowScrollThumb {
-        position: absolute;
-        top: 0;
-        left: 0;
-        height: 100%;
-        border-radius: 999px;
-        background: var(--tp-color-access-scrollbar-thumb);
-    }
-    [data-tp-root="true"] .tpActivityRowValue { font-weight: 600; }
-    [data-tp-root="true"] .tpMetricTableWidget li:last-child { border-bottom: 0; }
-    [data-tp-root="true"] .tpMetricTableRowContent {
-        display: flex;
-        min-width: 0;
-        align-items: center;
-        justify-content: space-between;
-        gap: 12px;
-    }
-    [data-tp-root="true"] .tpMetricTableRowContent strong { white-space: nowrap; }
-
-    [data-tp-root="true"] .tpAccessPair [data-tp-access-table="true"] { margin-top: 0; }
-
-    [data-tp-root="true"] .tpPolicySection {
-        background: var(--tp-color-policy-surface);
-        color: var(--tp-color-text-inverse);
-    }
-    [data-tp-root="true"] .tpPolicySection .tpSectionInner { padding-top: 48px; padding-bottom: 96px; }
-    [data-tp-root="true"] .tpPolicySection .tpSectionTitle {
-        width: calc(100% - 6px);
-        color: var(--tp-color-text-inverse);
-    }
-    [data-tp-root="true"] .tpPolicyStack { width: calc(100% - 6px); }
-    [data-tp-root="true"] .tpComplianceWidget {
-        display: grid;
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-        gap: 16px;
-        padding: 24px 0;
-        color: var(--tp-color-text-inverse);
-    }
-    [data-tp-root="true"] .tpComplianceItem {
-        display: flex;
-        min-width: 0;
-        padding: 20px 0;
-        flex-direction: column;
-        gap: 42px;
-    }
-    [data-tp-root="true"] .tpComplianceHeading {
-        display: flex;
-        flex-direction: column;
-        gap: 24px;
-    }
-    [data-tp-root="true"] .tpComplianceHeading img {
-        display: block;
-        width: 64px;
-        height: 64px;
-    }
-    [data-tp-root="true"] .tpComplianceHeading h3,
-    [data-tp-root="true"] .tpComplianceItem p {
-        margin: 0;
-        color: inherit;
-        font-family: "Inter", sans-serif;
-    }
-    [data-tp-root="true"] .tpComplianceHeading h3 {
-        font-size: 16px;
-        font-weight: 600;
-        line-height: 28px;
-        letter-spacing: 0;
-    }
-    [data-tp-root="true"] .tpComplianceItem p {
-        max-width: 294px;
-        font-size: 16px;
-        font-weight: 400;
-        line-height: 26px;
-        letter-spacing: 0.1px;
-    }
-
-    [data-tp-root="true"] .tpMythFactList {
-        display: flex;
-        padding: 24px;
-        flex-direction: column;
-        gap: 16px;
-        border-radius: 16px;
-        background: var(--tp-color-news-surface);
-        color: var(--tp-color-body-content);
-    }
-    [data-tp-root="true"] .tpMythFactList > h3 {
-        font-size: 30px;
-        line-height: normal;
-        letter-spacing: -0.9px;
-    }
-    [data-tp-root="true"] .tpMythFactCards {
-        display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
-        gap: 16px;
-        align-items: stretch;
-    }
-    [data-tp-root="true"] .tpMythFactCard {
-        padding: 16px;
-        border: 1px solid var(--tp-color-soft-card-border);
-        border-radius: 8px;
-        background: var(--tp-color-bg-paper);
-    }
-    [data-tp-root="true"] .tpMythFactStatement { display: flex; flex-direction: column; gap: 4px; }
-    [data-tp-root="true"] .tpFactStatement { gap: 6px; }
-    [data-tp-root="true"] .tpMythFactStatement p {
-        margin: 0;
-        color: var(--tp-color-body-content);
-        font: 400 16px/26px "Inter", sans-serif;
-        letter-spacing: 0.1px;
-    }
-    [data-tp-root="true"] .tpMythFactCard hr {
-        height: 1px;
-        margin: 16px 0;
-        border: 0;
-        background: var(--tp-color-row-divider);
-    }
-    [data-tp-root="true"] .tpChip {
-        display: inline-flex;
-        width: fit-content;
-        height: 24px;
-        padding: 2px 8px;
-        align-items: center;
-        justify-content: center;
-        border-radius: 360px;
-        font: 500 14px/20px "Inter", sans-serif;
-    }
-    [data-tp-root="true"] .tpMythChip {
-        border: 1px solid var(--tp-color-meta-border);
-        background: var(--tp-color-meta-surface);
-        color: var(--tp-color-meta-text);
-    }
-    [data-tp-root="true"] .tpFactChip {
-        border: 1px solid var(--tp-color-fact-border);
-        background: var(--tp-color-fact-surface);
-        color: var(--tp-color-fact-text);
-    }
-
-    [data-tp-root="true"] .tpMoreInfoSection .tpSectionInner { padding-top: 60px; padding-bottom: 144px; }
-
-    @media (max-width: 899px) {
-        [data-tp-root="true"] .tpHeaderDivider { display: none; }
-        [data-tp-root="true"] .tpHeaderNav { display: none; }
-        [data-tp-root="true"] .tpHeaderMenu { display: block; flex: 0 0 auto; }
-        [data-tp-root="true"] .tpBrandTitle { display: none; }
-        [data-tp-root="true"] .tpHeaderAction { margin-left: auto; }
-        [data-tp-root="true"] .tpSectionInner { padding: 48px 20px; }
-        [data-tp-root="true"] .tpHero { height: 270px; }
-        [data-tp-root="true"] .tpHeroContent { padding: 0 20px 24px; }
-        [data-tp-root="true"] .tpHeroTitleRow { gap: 16px; }
-        [data-tp-root="true"] .tpHeroLogo { width: 72px; height: 72px; flex-basis: 72px; border-radius: 8px; }
-        [data-tp-root="true"] .tpHeroLogo svg { width: 48px; height: 48px; }
-        [data-tp-root="true"] .tpHeroText h1 { font-size: 30px; line-height: 34px; letter-spacing: -0.9px; }
-        [data-tp-root="true"] .tpHeroText p { margin-top: 8px; }
-        [data-tp-root="true"] .tpSectionTitle { margin-bottom: 32px; font-size: 36px; line-height: 40px; }
-        [data-tp-root="true"] .tpEditorialRow,
-        [data-tp-root="true"] .tpResponsivePair { grid-template-columns: minmax(0, 1fr); }
-        [data-tp-root="true"] .tpComplianceWidget { grid-template-columns: minmax(0, 1fr); }
-        [data-tp-root="true"] .tpComplianceItem { gap: 24px; }
-        [data-tp-root="true"] .tpComplianceItem p { max-width: none; }
-        [data-tp-root="true"] .tpMythFactCards { grid-template-columns: minmax(0, 1fr); }
-        [data-tp-root="true"] .tpPolicyStack,
-        [data-tp-root="true"] .tpPolicySection .tpSectionTitle { width: 100%; }
-        [data-tp-root="true"] .tpNewsFeed { height: auto; }
-        [data-tp-root="true"] .tpNewsFeed > h3 { font-size: 30px; }
-        [data-tp-root="true"] .tpSuccessStoryCollection > h3 { font-size: 30px; }
-        [data-tp-root="true"] .tpActivityValue strong { font-size: 48px; }
-        [data-tp-root="true"] .tpDataSummaryRow { padding: 16px; }
-    }
-[data-tp-root="true"]{margin:0 !important;padding:0 !important;background:var(--tp-color-bg-default);}Transparency PortalCommunity ImpactPolicy & TrustMore InfoVisit FlockCommunity ImpactPolicy & TrustMore InfoHolland MI PDTransparency PortalLast updated: Sat Sep 12 2026OverviewThe Holland Department of Public Safety (HDPS) employs Flock Safety's automated license plate recognition (ALPR) technology as a investigative and public safety tool.  ALPR delivers objective images of vehicles, which can lead to investigative breakthroughs through retrospective searches after incidents are reported.  It also offers real-time alerts for stolen vehicles or license plates, vehicles linked to wanted persons, missing or endangered individuals and other critical public safety issues.
-
-Since the implementation of ALPR technology, HDPS has experienced a significant positive impact on investigations and overall crime reduction efforts.  Leads generated by ALPR have been instrumental in identifying and slowing down criminal activity, recovering stolen vehicles and property, supporting investigations into thousands of dollars in reported losses, solving cases that might otherwise have remained unresolved, and locating missing or endangered individuals in Holland City, across Michigan, and throughout the surrounding region.
-
-Criminal activities, stolen vehicles, and missing persons cases often cross jurisdictional lines.  Therefore, responsible sharing of information with authorized law enforcement partners enables agencies to connect evidence, identify related criminal activities, and respond more swiftly in urgent situations.
-
-HDPS utilizes ALPR technology with clearly defined safeguards.  All searches shall include a reason for the search, offense type and include a valid criminal complaint number.  All system activity is logged and reviewed by the Captain of Investigations and an audit process is in place.  HDPS does not use ALPR information for civil immigration enforcement purposes.
-
-This transparency portal offers the public access to HDPS's ALPR policies, including safeguards, data retention practices, and usage statistics.  Our goal is to showcase the public safety benefits of this technology while also ensuring accountability in its usage.
-Community ImpactFeatured Success StoriesHolland Department of Public Safety News2023- FSC used to track suspect and witness movements the night prior. Helped to verify witness' story and add credibility to it. Also helped build a timeline for the incident which is used in Homicide and high-level incidents. 
+2023- FSC used to track suspect and witness movements the night prior. Helped to verify witness' story and add credibility to it. Also helped build a timeline for the incident which is used in Homicide and high-level incidents.
 
 2024- Endangered was diagnosed with Alzheimer and Diabetes. Endangered takes insulin every morning at 0900 hours which he does not have with him. Endangered likely left the residence at 0300 hours in MI/----. Multiple FLOCK hits with endangered being in Wyoming, MI at 0501 hours. Endangered subject was located by surveillance units utilizing FLOCK to narrow down endangered location
 
-2024- Female was entered into LEIN as Missing Endangered. Endangered left Holland around 1330 hours and was enroute to Inkster, Michigan to visit family. Endangered was driving a vehicle which was plated and a description of the vehicle was given to officers.  Officers utilized this information to search FLOCK cameras and managed to obtain a match to the endangered vehicle in Dearborn. Detectives used this information to coordinate with other agencies in Michigan to locate the subject who was not harmed.
+2024- Female was entered into LEIN as Missing Endangered. Endangered left Holland around 1330 hours and was enroute to Inkster, Michigan to visit family. Endangered was driving a vehicle which was plated and a description of the vehicle was given to officers. Officers utilized this information to search FLOCK cameras and managed to obtain a match to the endangered vehicle in Dearborn. Detectives used this information to coordinate with other agencies in Michigan to locate the subject who was not harmed.
 
-2025- Assisted SSCENT, a northern MSP narcotics team in locating their fugitive who had threatened to kill a detective once the suspect learned he had sold narcotics to an undercover detective. SSCENT advised that the suspect was possibly in the Muskegon area but working in Ottawa County. WEMET utilized FSC and established a pattern of life locating the suspect while on his way to work at Tyson foods. OTSH Deputies assisted taking the suspect into custody.   
+2025- Assisted SSCENT, a northern MSP narcotics team in locating their fugitive who had threatened to kill a detective once the suspect learned he had sold narcotics to an undercover detective. SSCENT advised that the suspect was possibly in the Muskegon area but working in Ottawa County. WEMET utilized FSC and established a pattern of life locating the suspect while on his way to work at Tyson foods. OTSH Deputies assisted taking the suspect into custody.
 
-2026- WEMET detectives were working an extensive narcotics investigation in the Holland area. Numerous arrests were made throughout the investigation, but one individual was outstanding and was difficult to locate. WEMET received a tip on a possible boyfriend of the suspect. FSC was used to locate the vehicle establishing a pattern of life that led detectives to a new apartment, not known to detectives. During the investigation the suspect fugitive was seen outside the apartment and was taken into custody. 
-In the Michigan NewsMancelona, MI6/1/2026Sexual AssaultFlock LPR Helps Michigan Deputies Arrest Sexual Assault Suspect in 12 HoursLPRRead full storyClinton Township, MI5/28/2026Stolen Vehicle RecoveryFlock LPR Helps Recover Stolen U-Haul in Clinton Township, MILPRRead full storyJackson, MI5/25/2026Stolen Vehicle RecoveryFlock LPR Helps Deputies Recover Stolen Vehicles and Handgun in Jackson, MILPRRead full storySilver Creek Township, MI5/21/2026Hit-and-RunFlock LPR Helps Identify Suspect in Fatal Michigan Hit-and-RunLPRRead full storyOrion Township, MI5/19/2026CarjackingFlock LPR Helps Track Carjacking Suspect to Arrest in MichiganLPRRead full storyData & Usage SummaryData RetentionThe number of days data is retained.30 daysTotal CamerasNumber of LPR and other cameras.22LPR CamerasNumber of LPR cameras only.22Unique Vehicles DetectedNumber of unique plate reads over the last 30 days.531,290Number of SearchesTotal user search sessions over the last 30 days.260Hotlists Alerted OnNational and statewide hotlist sources.NCMEC Amber Alert, Wisconsin DOJ, MI LEINNumber of Hotlist HitsTotal hotlist hits over the last 30 days.1,841Top Offense TypesOffense Types used for LPR searches in the last 30 days.Weapons Offense (Guns/Shots Fired)Hit and Run/Car AccidentAssault/Battery OffensesAssault/Battery Offenses (Domestic)Traffic InfractionSharing Network Data WithOrganizations granted access to Holland MI PD data.
-                    [data-tp-access-viewport=&quot;true&quot;]::-webkit-scrollbar {
-                        display: none;
-                    }
-                Germantown OH PD(Dead/Old) Plymouth IN PDAbbotsford WI PDAdams County IL SOAdams County IN SOAdams County WI SOAdams WI PDAddison IL PDAdrian MI PDAdrian Township MI PDAkron OH PDAlbion MI DPSAlexandria IN PDAllegan County SO MIAllen County IN SOAlmont MI PDAlpena County MI SOAlvin TX PDAmberley Village OH PDAnderson IN PDAnna TX PDAntioch IL PDArlington Heights IL PDArmada MI PDArthur IL PDAshland County OH SOAshland County WI SOAshland OH PDAshtabula County OH SOAshtabula OH PDAthalia OH PDAthens County OH SOAuburn Hills MI PDAuburn IN PDAuglaize County OH SOAurora IL PDAurora OH PDAustin County TX SOAviston IL PDAvon IN PDBaraboo WI PDBarberton OH PDBarrington Hills IL PDBarron County WI SOBartlett IL PDBatavia OH PDBattle Creek MI PDBayfield County WI SOBeachwood OH PDBeaver Dam WI PDBellefontaine PD - OHBellevue OH PDBelpre OH PDBelvidere IL PDBenton IL PDBerea OH PDBerkeley IL PDBerne IN PDBerrien County MI SOBeverly Hills MI PDBeverly OH PDBig Bend WI PDBirmingham MI PDBlackman/Leoni Public Safety MIBloomfield Twp MI PDBloomington IL PDBlue Ash OH PDBoardman Township OH PDBolivar OH PDBoone County IL SOBourbonnais IL PDBowling Green OH PDBraidwood IL PDBremen IN PDBridgeport Township MI PDBridgeview IL PDBrighton MI PDBristol IN PDBrook Park OH PDBrookfield WI PDBrooklyn OH PDBrookville OH PDBrown County IL SOBrown Deer WI PDBrownsburg IN PDBrownstown Twp PD MIBrunswick OH PDBryan OH PDBureau Co. IL SOBurnett County WI SOBurnham IL PDBurr Ridge IL PDBurton MI PDBushnell IL PDButler IN PDButler Township OH PDByron IL PDCaledonia WI PDCalhoun County MI SOCalumet County WI SOCalumet Park IL PDCambridge City IN PDCampton Hills IL PDCanton IL PDCanton OH PDCarbondale IL PDCarmel IN PDCarol Stream IL PDCarpentersville IL PDCarroll County OH SOCarrollton OH PDCarson County TX SOCarterville IL PDCary IL PDCase Western Reserve University OH PDCass County IN SOCass County MI SOCenterville IN PDCenterville OH PDCentralia IL PDChampaign County IL SOChampaign IL PDCharleston IL PDCharlestown PD INCharlotte MI PDCharter Township of Buena Vista MI PDChatham IL PDChenoa IL PDCherry Valley IL PDChester Township OH PDChesterfield Twp MI PDChesterton IN PDChetek WI PDCheviot OH PDChicago IL PDChillicothe IL PDCity of Delavan WI PDClark County IN SOClark County OH SOClarksville IN PDClawson MI PDClayton Township PD MIClermont County SO - OHCleveland Heights OH PDClinton County MI SOClinton County SO - OHClinton Township MI PDClio MI PDClyde PD OHColdwater MI PDColerain Township PD - OHColumbia County WI SOColumbus IN PDCortland IL PDCortland OH PDCorydon IN PDCottage Grove WI PDCountry Club Hills IL PDCovert Township PD MICrainville IL PDCrawford County IL SOCrawford County IN SOCrawford County WI SOCrawfordsville IN PDCrest Hill IL PDCreve Coeur IL PDCridersville OH PDCross Creek Township OH PDCrown Point IN PDCrystal Lake IL PDCumberland Metro IN PDCuyahoga Falls OH PDDanville IL PDDanville IN PDDarien IL PDDavison Township MI PDDayton PD - OHDearborn County IN SODearborn Heights MI PDDearborn MI PDDecatur IN PDDeer Park OH PDDefiance County OH SODeKalb IL PDDelaware County IN SODelaware County OH SODelhi Twp OH PDDelphi IN PDDepue IL PDDes Plaines IL PDDetroit MI PDDickinson County MI SODixmoor IL PDDNU Creston OH PDDodge County WI SODolton IL PDDowners Grove IL PDDublin OH PDDuPage Co IL Prosecutor OfficeDuPage County IL SOEast Dundee IL PDEast Hazel Crest IL PDEast Lansing MI PDEast Liverpool OH PDEast Peoria IL PDEastlake OH PDEastpointe MI PDEaton OH PDEaton Rapids MI PDEau Claire County WI SOEcorse MI PDElk Grove IL PDElk Rapids MI PDElkhart County IN SOElkhart PD INElkhorn WI PDElm Grove WI PDElwood IN PDElyria OH PDEnergy IL PDEnon OH PDErie County OH SOEuclid OH PDEvansville IN PDEvendale OH PDFairfax OH PDFairfield PD - OHFairfield Township OH PDFairlawn OH PDFairmount IN PDFarmer City IL PDFarmington Hills MI PDFarmington MI DPSFayette County IL SOFayette OH PDFenton MI PDFishers IN PDFlat Rock MI PDFlint MI PDFlint Township MI PDFlora- IL - PDFlorence Co. WI SOFlossmoor IL PDFloyd County IN SOFlushing City MI PDForest County WI SOForest Park OH PDForest Preserve District Will County PD (IL)Fort Loramie OH PDFort Wayne IN PDFort Worth TX PDFox Lake IL PDFox Valley IL Parks DistrictFrankenmuth MI PD - New BusinessFranklin County IL SOFranklin County OH SOFranklin IN PDFranklin Park IL PDFranklin WI PDFranklin-Bingham Farms MI PDFraser MI DPSFreeport IL PDFremont OH PDFriendswood TX PDFruitport Township MI PDFulton County IL SOFulton IL PDGahanna OH PDGalesburg IL PDGallia County OH SOGarden City MI PDGarfield Heights OH PDGary IN PDGas City IN PDGaylord MI PDGeauga County OH SOGenesee Co. MI 911 Dispatch AuthorityGenesee County MI SOGenoa Township OH PDGeorgetown IL PDGeorgetown IN PDGlen Carbon IL PDGlen Ellyn IL PDGlencoe IL PDGlendale OH PDGlenview IL PDGogebic County MI SOGolf Manor OH PDGoshen IN PDGoshen TWP OH PDGrafton WI PDGranbury TX PDGrand Beach/Michiana MI PDGrand Blanc Twp MI PDGrand Chute WI PDGrand Haven MI DPSGrand Rapids MI PDGrand Traverse County MI SOGrand Valley State University MIGrandville PD MIGrant County IN SOGrant County WI SOGrayslake IL PDGreen Bay WI PDGreen Lake County WI SOGreene County IN SOGreene County OH SOGreenfield IN PDGreenfield WI PDGreenwood IN PDGriffith IN PDGrosse Ile MI PDGrove City OH PDGroveport OH PDGrundy County IL 911Grundy County IL SOGuernsey County OH SOGun Lake Tribal PD MIGurnee IL PDHamilton County IN SOHamilton County OH SOHamilton Township OH PD (Warren County)Hamtramck MI PDHancock County IN SOHanover Park IL PDHardin County OH SOHarper Community College IL PDHarris County TX SOHarrison County IN SOHarrison OH PDHartford City IN PDHarvey IL PDHarwood Heights IL PDHazel Crest IL PDHazel Park MI PDHebron IN PDHenry County IL SOHenry County IN SOHenry County OH SOHerrin IL PDHickory Hills IL PDHighland IN PDHighland Park IL PDHighland Park MI PDHillsboro OH PDHinckley IL PDHobart IN PDHoffman Estates IL PDHolland TX PDHolmen WI PDHolmes County SO OHHomecroft IN PDHoopeston IL PDHouston Arson Bureau TXHouston TX PDHoward County IN SOHudson WI PDHumble ISD PD TXHunting Valley OH PDHuntingburg IN PDHuntington County IN SOHuntington IN PDHuntley IL PDHuron OH PDHuron Township MI PDIllinois Attorney GeneralIN - Albion PDIN - Angola PDIN - Jasonville PDIN - Middletown PDIN - Noble County ProsecutorsIN - Rensselaer PDIN - Sweetser PDIN - Tipton County SOIN- Noble County SOIndependence OH PDIndian Hill OH PDIndiana Department of CorrectionsIndiana Department of Natural ResourcesIndiana State Police IN PDIndianapolis Metro PD INIngalls IN PDInkster MI PDInverness IL PDIowa County WI SOJackson County Central Dispatch MIJackson County MI SOJackson MI PDJackson WI PDJacksonville IL PDJanesville WI PDJasper County IN SOJasper IN PDJefferson County OH SOJefferson County SO INJefferson County WI SOJefferson WI PDJeffersonville IN PDJennings County IN SOJohnson County IN SOJohnson County TX SOJohnston City IL PDJoliet IL PDJoliet Junior College IL PDJustice IL PDKalamazoo County MI SOKalamazoo MI PDKalamazoo Township MI PDKane County Forest Preserve IL PDKane County IL SOKankakee County IL SOKankakee IL PDKellogg Community College Campus MI PDKendall County IL SOKendall County TX SOKendallville IN PDKenosha County WI SOKenosha WI PDKent County MI SOKentwood MI PDKettering OH PDKewanee IL PDKilleen TX PDKleberg TX County Attorney's Task ForceKnox County IL SOKnox County IN SOKokomo IN PDLa Grange IL PDLa Grange Park IL PDLac Courte Oreilles Tribal Police WILadd IL PDLafayette IN PDLaGrange IN PDLake County IL SOLake County IN SOLake County OH SOLake Delton WI PDLake Forest IL PDLake Geneva WI PDLake In The Hills IL PDLake Michigan College Campus PDLake Mills WI PDLake Villa IL PDLake Zurich IL PDLakemore OH PDLakewood OH PDLansing IL PDLansing MI PDLapeer City MI PDLapel IN PDLaporte County IN SOLaSalle Co. IL SO - NewLasalle IL PDLathrup Village MI PDLavon TX PDLawrence County IL SOLawrence County IN SOLebanon OH PDLee County IL SOLemont IL PDLena IL PDLenawee County MI SOLexington KY PDLicking County OH SOLigonier IN PDLima OH PDLincoln Park MI PDLisle IL PDLithopolis OH PDLittle Traverse Bay Band of Odawa Indians MI PDLivingston County IL SOLivingston County MI SOLivonia MI PDLockland OH PDLodi WI PDLogansport IN PDLombard IL PDLorain County OH SOLorain OH PDLoudon County TN SOLoudon TN PDLouisville OH PDLoves Park IL PDLowell MI PDLucas County OH SOLufkin TX PDLyons IL PDMacomb County MI SOMacomb IL PDMacon County IL SOMadeira OH PDMadison County IN SOMadison Heights MI PDMadison Township MI PDMadison Village OH PDMahoning Valley Law Enforcement TF (OH)Mansfield OH PDMansfield TX PDManteno IL PDMaple Bluff WI PDMaple Heights OH PDMarathon County WI SOMarinette WI PDMarion County OH SOMarion Health PD (IN)Marion IL PDMarion IN PDMarion OH PDMarkle IN PDMarquette County MI SOMarquette County WI SOMarseilles IL PDMarshall County Prosecutor’s Office INMarshall TX PDMartinsville IN PDMarysville MI PDMarysville OH PDMason County IL SOMason PD - OHMatteson IL PDMattoon IL PDMaumee OH PDMcCook IL PDMcDonough County IL SOMcFarland WI PDMcHenry County Conservation District IL PDMcHenry County IL SOMcKinney TX PDMclean County IL SOMedina County OH SOMedina Township OH PDMelrose Park IL PDMelvindale MI PDMenard County IL SOMenasha WI PDMendota IL PDMenominee County SO MIMenominee Tribal WI PDMenomonee Falls WI PDMentor OH PDMequon WI PDMercer County OH SOMesquite TX PDMetamora Township MI PDMetra IL PDMetro East Auto Theft (IL)Metro Police Authority of Genesee County MIMetropolis IL PDMI - Bloomfield Public SafetyMI - Riverview PDMI - Saginaw County SOMI - Village of MiddlevilleMiami County OH SOMichigan City IN PDMichigan Department of Corrections (MDOC)Michigan Department of Natural ResourcesMichigan Senate MI PDMichigan State PoliceMiddleburg Heights OH PDMiddlebury IN PDMidlothian IL PDMilan IL PDMilan MI PDMilford MI PDMilton IN PDMilwaukee County WI SOMilwaukee WI PDMinster OH PDMokena IL PDMoline IL PDMonee IL PDMonon IN PDMonona WI PDMonroe County MI SOMonroe County WI SOMonroe MI PDMonroe OH PDMontgomery County IN SOMontgomery County TX SOMoraine OH PDMorgan County IL SOMorgan County IN SOMorris IL PDMorrow OH PDMorton Grove IL PDMorton IL PDMount Morris Township PD MIMount Pleasant WI PDMount Prospect IL PDMount Vernon IN PDMount Vernon OH PDMountain Bay Metro WI PDMuncie IN PDMundelein IL PDMuscoda WI PDMuskego WI PDMuskegon County MI SOMuskegon Heights MI PDMuskegon MI PDMuskegon Township MI PD (Muskegon County)Muskingum County OH SONapoleon OH PDNapoleon Twp MI PDNappanee IN PDNational Center for Missing & Exploited Children [NCMEC]Neshkoro WI PDNew Albany OH PDNew Baden IL PDNew Baltimore MI PDNew Berlin WI PDNew Bremen OH PDNew Haven IN PDNew Knoxville OH PDNew Richmond OH PDNewark OH PDNewtown OH PDNICTD - IN PDNiles IL PDNiles OH PDNoble County OH SONoblesville IN PDNorfolk Southern RR IL PDNormal IL PDNorth Chicago IL PDNorth Manchester IN PDNorth Muskegon MI PDNorth Olmsted OH PDNorth Randall OH PDNorth Ridgeville OH PDNorth Royalton OH PDNorthbrook IL PDNorthville Twp MI PDNorton Shores MI PDNorwalk OH PDNorwood OH PDNottawaseppi Huron Band of the Potawatomi Tribal Police MINovi MI PDO'Fallon IL PDOak Brook IL PDOak Creek WI PDOak Lawn IL PDOak Park MI Dept of Public SafetyOakland County MI SOObetz OH PDObion County TN SOOceana County MI SOOconomowoc WI PDOgle County IL SOOglesby IL PDOH - Blanchester PDOH - Bridgeport PDOH - Butler County SOOH - Chillicothe PDOH - Commercial Point PDOH - Hamilton PDOH - Harrison County SOOH - Highland County SOOH - Jefferson County Drug Task ForceOH - Johnny Appleseed Metropolitan Park District PDOH - Mariemont PDOH - Metroparks ToledoOH - Middletown PDOH - Milford PDOH - Oakwood PDOH - Preservation Parks of Delaware CountyOH - Sabina PDOH - South Bloomfield PDOH - Stark Parks Public SafetyOH - U.S.23 Major Crimes Task ForceOH - Willard PDOH - Williamsburg PDOH- Springfield Township PD (Hamilton Co)Ohio Attorney General's Office - OOCICOhio Department of Rehabilitation and Correction - Office of the Chief InspectorOhio State Fire MarshalOhio State Highway PatrolOK - Washita County SOOlmsted Township OH PDOnalaska WI PDOneida County WI SOOntonagon County MI SOOregon OH PDOrland Hills IL PDOswego IL PDOttawa County MI SOOttawa County OH SOOttawa IL PDOxford PD - OHOzaukee County WI SOPalos Heights IL PDPalos Hills IL PDPalos Park IL PDParis TX PDParke County IN SOParma Heights OH PDParma OH PDPaulding County OH SOPecatonica IL PDPentwater MI PDPeoria County IL SOPeoria IL PDPeotone IL PDPerkins Township OH PDPerry County OH SOPerrysburg OH PDPerrysburg Twp OH PDPeru IN PDPetersburg IL PDPierce Township OH PDPike County IL SOPittsboro IN PDPittsfield Twp MI PDPlainfield IL PDPlainfield IN PDPlover WI PDPlymouth MI PDPlymouth PD INPlymouth Township MI PDPokagon Tribal MI PDPort Clinton OH PDPort Edwards WI PDPort Huron MI PDPortage County WI SOPortage IN PDPortage MI PDPorter County IN SOPorter IN PDPosen IL PDPosey County IN SOPowell OH PDPrairie Du Chien WI PDPrairie Grove IL PDPrinceton IL PDPulaski County IN SOPurdue University IN PDQuincy IL PDRacine County WI Communications CenterRacine WI PDRantoul IL PDReading OH PDRedford Twp MI PDRichfield OH PDRichland County WI SORichland Village MI PDRipon WI PDRiver Falls WI PDRiver Grove IL PDRiver Rouge MI PDRiverdale IL PDRiverside IL PDRiverton IL PDRobinson IL PDRock County WI SORock Falls IL PDRock Island County IL SORock Island IL PDRockdale IL PDRockford Dept of Public Safety MIRockford IL PDRockport IN PDRocky River OH PDRolling Meadows IL PDRomeoville IL PDRomulus MI PDRoselle IL PDRosemont IL PDRoseville MI PDRoss Township OH PDRossford OH PDRossville IL PDRound Lake Park IL PDRound Rock TX PDRoyal Oak MI PDRush County IN SOSachse TX PDSaginaw MI PDSaginaw Township MI PDSaginaw Valley State University MI PDSaint Clair Shores MI PDSaint Croix Falls WI PDSaint Francis WI PDSalem IL PDSalem OH PDSaline County IL SOSandusky County SO OHSandusky OH PDSangamon County IL SOSanta Claus IN PDSauk County WI SOSauk Prairie WI PDSauk Village IL PDSavanna IL PDSchoolcraft College MI PDSchuyler Co. IL SOScurry County TX SOSeguin TX PDSeymour IN PDSharonville OH PDSheboygan WI PDShelby County IL SOShelby Township MI PDShelbyville IN PDSheridan IN PDSherman IL PDShiloh IL PDShorewood IL PDSidney OH PDSilver Lake PD INSkokie IL PDSlinger WI PDSolon OH PDSouth Barrington IL PDSouth Bend IN Airport Transit PDSouth Bend IN PDSouth Elgin IL PDSouth Euclid OH PDSouth Lyon MI PDSouth Milwaukee WI PDSouth Russell OH PDSouthern Illinois University IL PDSouthern View IL PDSouthfield MI PDSpeedway IN PDSpencer County IN SOSpring Arbor MI PDSpring Valley IL PDSpringboro OH PDSpringdale OH PDSpringfield OH PDSpringport Twp MI PDSt. Charles IL PDSt. Clair County MI SOSt. Clair MI PDSt. Joseph County SO INSt. Joseph Department of Public Safety MIStarke County IN SOSteger IL PDSterling Heights MI PDSterling IL PDStevens Point WI PDStow OH PDStrongsville OH PDStruthers OH PDSturgis MI PDSullivan  IL PDSullivan County IN SOSummit County OH SOSummit IL PDSumpter Twp MI PDSuperior WI PDSylvania OH PDSylvania Township OH PDTallmadge OH PDTaylor MI PDTazewell County IL SOTell City IN PDTerre Haute IN PDTexas Department of Criminal JusticeThe Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MIThree Rivers MI PDTinley Park IL PDTipp City OH PDTippecanoe County IN SOToledo OH PDTomah WI PDToronto OH PDTraverse City MI PDTrenton OH PDTrenton PD MITroy MI PDTroy OH PDTuscarawas County OH SOTuscola County MI SOTwinsburg OH PDTX - Vidor PDUnion Township PD (Clermont Co) - OHUniversity Circle OH PDUniversity of Illinois - Chicago IL PDUniversity of Illinois Urbana-Champaign IL PDUniversity of Illinois- SpringfieldUniversity of Michigan Ann Arbor Campus MI PDUniversity of Michigan Dearborn Campus MI PDUniversity of Notre Dame PD (IN)University of Wisconsin - Green Bay WI PDUniversity of Wisconsin - Madison WI PDUrbana OH PDUtica MI PDUtica OH PDValparaiso IN PDVan Buren MI PDVan Wert OH PDVandalia IL PDVandalia OH PDVanderburgh County IN SOVermillion County IN SOVernon County WI SOVernon Hills IL PDVicksburg MI PDVienna IL PDVigo County IN SOVilla Park IL PDVillage of Dundee MI PDVillage of Fox Crossing WI PDVillage of French Island WI PDVillage of Manhattan IL PDVillage of Mukwonago WI PDVillage of Pingree Grove IL PDVillage of Turtle Lake WI PDVincennes IN PDVirden IL PDWabash County IN SOWabash IN PDWadsworth OH PDWakarusa IN PDWalker MI PDWalled Lake MI PDWalworth County WI SOWapakoneta OH PDWarren County OH SOWarren MI PDWarrensville Heights OH PDWarrenville IL PDWarrick County IN SOWashburn County WI SOWashington County IN SOWashington County OH SOWashington County WI SOWashington IL PDWaterford Township MI PDWaterville OH PDWauconda IL PDWaukegan IL PDWaukesha County WI SOWaukesha WI PDWaupaca County WI SOWaushara County WI SOWayland MI PDWayne County Airport Authority MIWayne IL PDWells County IN SOWest Allis WI PDWest Bend WI PDWest Bloomfield Twp MI PDWest Central Consolidated Communications IL PDWest Chester OH PDWest Chicago IL PDWest City IL PDWest Lafayette IN PDWest Milton OH PDWest Terre Haute IN PDWestchester IL PDWestern Michigan University MI PDWestfield IN PDWestlake OH PDWestland MI PDWestmont IL PDWheaton IL PDWheeling IL PDWhite County IL SOWhite County IN SOWhite Lake Twp MI PDWhitehall MI PDWhitehall OH PDWhitestown IN PDWhitewater WI PDWhitley County IN ProsectorWI Department of JusticeWichita Falls TX PDWickliffe OH PDWill County IL SOWilliamson Co. IL SOWilloughby Hills OH PDWilloughby OH PDWillow Springs IL PDWillowbrook IL PDWilmette IL PDWilmington OH PDWinchester IN PDWindsor- IL- PDWinnebago County IL SOWinnebago County WI SOWintersville OH PDWisconsin State Capitol Police (WI)Wixom MI PDWolverine Lake MI PDWonder Lake IL PDWood Dale IL PDWoodford County IL SOWoodhaven MI PDWoodlawn OH PDWoodridge IL PDWoodstock IL PDWyandot County OH SOWyandotte MI PDWyoming MI PDWyoming OH PDYoungstown OH PDZanesville OH PDZeeland MI PDZionsville IN PDReceiving Network Data FromOrganizations sharing their data with Holland MI PD.
-                    [data-tp-access-viewport=&quot;true&quot;]::-webkit-scrollbar {
-                        display: none;
-                    }
-                Germantown OH PDIN - West Baden Springs PD[Federal] Indiana Dunes National Park IN PD[Federal] Roudebush Medical Center IN Veterans Affairs PD[Federal] Tennessee Valley Authority Police[Federal] US Postal Inspection Service[Federal] Wright Patterson OH Air Force BaseAdams County IL SOAdams County IN SOAddison IL PDAdrian MI PDAkron OH PDAL - Andalusia PDAL - Autauga County SOAL - Sylacauga PDAL - Wallace State Community CollegeAL- Clarke County SOAlabama Law Enforcement Agency (ALEA)Alabaster AL PDAlachua FL PDAlbion MI DPSAlcoa TN PDAlexandria IN PDAlgood TN PDAllegan County SO MIAllen County IN SOAllen TX PDAlmont MI PDAlpena County MI SOAltoona IA PDAmberley Village OH PDAmherst OH PDAnchorage KY PDAnderson County TN SOAnderson IN PDAngleton PD TXAnkeny IA PDAnoka County MN SOAnthony TX PDAntigo WI PDAntrim County SO MIArcola IL PDArcola TX PDArdmore AL PDArlington TX PDArmada MI PDArnold MO PDArthur IL PDAshland City TN PDAshland County OH SOAshland County WI SOAshland OH PDAshland WI PDAshtabula County OH SOAshville AL PDAthens County OH SOAthens IL PDAubrey TX PDAuburn Hills MI PDAuburn IN PDAuburn NY PDAudrain County MO SOAudubon Park KY PDAuglaize County OH SOAustin County TX SOAviston IL PDAvon IN PDBaker County FL SOBaldwin County GA SOBarberton OH PDBardstown PD KYBargersville IN PDBarron County WI SOBartholomew County IN SOBatavia OH PDBattle Creek MI PDBaylor Scott & White PD (TX)Baytown TX PDBeaumont TX PDBedford OH PDBeech Grove IN PDBellville TX PDBelpre OH PDBelvidere IL PDBerea OH PDBerkley Dept of Public Safety MIBerrien County MI SOBessemer AL PDBeverly Hills MI PDBexley OH PDBig Spring PD TXBirmingham MI PDBlackman/Leoni Public Safety MIBloomfield Twp MI PDBlount County TN SOBlountsville AL PDBlue Springs MO PDBoardman Township OH PDBogata TX PDBolingbrook IL PDBond County IL SOBoone County IL SOBoone County IN SOBosque County TX SOBourbonnais IL PDBowling Green KY PDBowling Green Warren County Drug Task Force KYBradford County FL SOBradley IL PDBraidwood IL PDBrecksville OH PDBreese IL PDBremen IN PDBrent AL PDBrentwood MO PDBrevard County FL SOBridgeport Township MI PDBristol IN PDBroadview Heights OH PDBrook Park OH PDBrookfield WI PDBrookville OH PDBrown County SO INBrown Deer WI PDBrownsburg IN PDBrownstown Twp PD MIBrunswick OH PDBuchanan County MO SOBullitt County KY SOBureau Co. IL SOBurnett County WI SOBurr Ridge IL PDBurton MI PDButler IN PDButler Township OH PDCactus TX PDCaldwell CO TX SOCaldwell County TX Constable's Pct 2Calhoun County AL SOCalhoun County MI SOCalloway County KY SOCalumet Park IL PDCambridge City IN PDCanton IL PDCanton OH PDCape Girardeau MO PDCarlyle IL PDCarmel IN PDCarroll County OH SOCarson City NV SOCarterville IL PDCary IL PDCasey IL PDCass County IN SOCass County MI SOCastle Hills TX PDCastroville TX PDCedar Lake IN PDCelina TX PDCenterville OH PDCentralia IL PDChambers County AL SOChambers County TX SOCharleston IL PDCharleston MO DPSCharlestown PD INCharlotte MI PDCharter Township of Buena Vista MI PDChatham IL PDCheatham County TN SOChenoa IL PDCherokee County AL SOChester Township OH PDChesterfield MO PDChesterfield PD INChesterfield Twp MI PDChesterton IN PDChetek WI PDCheviot OH PDChippewa PA PDCicero IN PDCity of Delavan WI PDCity of Hurstbourne (KY)City of Oak Ridge North TX PDCity of West TX PDClaiborne County TN SOClark County IN SOClark County OH SOClark-Pleasant Police Department - IN PDClarksville IN PDClawson MI PDClay County MO SOClayton County GA PDClayton Township PD MIClear Lake WI PDClearwater FL PDCleveland Metro Parks OH PDClinton County MI SOClinton TN PDClinton Township MI PDClio MI PDCoastal Bend College Campus PDCobb County GA PDCocke County TN SOCocoa Beach FL PDCocoa FL PDCoconut Creek FL PDColdwater MI PDColerain Township PD - OHColes County IL SOCollege Park GA PDColumbia County FL SOColumbus IN PDColumbus WI PDCommunity Health PD INCooke County TX SOCookeville TN PDCopley Township OH PDCoral Springs FL PDCottage Grove WI PDCottleville MO PDCovert Township PD MICovington County AL SOCrainville IL PDCrawford County IL SOCrawford County IN SOCrawford County WI SOCrawfordsville IN PDCrest Hill IL PDCrestview FL PDCreve Coeur IL PDCreve Coeur MO PDCrossville TN PDCrowell TX PDCrowley TX PDCrown Point IN PDCrystal City MO PDCrystal Lake IL PDCSX Railroad PDCullman County AL SOCumberland Metro IN PDCumberland WI PDCumby TX PDCuyahoga Falls OH PDCuyahoga Heights OH PDCVG Airport KY PDDadeville AL PDDale County AL SODandridge TN PDDanville IN PDDanville KY PDDaphne AL PDDavenport FL PDDavenport IA PDDavie FL PDDavison Township MI PDDayton IN PDDaytona Beach Shores FL PDDearborn County IN SODearborn Heights MI PDDecatur AL PDDecatur County IN SODecatur IN PDDeer Park OH PDDeer Park TX PDDefiance County OH SODelaware County IN SODelaware County OH SODelhi Twp OH PDDelphi IN PDDenton County TX SODes Peres MO DPSDeSoto TX PDDFW Airport PD TXDickinson County MI SODickinson TX PDDickson TN PDDolton IL PDDothan AL PDDouglas County IL SODouglas County NV SODubois County IN SODumas TX PDDuPage County IL SODyer County TN SODyersburg TN PDEast Lansing MI PDEast Peoria IL PDEast Tawakoni TX PDEastlake OH PDEastpointe MI PDEaton Rapids MI PDEau Claire County WI SOEcorse MI PDEctor County TX SOEdinburg TX PDEdinburgh IN PDEdmundson MO PDEl Paso IL PDElizabethtown KY PDElk Rapids MI PDElkhart County IN SOElkhart PD INEllettsville IN PDElm Grove WI PDElm Ridge TX PDElmore OH PDElwood IN PDElyria OH PDEnglewood OH PDEnon OH PDErath County TX SOErie County NY SOErie County OH SOErwin TN PDEscambia County FL SOEtowah County AL SOEufaula AL PDEuless TX PDEureka MO PDEvansville IN PDFairfax OH PDFairfield PD - OHFairfield Township OH PDFairlawn OH PDFairmount IN PDFalfurrias TX PDFarmer City IL PDFarmersville TX PDFarmington Hills MI PDFarmington MI DPSFarmington MO PDFayette County TN SOFenton MI PDFerdinand IN PDFerguson MO PDFerndale MI PD [INACTIVE]Festus MO PDFish and Wildlife Commission FL PDFishers IN PDFlat Rock MI PDFlint MI PDFlint Township MI PDFlock Safety TrainingFlora- IL - PDFlorence AL PDFlorence Co. WI SOFlorida Atlantic University FL PDFlorida City FL PDFlorissant MO PDFloyd County IN SOFlushing City MI PDFoley AL PDForest Park OH PDFort Bend County Const TX Pct 4Fort Loramie OH PDFort Stockton TX PDFort Walton Beach FL PDFort Worth TX PDFortville IN PDFrankenmuth MI PD - New BusinessFranklin County AL SOFranklin County IL SOFranklin County MO SOFranklin IN PDFranklin WI PDFranklin-Bingham Farms MI PDFraser MI DPSFremont OH PDFruitland Park FL PDFruitport Township MI PDFulshear TX PDFulton County IN SOFulton IL PDFulton MO PDGahanna OH PDGainesville FL PDGalena Park ISD TX PDGalesburg IL PDGalveston County TX SOGalveston TX PDGarden City MI PDGardendale AL PDGarfield Heights OH PDGarrard County KY SOGary IN PDGas City IN PDGaylord MI PDGeauga County OH SOGeddes Town NY PDGenesee County MI SOGeorgetown IL PDGeorgetown IN PDGlades County FL SOGlasgow KY PDGlendale OH PDGlenwood IL PDGogebic County MI SOGolf Manor OH PDGoshen IN PDGrand Beach/Michiana MI PDGrand Blanc Twp MI PDGrand Haven MI DPSGrand Rapids MI PDGrand Traverse County MI SOGrand Valley State University MIGrandville PD MIGrant County IN SOGray County TX SOGrayslake IL PDGrayson County TX SOGreen Township OH PDGreenbrier TN PDGreencastle IN PDGreendale IN PDGreene County IN ProsecutorsGreene County OH SOGreenfield IN PDGreenfield WI PDGreensburg IN PDGreenville AL PDGreenwood IN PDGreenwood Independent School District TXGriffith IN PDGrosse Ile MI PDGroveport OH PDGrundy County IL SOGuadalupe County TX SOGuernsey County OH SOGulf Breeze FL PDGun Lake Tribal PD MIGuntersville AL PDHackleburg AL PDHamblen County TN SOHamburg Town NY PDHamburg Village NY PDHamilton AL PDHamilton County IN SOHamtramck MI PDHancock County IN SOHannibal MO PDHanover IN PDHanover Park IL PDHardin County KY SOHardin County OH SOHarris County Const TX Pct 1Harris County Const TX Pct 4Harris County Const TX Pct 5Harris County TX SOHarrison County IN SOHartland WI PDHartselle AL PDHarvey IL PDHarwood Heights IL PDHavana FL PDHayden AL PDHazel Crest IL PDHazel Park MI PDHazelwood MO PDHeart of Texas Auto Theft Task ForceHebron IN PDHenderson County KY SOHenderson KY PDHenderson TX PDHendersonville TN PDHendry County FL SOHenry County IN SOHenry County OH SOHeritage Creek KY PDHermitage PA PDHerrin IL PDHickory Creek TX PDHickory Hills IL PDHidalgo County TX SOHigginsville MO PDHigh Springs FL PDHighland IN PDHighland Park MI PDHilliard OH PDHillsborough County FL SOHinckley IL PDHobart IN PDHolland MI PDHolly Hill FL PDHolmen WI PDHolmes County FL SOHomewood AL PDHomewood IL PDHoopeston IL PDHoover AL PDHope IN PDHopkinsville KY PDHorizon TX PDHouston Housing Authority TXHouston TX PDHoward County IN SOHuber Heights OH PDHudson WI PDHueytown AL PDHuffman ISD TX PDHume PD ILHuntington IN PDHuntsville AL PDHuron Township MI PDHurst TX PDIA - Eldridge PDIA - Storm Lake PDIllinois Attorney GeneralIN - Angola PDIN - Jasonville PDIN - Noble County ProsecutorsIndian Hill OH PDIndian Hills KY PDIndian River County FL SOIndian River Shores FL PDIndiana Department of CorrectionsIndiana Department of Natural ResourcesIndiana State Police IN PDIndianapolis International Airport IN PDIndianapolis Metro PD INIngalls IN PDInkster MI PDIowa Department of CorrectionsIowa State University IA PDIronwood PSD MIIroquois IL SOIrving TX PDItasca IL PDJack County TX SOJackson AL PDJackson County IN SOJackson County MI SOJackson MI PDJacksonville Beach FL PDJacksonville FL SOJasper AL PDJasper CO IL SOJasper County IN SOJasper IN PDJefferson City MO PDJefferson City TN PDJefferson County KY SOJefferson County MO SOJefferson County OH SOJefferson County TN SOJeffersontown KY PDJemison AL PDJennings County IN SOJohnsburg IL PDJohnson County IN SOJohnson County TN SOJohnson County TX SOJohnston City IL PDJoliet IL PDJuneau County WI SOKalamazoo County MI SOKalamazoo Township MI PDKane County Forest Preserve IL PDKankakee County IL SOKaufman TX PDKellogg Community College Campus MI PDKenmore Village NY PDKenosha County WI SOKent County MI SOKentwood MI PDKilleen TX PDKingsford Heights IN PDKingston Springs TN PDKingston TN PDKleberg TX County Attorney's Task ForceKnox County IL SOKnox County IN SOKnox County TN SOKnoxville TN PD [Inactive]Kokomo IN PDLa Grange Park IL PDLa Porte TX PDLackawanna City NY PDLafayette IN PDLafayette TN PDLaGrange County SO INLaGrange IN PDLaGrange KY PDLake City FL PDLake County OH SOLake Delton WI PDLakeland FL PDLakemore OH PDLakeside Park-Crestview Hills KY PDLakewood OH PDLancaster TX PDLansing IL PDLantana FL PDLapeer City MI PDLapel IN PDLaporte County IN SOLaporte IN PDLas Vegas Metro Police Department - NVLaSalle Co. IL SO - NewLasalle IL PDLathrup Village MI PDLauderdale County AL SOLavon TX PDLawrence County IN SOLawrence District Attorney PALawrence IN PDLebanon TN PDLee County AL SOLee County IL SOLeeds AL PDLeesburg AL PDLenawee County MI SOLenoir City TN PDLeon County Sheriffs Office (FL)Lexington KY PDLiberty County FL SOLiberty Hill TX PDLiberty MO PDLicking County OH SOLigonier IN PDLima OH PDLincoln AL PDLincoln Park MI PDLindale TX PDLinden IN PDLineville AL PDLithopolis OH PDLittle Traverse Bay Band of Odawa Indians MI PDLive Oak FL PDLive Oak TX PDLivingston County IL SOLivingston County MI SOLivingston TX PDLivonia MI PDLockland OH PDLodi OH PDLodi WI PDLogan County KY SOLogansport IN PDLong Beach IN PDLorain County OH SOLoudon TN PDLouisville Airport PDLouisville Metro KY PDLouisville OH PDLoveland OH PDLowe's CorporationLowell MI PDLubbock County TX SOLucas County OH SOLufkin TX PDLuling TX PDLyndhurst OH PDLyons IL PDMabank TX PDMackinaw IL PDMacomb County MI SOMacomb IL PDMacon County AL SOMadison County AL SOMadison County IN SOMadison Heights MI PDMadisonville KY PDMahoning Twp PA PDMahoning Valley Law Enforcement TF (OH)Manchester MO PDMansfield OH PDMansfield TX PDMaple Heights OH PDMaplewood MO PDMarathon County WI SOMarble Falls TX PDMargate FL PDMarianna FL PDMarion County IN SOMarion County OH SOMarion County WV SOMarion Health PD (IN)Marion IL PDMarion IN PDMarkle IN PDMarquette County MI SOMarshall County AL SOMarshall County Prosecutor’s Office INMarshall TX PDMarshall WI PDMarshalltown IA PDMartin County FL SOMartins Ferry OH PDMartinsville IN PDMaryland Heights MO PDMarysville MI PDMarysville OH PDMaryville TN PDMason PD - OHMatteson IL PDMattoon IL PDMaumee OH PDMauston WI PDMcCracken County KY SOMcKinney TX PDMcMinnville TN PDMeadows Place TX PDMedina County OH SOMedina Township OH PDMelvindale MI PDMenasha WI PDMenominee County SO MIMenomonee Falls WI PDMentor OH PDMercer County OH SOMesquite TX PDMetamora IL PDMetamora Township MI PDMetro Police Authority of Genesee County MIMetropolis IL PDMI - Riverview PDMI - Saginaw County SOMI - Village of MiddlevilleMiami County OH SOMiami Gardens FL PDMiami-Dade FL SOMiamisburg OH PDMichigan City IN PDMichigan Department of Natural ResourcesMichigan State PoliceMiddle Tennessee State TN PDMiddlebury IN PDMiddletown KY PDMidland County TX SOMidlothian IL PDMilan MI PDMilan TN PDMilford MI PDMilltown IN PDMilton GA PDMilton IN PDMineral Area Drug Task Force MOMineral County NV SOMinster OH PDMiramar FL PDMissouri City TX PDMissouri Department of ConservationMissouri Department of Public SafetyMogadore OH PDMonahans TX PDMonmouth IL PDMonon IN PDMonroe County IN SOMonroe County MI SOMonroe County WI SOMonroe GA PDMonroe MI PDMonroeville OH PDMonterey TN PDMontevallo AL PDMontezuma IN PDMontgomery County ConstablePrecinct 3 (TX)Montgomery County ConstablePrecinct 4 (TX)Montgomery County TN SOMontgomery County TX SOMonticello IL PDMonticello IN PDMoody AL PDMoore County TX SOMooresville IN PDMoraine OH PDMorehead KY PDMorgan County AL SOMorgan County IN SOMorgan County TN SOMorrison IL PDMorristown TN PDMorton Grove IL PDMount Dora FL PDMount Morris Township PD MIMount Pleasant WI PDMount Vernon IN PDMount Vernon OH PDMountain Brook AL PDMountain City TN PDMt. Washington KY PDMt. Zion IL PDMuncie IN PDMurphysboro IL PDMuscle Shoals AL PDMuskego WI PDMuskegon County MI SOMuskegon Heights MI PDMuskegon MI PDMuskegon Township MI PD (Muskegon County)Napoleon OH PDNapoleon Twp MI PDNappanee IN PDNekoosa WI PDNelson County KY SONew Albany IN PDNew Baden IL PDNew Baltimore MI PDNew Berlin TX Marshal's Office [Inactive]New Bremen OH PDNew Castle IN PDNew Chicago IN PDNew Haven IN PDNew Knoxville OH PDNew Lenox IL PDNew London OH PDNew Paris OH PDNewark OH PDNewburgh Heights OH PDNewport TN PDNiagara County NY SONiceville FL PDNicholasville KY PDNICTD - IN PDNiles OH PDNoblesville IN PDNolanville TX PDNolensville TN PDNorth Canton OH PDNorth County Cooperative MO PDNorth Muskegon MI PDNorth Richland Hills TX PDNorth Ridgeville OH PDNorth Royalton OH PDNorthbrook IL PDNorthfield KY PDNorthport AL PDNorthville Twp MI PDNorton Shores MI PDNorwood OH PDNottawaseppi Huron Band of the Potawatomi Tribal Police MINovi MI PDOak Grove MO PDOak Lawn IL PDOak Park MI Dept of Public SafetyOak Point TX PDOak Ridge TN PDOakbrook Terrace IL PDOakland County MI SOOakland TN PDOakwood Village OH PD (Cuyahoga)Oceana County MI SOOdessa MO PDOgle County IL SOOH - Chillicothe PDOH - Highland County SOOH - Jefferson County Drug Task ForceOH - Johnny Appleseed Metropolitan Park District PDOH - Mariemont PDOH - Metroparks ToledoOH - Milford PDOH - Oakwood PDOH - Sabina PDOH - South Bloomfield PDOH - U.S.23 Major Crimes Task ForceOH - Willard PDOH - Williamsburg PDOH- Springfield Township PD (Hamilton Co)Ohio Department of Rehabilitation and Correction - Office of the Chief InspectorOhio State Fire MarshalOkeechobee County FL SOOldham County KY PDOlmsted Falls OH PDOlmsted Township OH PDOnalaska TX PDOntonagon County MI SOOolitic Marshal’s OfficeOpelika AL PDOrange Beach AL PDOrange County FL SOOregon OH PDOrland Hills IL PDOrlando FL PDOsage Beach MO PDOsceola County FL SOOsceola WI PDOttawa County MI SOOttawa County OH SOOttawa IL PDOverland MO PDOwen County IN SOOwensboro KY PDOxford AL PDPaducah KY PDPalestine TX PDPalm Beach County FL SOPalmyra MO PDPalos Hills IL PDPaoli IN PDParis IL PDParis KY PDParis TN PDParis TX PDPark Forest IL PDPark Hills MO PDParke County IN SOParma Heights OH PDParma OH PDPaulding County OH SOPell City AL PDPensacola FL PDPentwater MI PDPeoria IL PDPeotone IL PDPerkins Township OH PDPerry County IN SOPerry County MO SOPerrysburg OH PDPerrysburg Twp OH PDPeru IL PDPeru IN PDPharr TX PDPhelps County MO SOPhenix City AL PDPierce Township OH PDPinellas County FL SOPinellas Park FL PDPittsboro IN PDPittsfield IL PDPlainfield IL PDPlainfield IN PDPlainview TN PDPlover WI PDPlymouth MI PDPlymouth PD INPlymouth Township MI PDPocahontas IL PD [Inactive]Pokagon Tribal MI PDPoland Township OH PDPolk County FL SOPolk County TX SOPonder TX PDPort Clinton OH PDPort Huron MI PDPortage IN PDPortage MI PDPortage WI PDPorter County IN SOPorter IN PDPosen IL PDPosey County IN SOPowell OH PDPrairie Du Chien WI PDPrairie Grove IL PDPrattville AL PDPreble County OH SOPrinceton IN PDProspect PD KYProsper TX PDPulaski County IN SOPurdue University IN PDPutnam County IN SOPutnam County TN SOQuincy IL PDRacine WI PDRadcliff KY PDRalls County MO SOReading OH PDReagan County TX SORed Oak PD TXRed River TX SORedford Twp MI PDReedsburg WI PDReeves CO TX SORegional Vehicle Burglary Suppression Taskforce TXReno NV PDReno TX PDRichfield OH PDRichland County SC SORichland County WI SORichland Village MI PDRichmond Heights MO PDRichmond TX PDRidgeland MS PDRIG WI DTFRiver Falls WI PDRiverdale IL PDRiverside PD - OHRiverton IL PDRiviera Beach FL PDRobertson County TN SORobinson IL PDRobstown TX PDRock Hill SC PDRockdale IL PDRockford Dept of Public Safety MIRockwall County TX SORockwood TN PDRocky River OH PDRoman Forest TX PDRome WI PDRomulus MI PDRoseland IN PDRoseville MI PDRoss Township OH PDRoss Township PA PDRossford OH PDRound Lake Beach IL PDRoyal Oak MI PDRush County IN SORusk CO TX SORussell County AL SORussellville AL PDRutledge TN PDSaginaw MI PDSaint Clair Shores MI PDSaint Croix Falls WI PDSalem OH PDSaline County IL SOSangamon County IL SOSanta Rosa County FL SOSarasota FL PDSauk County WI SOSauk Prairie WI PDSauk Village IL PDSawyer County WI SOSchertz TX PDSchoolcraft College MI PDSchuyler Co. IL SOScott City MO PDScott County IN SOScott County KY SOScottsboro AL PDScottsville KY PDScurry County TX SOSeguin TX PDSEMO Drug Task Force MOSevier County TN SOSevierville TN PDSeymour IN PDSharonville OH PDSheboygan WI PDShelby County AL SOShelby County IL SOShelby County IN SOShelby County KY SOShelby County TN SOShelby Township MI PDShelbyville IN PDShepherdsville KY PDShorewood IL PDSidney OH PDSikeston MO DPSSlinger WI PDSmith County TX SOSmyrna TN PDSnead AL PDSnyder TX PDSolon OH PDSour Lake TX PDSouth Bend IN Airport Transit PDSouth Bend IN PDSouth Central OH Major Crimes UnitSouth Plains Auto Theft Task Force TXSouth Sioux City NE PDSouthern Illinois University IL PDSouthfield MI PDSouthgate KY PDSouthmayd TX PDSparta TN PDSparta WI PDSpeedway IN PDSpencer County IN SOSplendora TX PDSpring Arbor MI PDSpring Hill TN PDSpring Valley IL PDSpringdale OH PDSpringfield OH PDSpringfield TN PDSpringport Twp MI PDSt John IN PDSt. Ann MO PDSt. Augustine FL PDSt. Charles County MO PDSt. Clair County MI SOSt. Clair MI PDSt. Clairsville OH PDSt. Cloud FL PDSt. Francois County MO SOSt. John MO PDSt. Joseph County SO INSt. Joseph Department of Public Safety MISt. Louis County MO PDSt. Matthews KY PDStarke County IN SOSte. Genevieve County MO SOSteger IL PDSterling Heights MI PDSteubenville OH PDStow OH PDStrongsville OH PDStruthers OH PDSturgis MI PDSugarcreek Township OH PDSullivan County IN SOSummit County OH SOSumpter Twp MI PDSumter County FL SOSunbury OH PDSunset Hills MO PDSylvania OH PDSylvania Township OH PDTalladega County AL SOTarpon Springs FL PDTaylor MI PDTell City IN PDTemple TX PDTerre Haute IN PDTexas Department of Criminal JusticeTexas Financial Crimes Intelligence CenterTexas Medical Center PDThe Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MIThomasville AL PDThornton CO PDThree Rivers MI PDTilton IL PDTinley Park IL PDTipp City OH PDTippecanoe County IN SOTitusville FL PDToledo OH PDTomah WI PDToronto OH PDTown & Country MO PDTraverse City MI PDTreasure Island FL PDTrenton IL PDTrenton OH PDTrenton PD MITrotwood OH PDTrousdale County TN SOTroy AL PDTroy MI PDTruesdale MO PDTrussville AL PDTuscaloosa AL PDTuscaloosa County AL SOTuscarawas County OH SOTuscola County MI SOTwinsburg OH PDTX - Cuero PDTX - Horseshoe Bay PDTX - Krugerville PDTX - Mount Enterprise PDTX - Riesel PDTX - San Saba County SOTX - Seymour PDTX - Shelby County SOTX - Vidor PDTX - Young County SOTyler TX PDUlysses KS PDUnion City TN PDUnion County KY SOUnion MO PDUnion Township PD (Clermont Co) - OHUniversity Circle OH PDUniversity Heights OH PDUniversity of Central Missouri PDUniversity of Indianapolis IN PDUniversity of Louisville KY PDUniversity of Michigan Dearborn Campus MI PDUniversity of Notre Dame PD (IN)University of South Florida at St. Petersburg FL PDUniversity Park IL PDUT Southwestern Medical Center TXUtica MI PDValparaiso IN PDVan Buren MI PDVan Wert OH PDVandalia OH PDVanderburgh County IN SOVernon County WI SOVestavia Hills AL PDVicksburg MI PDVienna IL PDVigo County IN SOVilla Park IL PDVillage of Dundee MI PDVillage of French Island WI PDVillage of Mukwonago WI PDVincennes IN PDVirden IL PDWadsworth OH PDWakarusa IN PDWalker MI PDWalled Lake MI PDWalters State Community College TN Campus PDWalworth County WI SOWapakoneta OH PDWapello County IA SOWard County TX SOWarren County OH SOWarren MI PDWarren OH PDWarrensville Heights OH PDWarrick County IN SOWarson Woods MO PDWartburg TN PDWashington County IN SOWashington County OH SOWashington County WI SOWashington Island WI PDWashington MO PDWashoe County NV SOWaterford Township MI PDWatertown WI PDWaterville OH PDWauconda IL PDWaukesha County WI SOWaukesha WI PDWaukon IA PDWauwatosa WI PDWayland MI PDWayne IL PDWebster Groves MO PDWells County IN SOWentzville MO PDWest Allis WI PDWest Bend WI PDWest Bloomfield Twp MI PDWest Buechel KY PDWest Carrollton OH PDWest Chester OH PDWest Chicago IL PDWest Des Moines IA PDWest Lafayette IN PDWest Palm Beach FL PDWest Tawakoni TX PDWest Terre Haute IN PDWestchester IL PDWestfield IN PDWestlake OH PDWestland MI PDWestmont IL PDWheaton IL PDWhite County IN SOWhite House TN PDWhite Lake Twp MI PDWhite Pine TN PDWhitehall MI PDWhitestown IN PDWhitewater WI PDWhitley County IN ProsectorWichita Falls TX PDWilliamson Co. IL SOWilliamson County TN SOWilloughby Hills OH PDWilloughby OH PDWillow Springs IL PDWilmore KY PDWilson County TX SOWilton Manors FL PDWinfield AL PDWinnebago County IL SOWinnebago County WI SOWisconsin State Capitol Police (WI)Wixom MI PDWolverine Lake MI PDWood Dale IL PDWoodford County IL SOWoodhaven MI PDWoodlawn OH PDWoodson Terrace MO PDWoodstock AL PDWooster OH PDWright City MO PDWyandot County OH SOWyandotte MI PDWyoming MI PDWyoming OH PDXenia OH PDYoungstown OH PDZanesville OH PDZeeland MI PDZionsville IN PDPolicy & TrustHolland City ALPR SystemOur cameras are strictly still photograph cameras.  They do not record any movements or actions. (Written within our department policy as well)
+2026- WEMET detectives were working an extensive narcotics investigation in the Holland area. Numerous arrests were made throughout the investigation, but one individual was outstanding and was difficult to locate. WEMET received a tip on a possible boyfriend of the suspect. FSC was used to locate the vehicle establishing a pattern of life that led detectives to a new apartment, not known to detectives. During the investigation the suspect fugitive was seen outside the apartment and was taken into custody.
+
+In the Michigan News
+MANCELONA, MI
+6/1/2026
+
+SEXUAL ASSAULT
+
+Flock LPR Helps Michigan Deputies Arrest Sexual Assault Suspect in 12 Hours
+LPR
+Read full story
+CLINTON TOWNSHIP, MI
+5/28/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Recover Stolen U-Haul in Clinton Township, MI
+LPR
+Read full story
+JACKSON, MI
+5/25/2026
+
+STOLEN VEHICLE RECOVERY
+
+Flock LPR Helps Deputies Recover Stolen Vehicles and Handgun in Jackson, MI
+LPR
+Read full story
+SILVER CREEK TOWNSHIP, MI
+5/21/2026
+
+HIT-AND-RUN
+
+Flock LPR Helps Identify Suspect in Fatal Michigan Hit-and-Run
+LPR
+Read full story
+ORION TOWNSHIP, MI
+5/19/2026
+
+CARJACKING
+
+Flock LPR Helps Track Carjacking Suspect to Arrest in Michigan
+LPR
+Read full story
+Data & Usage Summary
+
+Data Retention
+
+The number of days data is retained.
+
+30 days
+
+Total Cameras
+
+Number of LPR and other cameras.
+
+22
+
+LPR Cameras
+
+Number of LPR cameras only.
+
+22
+
+Unique Vehicles Detected
+
+Number of unique plate reads over the last 30 days.
+
+531,290
+
+Number of Searches
+
+Total user search sessions over the last 30 days.
+
+260
+
+Hotlists Alerted On
+
+National and statewide hotlist sources.
+
+NCMEC Amber Alert, Wisconsin DOJ, MI LEIN
+
+Number of Hotlist Hits
+
+Total hotlist hits over the last 30 days.
+
+1,841
+Top Offense Types
+
+Offense Types used for LPR searches in the last 30 days.
+
+Weapons Offense (Guns/Shots Fired)
+Hit and Run/Car Accident
+Assault/Battery Offenses
+Assault/Battery Offenses (Domestic)
+Traffic Infraction
+
+Sharing Network Data With
+
+Organizations granted access to Holland MI PD data.
+
+Germantown OH PD
+(Dead/Old) Plymouth IN PD
+Abbotsford WI PD
+Adams County IL SO
+Adams County IN SO
+Adams County WI SO
+Adams WI PD
+Addison IL PD
+Adrian MI PD
+Adrian Township MI PD
+Akron OH PD
+Albion MI DPS
+Alexandria IN PD
+Allegan County SO MI
+Allen County IN SO
+Almont MI PD
+Alpena County MI SO
+Alvin TX PD
+Amberley Village OH PD
+Anderson IN PD
+Anna TX PD
+Antioch IL PD
+Arlington Heights IL PD
+Armada MI PD
+Arthur IL PD
+Ashland County OH SO
+Ashland County WI SO
+Ashland OH PD
+Ashtabula County OH SO
+Ashtabula OH PD
+Athalia OH PD
+Athens County OH SO
+Auburn Hills MI PD
+Auburn IN PD
+Auglaize County OH SO
+Aurora IL PD
+Aurora OH PD
+Austin County TX SO
+Aviston IL PD
+Avon IN PD
+Baraboo WI PD
+Barberton OH PD
+Barrington Hills IL PD
+Barron County WI SO
+Bartlett IL PD
+Batavia OH PD
+Battle Creek MI PD
+Bayfield County WI SO
+Beachwood OH PD
+Beaver Dam WI PD
+Bellefontaine PD - OH
+Bellevue OH PD
+Belpre OH PD
+Belvidere IL PD
+Benton IL PD
+Berea OH PD
+Berkeley IL PD
+Berne IN PD
+Berrien County MI SO
+Beverly Hills MI PD
+Beverly OH PD
+Big Bend WI PD
+Birmingham MI PD
+Blackman/Leoni Public Safety MI
+Bloomfield Twp MI PD
+Bloomington IL PD
+Blue Ash OH PD
+Boardman Township OH PD
+Bolivar OH PD
+Boone County IL SO
+Bourbonnais IL PD
+Bowling Green OH PD
+Braidwood IL PD
+Bremen IN PD
+Bridgeport Township MI PD
+Bridgeview IL PD
+Brighton MI PD
+Bristol IN PD
+Brook Park OH PD
+Brookfield WI PD
+Brooklyn OH PD
+Brookville OH PD
+Brown County IL SO
+Brown Deer WI PD
+Brownsburg IN PD
+Brownstown Twp PD MI
+Brunswick OH PD
+Bryan OH PD
+Bureau Co. IL SO
+Burnett County WI SO
+Burnham IL PD
+Burr Ridge IL PD
+Burton MI PD
+Bushnell IL PD
+Butler IN PD
+Butler Township OH PD
+Byron IL PD
+Caledonia WI PD
+Calhoun County MI SO
+Calumet County WI SO
+Calumet Park IL PD
+Cambridge City IN PD
+Campton Hills IL PD
+Canton IL PD
+Canton OH PD
+Carbondale IL PD
+Carmel IN PD
+Carol Stream IL PD
+Carpentersville IL PD
+Carroll County OH SO
+Carrollton OH PD
+Carson County TX SO
+Carterville IL PD
+Cary IL PD
+Case Western Reserve University OH PD
+Cass County IN SO
+Cass County MI SO
+Centerville IN PD
+Centerville OH PD
+Centralia IL PD
+Champaign County IL SO
+Champaign IL PD
+Charleston IL PD
+Charlestown PD IN
+Charlotte MI PD
+Charter Township of Buena Vista MI PD
+Chatham IL PD
+Chenoa IL PD
+Cherry Valley IL PD
+Chester Township OH PD
+Chesterfield Twp MI PD
+Chesterton IN PD
+Chetek WI PD
+Cheviot OH PD
+Chicago IL PD
+Chillicothe IL PD
+City of Delavan WI PD
+Clark County IN SO
+Clark County OH SO
+Clarksville IN PD
+Clawson MI PD
+Clayton Township PD MI
+Clermont County SO - OH
+Cleveland Heights OH PD
+Clinton County MI SO
+Clinton County SO - OH
+Clinton Township MI PD
+Clio MI PD
+Clyde PD OH
+Coldwater MI PD
+Colerain Township PD - OH
+Columbia County WI SO
+Columbus IN PD
+Cortland IL PD
+Cortland OH PD
+Corydon IN PD
+Cottage Grove WI PD
+Country Club Hills IL PD
+Covert Township PD MI
+Crainville IL PD
+Crawford County IL SO
+Crawford County IN SO
+Crawford County WI SO
+Crawfordsville IN PD
+Crest Hill IL PD
+Creve Coeur IL PD
+Cridersville OH PD
+Cross Creek Township OH PD
+Crown Point IN PD
+Crystal Lake IL PD
+Cumberland Metro IN PD
+Cuyahoga Falls OH PD
+Danville IL PD
+Danville IN PD
+Darien IL PD
+Davison Township MI PD
+Dayton PD - OH
+Dearborn County IN SO
+Dearborn Heights MI PD
+Dearborn MI PD
+Decatur IN PD
+Deer Park OH PD
+Defiance County OH SO
+DeKalb IL PD
+Delaware County IN SO
+Delaware County OH SO
+Delhi Twp OH PD
+Delphi IN PD
+Depue IL PD
+Des Plaines IL PD
+Detroit MI PD
+Dickinson County MI SO
+Dixmoor IL PD
+DNU Creston OH PD
+Dodge County WI SO
+Dolton IL PD
+Downers Grove IL PD
+Dublin OH PD
+DuPage Co IL Prosecutor Office
+DuPage County IL SO
+East Dundee IL PD
+East Hazel Crest IL PD
+East Lansing MI PD
+East Liverpool OH PD
+East Peoria IL PD
+Eastlake OH PD
+Eastpointe MI PD
+Eaton OH PD
+Eaton Rapids MI PD
+Eau Claire County WI SO
+Ecorse MI PD
+Elk Grove IL PD
+Elk Rapids MI PD
+Elkhart County IN SO
+Elkhart PD IN
+Elkhorn WI PD
+Elm Grove WI PD
+Elwood IN PD
+Elyria OH PD
+Energy IL PD
+Enon OH PD
+Erie County OH SO
+Euclid OH PD
+Evansville IN PD
+Evendale OH PD
+Fairfax OH PD
+Fairfield PD - OH
+Fairfield Township OH PD
+Fairlawn OH PD
+Fairmount IN PD
+Farmer City IL PD
+Farmington Hills MI PD
+Farmington MI DPS
+Fayette County IL SO
+Fayette OH PD
+Fenton MI PD
+Fishers IN PD
+Flat Rock MI PD
+Flint MI PD
+Flint Township MI PD
+Flora- IL - PD
+Florence Co. WI SO
+Flossmoor IL PD
+Floyd County IN SO
+Flushing City MI PD
+Forest County WI SO
+Forest Park OH PD
+Forest Preserve District Will County PD (IL)
+Fort Loramie OH PD
+Fort Wayne IN PD
+Fort Worth TX PD
+Fox Lake IL PD
+Fox Valley IL Parks District
+Frankenmuth MI PD - New Business
+Franklin County IL SO
+Franklin County OH SO
+Franklin IN PD
+Franklin Park IL PD
+Franklin WI PD
+Franklin-Bingham Farms MI PD
+Fraser MI DPS
+Freeport IL PD
+Fremont OH PD
+Friendswood TX PD
+Fruitport Township MI PD
+Fulton County IL SO
+Fulton IL PD
+Gahanna OH PD
+Galesburg IL PD
+Gallia County OH SO
+Garden City MI PD
+Garfield Heights OH PD
+Gary IN PD
+Gas City IN PD
+Gaylord MI PD
+Geauga County OH SO
+Genesee Co. MI 911 Dispatch Authority
+Genesee County MI SO
+Genoa Township OH PD
+Georgetown IL PD
+Georgetown IN PD
+Glen Carbon IL PD
+Glen Ellyn IL PD
+Glencoe IL PD
+Glendale OH PD
+Glenview IL PD
+Gogebic County MI SO
+Golf Manor OH PD
+Goshen IN PD
+Goshen TWP OH PD
+Grafton WI PD
+Granbury TX PD
+Grand Beach/Michiana MI PD
+Grand Blanc Twp MI PD
+Grand Chute WI PD
+Grand Haven MI DPS
+Grand Rapids MI PD
+Grand Traverse County MI SO
+Grand Valley State University MI
+Grandville PD MI
+Grant County IN SO
+Grant County WI SO
+Grayslake IL PD
+Green Bay WI PD
+Green Lake County WI SO
+Greene County IN SO
+Greene County OH SO
+Greenfield IN PD
+Greenfield WI PD
+Greenwood IN PD
+Griffith IN PD
+Grosse Ile MI PD
+Grove City OH PD
+Groveport OH PD
+Grundy County IL 911
+Grundy County IL SO
+Guernsey County OH SO
+Gun Lake Tribal PD MI
+Gurnee IL PD
+Hamilton County IN SO
+Hamilton County OH SO
+Hamilton Township OH PD (Warren County)
+Hamtramck MI PD
+Hancock County IN SO
+Hanover Park IL PD
+Hardin County OH SO
+Harper Community College IL PD
+Harris County TX SO
+Harrison County IN SO
+Harrison OH PD
+Hartford City IN PD
+Harvey IL PD
+Harwood Heights IL PD
+Hazel Crest IL PD
+Hazel Park MI PD
+Hebron IN PD
+Henry County IL SO
+Henry County IN SO
+Henry County OH SO
+Herrin IL PD
+Hickory Hills IL PD
+Highland IN PD
+Highland Park IL PD
+Highland Park MI PD
+Hillsboro OH PD
+Hinckley IL PD
+Hobart IN PD
+Hoffman Estates IL PD
+Holland TX PD
+Holmen WI PD
+Holmes County SO OH
+Homecroft IN PD
+Hoopeston IL PD
+Houston Arson Bureau TX
+Houston TX PD
+Howard County IN SO
+Hudson WI PD
+Humble ISD PD TX
+Hunting Valley OH PD
+Huntingburg IN PD
+Huntington County IN SO
+Huntington IN PD
+Huntley IL PD
+Huron OH PD
+Huron Township MI PD
+Illinois Attorney General
+IN - Albion PD
+IN - Angola PD
+IN - Jasonville PD
+IN - Middletown PD
+IN - Noble County Prosecutors
+IN - Rensselaer PD
+IN - Sweetser PD
+IN - Tipton County SO
+IN- Noble County SO
+Independence OH PD
+Indian Hill OH PD
+Indiana Department of Corrections
+Indiana Department of Natural Resources
+Indiana State Police IN PD
+Indianapolis Metro PD IN
+Ingalls IN PD
+Inkster MI PD
+Inverness IL PD
+Iowa County WI SO
+Jackson County Central Dispatch MI
+Jackson County MI SO
+Jackson MI PD
+Jackson WI PD
+Jacksonville IL PD
+Janesville WI PD
+Jasper County IN SO
+Jasper IN PD
+Jefferson County OH SO
+Jefferson County SO IN
+Jefferson County WI SO
+Jefferson WI PD
+Jeffersonville IN PD
+Jennings County IN SO
+Johnson County IN SO
+Johnson County TX SO
+Johnston City IL PD
+Joliet IL PD
+Joliet Junior College IL PD
+Justice IL PD
+Kalamazoo County MI SO
+Kalamazoo MI PD
+Kalamazoo Township MI PD
+Kane County Forest Preserve IL PD
+Kane County IL SO
+Kankakee County IL SO
+Kankakee IL PD
+Kellogg Community College Campus MI PD
+Kendall County IL SO
+Kendall County TX SO
+Kendallville IN PD
+Kenosha County WI SO
+Kenosha WI PD
+Kent County MI SO
+Kentwood MI PD
+Kettering OH PD
+Kewanee IL PD
+Killeen TX PD
+Kleberg TX County Attorney's Task Force
+Knox County IL SO
+Knox County IN SO
+Kokomo IN PD
+La Grange IL PD
+La Grange Park IL PD
+Lac Courte Oreilles Tribal Police WI
+Ladd IL PD
+Lafayette IN PD
+LaGrange IN PD
+Lake County IL SO
+Lake County IN SO
+Lake County OH SO
+Lake Delton WI PD
+Lake Forest IL PD
+Lake Geneva WI PD
+Lake In The Hills IL PD
+Lake Michigan College Campus PD
+Lake Mills WI PD
+Lake Villa IL PD
+Lake Zurich IL PD
+Lakemore OH PD
+Lakewood OH PD
+Lansing IL PD
+Lansing MI PD
+Lapeer City MI PD
+Lapel IN PD
+Laporte County IN SO
+LaSalle Co. IL SO - New
+Lasalle IL PD
+Lathrup Village MI PD
+Lavon TX PD
+Lawrence County IL SO
+Lawrence County IN SO
+Lebanon OH PD
+Lee County IL SO
+Lemont IL PD
+Lena IL PD
+Lenawee County MI SO
+Lexington KY PD
+Licking County OH SO
+Ligonier IN PD
+Lima OH PD
+Lincoln Park MI PD
+Lisle IL PD
+Lithopolis OH PD
+Little Traverse Bay Band of Odawa Indians MI PD
+Livingston County IL SO
+Livingston County MI SO
+Livonia MI PD
+Lockland OH PD
+Lodi WI PD
+Logansport IN PD
+Lombard IL PD
+Lorain County OH SO
+Lorain OH PD
+Loudon County TN SO
+Loudon TN PD
+Louisville OH PD
+Loves Park IL PD
+Lowell MI PD
+Lucas County OH SO
+Lufkin TX PD
+Lyons IL PD
+Macomb County MI SO
+Macomb IL PD
+Macon County IL SO
+Madeira OH PD
+Madison County IN SO
+Madison Heights MI PD
+Madison Township MI PD
+Madison Village OH PD
+Mahoning Valley Law Enforcement TF (OH)
+Mansfield OH PD
+Mansfield TX PD
+Manteno IL PD
+Maple Bluff WI PD
+Maple Heights OH PD
+Marathon County WI SO
+Marinette WI PD
+Marion County OH SO
+Marion Health PD (IN)
+Marion IL PD
+Marion IN PD
+Marion OH PD
+Markle IN PD
+Marquette County MI SO
+Marquette County WI SO
+Marseilles IL PD
+Marshall County Prosecutor’s Office IN
+Marshall TX PD
+Martinsville IN PD
+Marysville MI PD
+Marysville OH PD
+Mason County IL SO
+Mason PD - OH
+Matteson IL PD
+Mattoon IL PD
+Maumee OH PD
+McCook IL PD
+McDonough County IL SO
+McFarland WI PD
+McHenry County Conservation District IL PD
+McHenry County IL SO
+McKinney TX PD
+Mclean County IL SO
+Medina County OH SO
+Medina Township OH PD
+Melrose Park IL PD
+Melvindale MI PD
+Menard County IL SO
+Menasha WI PD
+Mendota IL PD
+Menominee County SO MI
+Menominee Tribal WI PD
+Menomonee Falls WI PD
+Mentor OH PD
+Mequon WI PD
+Mercer County OH SO
+Mesquite TX PD
+Metamora Township MI PD
+Metra IL PD
+Metro East Auto Theft (IL)
+Metro Police Authority of Genesee County MI
+Metropolis IL PD
+MI - Bloomfield Public Safety
+MI - Riverview PD
+MI - Saginaw County SO
+MI - Village of Middleville
+Miami County OH SO
+Michigan City IN PD
+Michigan Department of Corrections (MDOC)
+Michigan Department of Natural Resources
+Michigan Senate MI PD
+Michigan State Police
+Middleburg Heights OH PD
+Middlebury IN PD
+Midlothian IL PD
+Milan IL PD
+Milan MI PD
+Milford MI PD
+Milton IN PD
+Milwaukee County WI SO
+Milwaukee WI PD
+Minster OH PD
+Mokena IL PD
+Moline IL PD
+Monee IL PD
+Monon IN PD
+Monona WI PD
+Monroe County MI SO
+Monroe County WI SO
+Monroe MI PD
+Monroe OH PD
+Montgomery County IN SO
+Montgomery County TX SO
+Moraine OH PD
+Morgan County IL SO
+Morgan County IN SO
+Morris IL PD
+Morrow OH PD
+Morton Grove IL PD
+Morton IL PD
+Mount Morris Township PD MI
+Mount Pleasant WI PD
+Mount Prospect IL PD
+Mount Vernon IN PD
+Mount Vernon OH PD
+Mountain Bay Metro WI PD
+Muncie IN PD
+Mundelein IL PD
+Muscoda WI PD
+Muskego WI PD
+Muskegon County MI SO
+Muskegon Heights MI PD
+Muskegon MI PD
+Muskegon Township MI PD (Muskegon County)
+Muskingum County OH SO
+Napoleon OH PD
+Napoleon Twp MI PD
+Nappanee IN PD
+National Center for Missing & Exploited Children [NCMEC]
+Neshkoro WI PD
+New Albany OH PD
+New Baden IL PD
+New Baltimore MI PD
+New Berlin WI PD
+New Bremen OH PD
+New Haven IN PD
+New Knoxville OH PD
+New Richmond OH PD
+Newark OH PD
+Newtown OH PD
+NICTD - IN PD
+Niles IL PD
+Niles OH PD
+Noble County OH SO
+Noblesville IN PD
+Norfolk Southern RR IL PD
+Normal IL PD
+North Chicago IL PD
+North Manchester IN PD
+North Muskegon MI PD
+North Olmsted OH PD
+North Randall OH PD
+North Ridgeville OH PD
+North Royalton OH PD
+Northbrook IL PD
+Northville Twp MI PD
+Norton Shores MI PD
+Norwalk OH PD
+Norwood OH PD
+Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
+Novi MI PD
+O'Fallon IL PD
+Oak Brook IL PD
+Oak Creek WI PD
+Oak Lawn IL PD
+Oak Park MI Dept of Public Safety
+Oakland County MI SO
+Obetz OH PD
+Obion County TN SO
+Oceana County MI SO
+Oconomowoc WI PD
+Ogle County IL SO
+Oglesby IL PD
+OH - Blanchester PD
+OH - Bridgeport PD
+OH - Butler County SO
+OH - Chillicothe PD
+OH - Commercial Point PD
+OH - Hamilton PD
+OH - Harrison County SO
+OH - Highland County SO
+OH - Jefferson County Drug Task Force
+OH - Johnny Appleseed Metropolitan Park District PD
+OH - Mariemont PD
+OH - Metroparks Toledo
+OH - Middletown PD
+OH - Milford PD
+OH - Oakwood PD
+OH - Preservation Parks of Delaware County
+OH - Sabina PD
+OH - South Bloomfield PD
+OH - Stark Parks Public Safety
+OH - U.S.23 Major Crimes Task Force
+OH - Willard PD
+OH - Williamsburg PD
+OH- Springfield Township PD (Hamilton Co)
+Ohio Attorney General's Office - OOCIC
+Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
+Ohio State Fire Marshal
+Ohio State Highway Patrol
+OK - Washita County SO
+Olmsted Township OH PD
+Onalaska WI PD
+Oneida County WI SO
+Ontonagon County MI SO
+Oregon OH PD
+Orland Hills IL PD
+Oswego IL PD
+Ottawa County MI SO
+Ottawa County OH SO
+Ottawa IL PD
+Oxford PD - OH
+Ozaukee County WI SO
+Palos Heights IL PD
+Palos Hills IL PD
+Palos Park IL PD
+Paris TX PD
+Parke County IN SO
+Parma Heights OH PD
+Parma OH PD
+Paulding County OH SO
+Pecatonica IL PD
+Pentwater MI PD
+Peoria County IL SO
+Peoria IL PD
+Peotone IL PD
+Perkins Township OH PD
+Perry County OH SO
+Perrysburg OH PD
+Perrysburg Twp OH PD
+Peru IN PD
+Petersburg IL PD
+Pierce Township OH PD
+Pike County IL SO
+Pittsboro IN PD
+Pittsfield Twp MI PD
+Plainfield IL PD
+Plainfield IN PD
+Plover WI PD
+Plymouth MI PD
+Plymouth PD IN
+Plymouth Township MI PD
+Pokagon Tribal MI PD
+Port Clinton OH PD
+Port Edwards WI PD
+Port Huron MI PD
+Portage County WI SO
+Portage IN PD
+Portage MI PD
+Porter County IN SO
+Porter IN PD
+Posen IL PD
+Posey County IN SO
+Powell OH PD
+Prairie Du Chien WI PD
+Prairie Grove IL PD
+Princeton IL PD
+Pulaski County IN SO
+Purdue University IN PD
+Quincy IL PD
+Racine County WI Communications Center
+Racine WI PD
+Rantoul IL PD
+Reading OH PD
+Redford Twp MI PD
+Richfield OH PD
+Richland County WI SO
+Richland Village MI PD
+Ripon WI PD
+River Falls WI PD
+River Grove IL PD
+River Rouge MI PD
+Riverdale IL PD
+Riverside IL PD
+Riverton IL PD
+Robinson IL PD
+Rock County WI SO
+Rock Falls IL PD
+Rock Island County IL SO
+Rock Island IL PD
+Rockdale IL PD
+Rockford Dept of Public Safety MI
+Rockford IL PD
+Rockport IN PD
+Rocky River OH PD
+Rolling Meadows IL PD
+Romeoville IL PD
+Romulus MI PD
+Roselle IL PD
+Rosemont IL PD
+Roseville MI PD
+Ross Township OH PD
+Rossford OH PD
+Rossville IL PD
+Round Lake Park IL PD
+Round Rock TX PD
+Royal Oak MI PD
+Rush County IN SO
+Sachse TX PD
+Saginaw MI PD
+Saginaw Township MI PD
+Saginaw Valley State University MI PD
+Saint Clair Shores MI PD
+Saint Croix Falls WI PD
+Saint Francis WI PD
+Salem IL PD
+Salem OH PD
+Saline County IL SO
+Sandusky County SO OH
+Sandusky OH PD
+Sangamon County IL SO
+Santa Claus IN PD
+Sauk County WI SO
+Sauk Prairie WI PD
+Sauk Village IL PD
+Savanna IL PD
+Schoolcraft College MI PD
+Schuyler Co. IL SO
+Scurry County TX SO
+Seguin TX PD
+Seymour IN PD
+Sharonville OH PD
+Sheboygan WI PD
+Shelby County IL SO
+Shelby Township MI PD
+Shelbyville IN PD
+Sheridan IN PD
+Sherman IL PD
+Shiloh IL PD
+Shorewood IL PD
+Sidney OH PD
+Silver Lake PD IN
+Skokie IL PD
+Slinger WI PD
+Solon OH PD
+South Barrington IL PD
+South Bend IN Airport Transit PD
+South Bend IN PD
+South Elgin IL PD
+South Euclid OH PD
+South Lyon MI PD
+South Milwaukee WI PD
+South Russell OH PD
+Southern Illinois University IL PD
+Southern View IL PD
+Southfield MI PD
+Speedway IN PD
+Spencer County IN SO
+Spring Arbor MI PD
+Spring Valley IL PD
+Springboro OH PD
+Springdale OH PD
+Springfield OH PD
+Springport Twp MI PD
+St. Charles IL PD
+St. Clair County MI SO
+St. Clair MI PD
+St. Joseph County SO IN
+St. Joseph Department of Public Safety MI
+Starke County IN SO
+Steger IL PD
+Sterling Heights MI PD
+Sterling IL PD
+Stevens Point WI PD
+Stow OH PD
+Strongsville OH PD
+Struthers OH PD
+Sturgis MI PD
+Sullivan IL PD
+Sullivan County IN SO
+Summit County OH SO
+Summit IL PD
+Sumpter Twp MI PD
+Superior WI PD
+Sylvania OH PD
+Sylvania Township OH PD
+Tallmadge OH PD
+Taylor MI PD
+Tazewell County IL SO
+Tell City IN PD
+Terre Haute IN PD
+Texas Department of Criminal Justice
+The Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MI
+Three Rivers MI PD
+Tinley Park IL PD
+Tipp City OH PD
+Tippecanoe County IN SO
+Toledo OH PD
+Tomah WI PD
+Toronto OH PD
+Traverse City MI PD
+Trenton OH PD
+Trenton PD MI
+Troy MI PD
+Troy OH PD
+Tuscarawas County OH SO
+Tuscola County MI SO
+Twinsburg OH PD
+TX - Vidor PD
+Union Township PD (Clermont Co) - OH
+University Circle OH PD
+University of Illinois - Chicago IL PD
+University of Illinois Urbana-Champaign IL PD
+University of Illinois- Springfield
+University of Michigan Ann Arbor Campus MI PD
+University of Michigan Dearborn Campus MI PD
+University of Notre Dame PD (IN)
+University of Wisconsin - Green Bay WI PD
+University of Wisconsin - Madison WI PD
+Urbana OH PD
+Utica MI PD
+Utica OH PD
+Valparaiso IN PD
+Van Buren MI PD
+Van Wert OH PD
+Vandalia IL PD
+Vandalia OH PD
+Vanderburgh County IN SO
+Vermillion County IN SO
+Vernon County WI SO
+Vernon Hills IL PD
+Vicksburg MI PD
+Vienna IL PD
+Vigo County IN SO
+Villa Park IL PD
+Village of Dundee MI PD
+Village of Fox Crossing WI PD
+Village of French Island WI PD
+Village of Manhattan IL PD
+Village of Mukwonago WI PD
+Village of Pingree Grove IL PD
+Village of Turtle Lake WI PD
+Vincennes IN PD
+Virden IL PD
+Wabash County IN SO
+Wabash IN PD
+Wadsworth OH PD
+Wakarusa IN PD
+Walker MI PD
+Walled Lake MI PD
+Walworth County WI SO
+Wapakoneta OH PD
+Warren County OH SO
+Warren MI PD
+Warrensville Heights OH PD
+Warrenville IL PD
+Warrick County IN SO
+Washburn County WI SO
+Washington County IN SO
+Washington County OH SO
+Washington County WI SO
+Washington IL PD
+Waterford Township MI PD
+Waterville OH PD
+Wauconda IL PD
+Waukegan IL PD
+Waukesha County WI SO
+Waukesha WI PD
+Waupaca County WI SO
+Waushara County WI SO
+Wayland MI PD
+Wayne County Airport Authority MI
+Wayne IL PD
+Wells County IN SO
+West Allis WI PD
+West Bend WI PD
+West Bloomfield Twp MI PD
+West Central Consolidated Communications IL PD
+West Chester OH PD
+West Chicago IL PD
+West City IL PD
+West Lafayette IN PD
+West Milton OH PD
+West Terre Haute IN PD
+Westchester IL PD
+Western Michigan University MI PD
+Westfield IN PD
+Westlake OH PD
+Westland MI PD
+Westmont IL PD
+Wheaton IL PD
+Wheeling IL PD
+White County IL SO
+White County IN SO
+White Lake Twp MI PD
+Whitehall MI PD
+Whitehall OH PD
+Whitestown IN PD
+Whitewater WI PD
+Whitley County IN Prosector
+WI Department of Justice
+Wichita Falls TX PD
+Wickliffe OH PD
+Will County IL SO
+Williamson Co. IL SO
+Willoughby Hills OH PD
+Willoughby OH PD
+Willow Springs IL PD
+Willowbrook IL PD
+Wilmette IL PD
+Wilmington OH PD
+Winchester IN PD
+Windsor- IL- PD
+Winnebago County IL SO
+Winnebago County WI SO
+Wintersville OH PD
+Wisconsin State Capitol Police (WI)
+Wixom MI PD
+Wolverine Lake MI PD
+Wonder Lake IL PD
+Wood Dale IL PD
+Woodford County IL SO
+Woodhaven MI PD
+Woodlawn OH PD
+Woodridge IL PD
+Woodstock IL PD
+Wyandot County OH SO
+Wyandotte MI PD
+Wyoming MI PD
+Wyoming OH PD
+Youngstown OH PD
+Zanesville OH PD
+Zeeland MI PD
+Zionsville IN PD
+
+Receiving Network Data From
+
+Organizations sharing their data with Holland MI PD.
+
+Germantown OH PD
+IN - West Baden Springs PD
+[Federal] Indiana Dunes National Park IN PD
+[Federal] Roudebush Medical Center IN Veterans Affairs PD
+[Federal] Tennessee Valley Authority Police
+[Federal] US Postal Inspection Service
+[Federal] Wright Patterson OH Air Force Base
+Adams County IL SO
+Adams County IN SO
+Addison IL PD
+Adrian MI PD
+Akron OH PD
+AL - Andalusia PD
+AL - Autauga County SO
+AL - Sylacauga PD
+AL - Wallace State Community College
+AL- Clarke County SO
+Alabama Law Enforcement Agency (ALEA)
+Alabaster AL PD
+Alachua FL PD
+Albion MI DPS
+Alcoa TN PD
+Alexandria IN PD
+Algood TN PD
+Allegan County SO MI
+Allen County IN SO
+Allen TX PD
+Almont MI PD
+Alpena County MI SO
+Altoona IA PD
+Amberley Village OH PD
+Amherst OH PD
+Anchorage KY PD
+Anderson County TN SO
+Anderson IN PD
+Angleton PD TX
+Ankeny IA PD
+Anoka County MN SO
+Anthony TX PD
+Antigo WI PD
+Antrim County SO MI
+Arcola IL PD
+Arcola TX PD
+Ardmore AL PD
+Arlington TX PD
+Armada MI PD
+Arnold MO PD
+Arthur IL PD
+Ashland City TN PD
+Ashland County OH SO
+Ashland County WI SO
+Ashland OH PD
+Ashland WI PD
+Ashtabula County OH SO
+Ashville AL PD
+Athens County OH SO
+Athens IL PD
+Aubrey TX PD
+Auburn Hills MI PD
+Auburn IN PD
+Auburn NY PD
+Audrain County MO SO
+Audubon Park KY PD
+Auglaize County OH SO
+Austin County TX SO
+Aviston IL PD
+Avon IN PD
+Baker County FL SO
+Baldwin County GA SO
+Barberton OH PD
+Bardstown PD KY
+Bargersville IN PD
+Barron County WI SO
+Bartholomew County IN SO
+Batavia OH PD
+Battle Creek MI PD
+Baylor Scott & White PD (TX)
+Baytown TX PD
+Beaumont TX PD
+Bedford OH PD
+Beech Grove IN PD
+Bellville TX PD
+Belpre OH PD
+Belvidere IL PD
+Berea OH PD
+Berkley Dept of Public Safety MI
+Berrien County MI SO
+Bessemer AL PD
+Beverly Hills MI PD
+Bexley OH PD
+Big Spring PD TX
+Birmingham MI PD
+Blackman/Leoni Public Safety MI
+Bloomfield Twp MI PD
+Blount County TN SO
+Blountsville AL PD
+Blue Springs MO PD
+Boardman Township OH PD
+Bogata TX PD
+Bolingbrook IL PD
+Bond County IL SO
+Boone County IL SO
+Boone County IN SO
+Bosque County TX SO
+Bourbonnais IL PD
+Bowling Green KY PD
+Bowling Green Warren County Drug Task Force KY
+Bradford County FL SO
+Bradley IL PD
+Braidwood IL PD
+Brecksville OH PD
+Breese IL PD
+Bremen IN PD
+Brent AL PD
+Brentwood MO PD
+Brevard County FL SO
+Bridgeport Township MI PD
+Bristol IN PD
+Broadview Heights OH PD
+Brook Park OH PD
+Brookfield WI PD
+Brookville OH PD
+Brown County SO IN
+Brown Deer WI PD
+Brownsburg IN PD
+Brownstown Twp PD MI
+Brunswick OH PD
+Buchanan County MO SO
+Bullitt County KY SO
+Bureau Co. IL SO
+Burnett County WI SO
+Burr Ridge IL PD
+Burton MI PD
+Butler IN PD
+Butler Township OH PD
+Cactus TX PD
+Caldwell CO TX SO
+Caldwell County TX Constable's Pct 2
+Calhoun County AL SO
+Calhoun County MI SO
+Calloway County KY SO
+Calumet Park IL PD
+Cambridge City IN PD
+Canton IL PD
+Canton OH PD
+Cape Girardeau MO PD
+Carlyle IL PD
+Carmel IN PD
+Carroll County OH SO
+Carson City NV SO
+Carterville IL PD
+Cary IL PD
+Casey IL PD
+Cass County IN SO
+Cass County MI SO
+Castle Hills TX PD
+Castroville TX PD
+Cedar Lake IN PD
+Celina TX PD
+Centerville OH PD
+Centralia IL PD
+Chambers County AL SO
+Chambers County TX SO
+Charleston IL PD
+Charleston MO DPS
+Charlestown PD IN
+Charlotte MI PD
+Charter Township of Buena Vista MI PD
+Chatham IL PD
+Cheatham County TN SO
+Chenoa IL PD
+Cherokee County AL SO
+Chester Township OH PD
+Chesterfield MO PD
+Chesterfield PD IN
+Chesterfield Twp MI PD
+Chesterton IN PD
+Chetek WI PD
+Cheviot OH PD
+Chippewa PA PD
+Cicero IN PD
+City of Delavan WI PD
+City of Hurstbourne (KY)
+City of Oak Ridge North TX PD
+City of West TX PD
+Claiborne County TN SO
+Clark County IN SO
+Clark County OH SO
+Clark-Pleasant Police Department - IN PD
+Clarksville IN PD
+Clawson MI PD
+Clay County MO SO
+Clayton County GA PD
+Clayton Township PD MI
+Clear Lake WI PD
+Clearwater FL PD
+Cleveland Metro Parks OH PD
+Clinton County MI SO
+Clinton TN PD
+Clinton Township MI PD
+Clio MI PD
+Coastal Bend College Campus PD
+Cobb County GA PD
+Cocke County TN SO
+Cocoa Beach FL PD
+Cocoa FL PD
+Coconut Creek FL PD
+Coldwater MI PD
+Colerain Township PD - OH
+Coles County IL SO
+College Park GA PD
+Columbia County FL SO
+Columbus IN PD
+Columbus WI PD
+Community Health PD IN
+Cooke County TX SO
+Cookeville TN PD
+Copley Township OH PD
+Coral Springs FL PD
+Cottage Grove WI PD
+Cottleville MO PD
+Covert Township PD MI
+Covington County AL SO
+Crainville IL PD
+Crawford County IL SO
+Crawford County IN SO
+Crawford County WI SO
+Crawfordsville IN PD
+Crest Hill IL PD
+Crestview FL PD
+Creve Coeur IL PD
+Creve Coeur MO PD
+Crossville TN PD
+Crowell TX PD
+Crowley TX PD
+Crown Point IN PD
+Crystal City MO PD
+Crystal Lake IL PD
+CSX Railroad PD
+Cullman County AL SO
+Cumberland Metro IN PD
+Cumberland WI PD
+Cumby TX PD
+Cuyahoga Falls OH PD
+Cuyahoga Heights OH PD
+CVG Airport KY PD
+Dadeville AL PD
+Dale County AL SO
+Dandridge TN PD
+Danville IN PD
+Danville KY PD
+Daphne AL PD
+Davenport FL PD
+Davenport IA PD
+Davie FL PD
+Davison Township MI PD
+Dayton IN PD
+Daytona Beach Shores FL PD
+Dearborn County IN SO
+Dearborn Heights MI PD
+Decatur AL PD
+Decatur County IN SO
+Decatur IN PD
+Deer Park OH PD
+Deer Park TX PD
+Defiance County OH SO
+Delaware County IN SO
+Delaware County OH SO
+Delhi Twp OH PD
+Delphi IN PD
+Denton County TX SO
+Des Peres MO DPS
+DeSoto TX PD
+DFW Airport PD TX
+Dickinson County MI SO
+Dickinson TX PD
+Dickson TN PD
+Dolton IL PD
+Dothan AL PD
+Douglas County IL SO
+Douglas County NV SO
+Dubois County IN SO
+Dumas TX PD
+DuPage County IL SO
+Dyer County TN SO
+Dyersburg TN PD
+East Lansing MI PD
+East Peoria IL PD
+East Tawakoni TX PD
+Eastlake OH PD
+Eastpointe MI PD
+Eaton Rapids MI PD
+Eau Claire County WI SO
+Ecorse MI PD
+Ector County TX SO
+Edinburg TX PD
+Edinburgh IN PD
+Edmundson MO PD
+El Paso IL PD
+Elizabethtown KY PD
+Elk Rapids MI PD
+Elkhart County IN SO
+Elkhart PD IN
+Ellettsville IN PD
+Elm Grove WI PD
+Elm Ridge TX PD
+Elmore OH PD
+Elwood IN PD
+Elyria OH PD
+Englewood OH PD
+Enon OH PD
+Erath County TX SO
+Erie County NY SO
+Erie County OH SO
+Erwin TN PD
+Escambia County FL SO
+Etowah County AL SO
+Eufaula AL PD
+Euless TX PD
+Eureka MO PD
+Evansville IN PD
+Fairfax OH PD
+Fairfield PD - OH
+Fairfield Township OH PD
+Fairlawn OH PD
+Fairmount IN PD
+Falfurrias TX PD
+Farmer City IL PD
+Farmersville TX PD
+Farmington Hills MI PD
+Farmington MI DPS
+Farmington MO PD
+Fayette County TN SO
+Fenton MI PD
+Ferdinand IN PD
+Ferguson MO PD
+Ferndale MI PD [INACTIVE]
+Festus MO PD
+Fish and Wildlife Commission FL PD
+Fishers IN PD
+Flat Rock MI PD
+Flint MI PD
+Flint Township MI PD
+Flock Safety Training
+Flora- IL - PD
+Florence AL PD
+Florence Co. WI SO
+Florida Atlantic University FL PD
+Florida City FL PD
+Florissant MO PD
+Floyd County IN SO
+Flushing City MI PD
+Foley AL PD
+Forest Park OH PD
+Fort Bend County Const TX Pct 4
+Fort Loramie OH PD
+Fort Stockton TX PD
+Fort Walton Beach FL PD
+Fort Worth TX PD
+Fortville IN PD
+Frankenmuth MI PD - New Business
+Franklin County AL SO
+Franklin County IL SO
+Franklin County MO SO
+Franklin IN PD
+Franklin WI PD
+Franklin-Bingham Farms MI PD
+Fraser MI DPS
+Fremont OH PD
+Fruitland Park FL PD
+Fruitport Township MI PD
+Fulshear TX PD
+Fulton County IN SO
+Fulton IL PD
+Fulton MO PD
+Gahanna OH PD
+Gainesville FL PD
+Galena Park ISD TX PD
+Galesburg IL PD
+Galveston County TX SO
+Galveston TX PD
+Garden City MI PD
+Gardendale AL PD
+Garfield Heights OH PD
+Garrard County KY SO
+Gary IN PD
+Gas City IN PD
+Gaylord MI PD
+Geauga County OH SO
+Geddes Town NY PD
+Genesee County MI SO
+Georgetown IL PD
+Georgetown IN PD
+Glades County FL SO
+Glasgow KY PD
+Glendale OH PD
+Glenwood IL PD
+Gogebic County MI SO
+Golf Manor OH PD
+Goshen IN PD
+Grand Beach/Michiana MI PD
+Grand Blanc Twp MI PD
+Grand Haven MI DPS
+Grand Rapids MI PD
+Grand Traverse County MI SO
+Grand Valley State University MI
+Grandville PD MI
+Grant County IN SO
+Gray County TX SO
+Grayslake IL PD
+Grayson County TX SO
+Green Township OH PD
+Greenbrier TN PD
+Greencastle IN PD
+Greendale IN PD
+Greene County IN Prosecutors
+Greene County OH SO
+Greenfield IN PD
+Greenfield WI PD
+Greensburg IN PD
+Greenville AL PD
+Greenwood IN PD
+Greenwood Independent School District TX
+Griffith IN PD
+Grosse Ile MI PD
+Groveport OH PD
+Grundy County IL SO
+Guadalupe County TX SO
+Guernsey County OH SO
+Gulf Breeze FL PD
+Gun Lake Tribal PD MI
+Guntersville AL PD
+Hackleburg AL PD
+Hamblen County TN SO
+Hamburg Town NY PD
+Hamburg Village NY PD
+Hamilton AL PD
+Hamilton County IN SO
+Hamtramck MI PD
+Hancock County IN SO
+Hannibal MO PD
+Hanover IN PD
+Hanover Park IL PD
+Hardin County KY SO
+Hardin County OH SO
+Harris County Const TX Pct 1
+Harris County Const TX Pct 4
+Harris County Const TX Pct 5
+Harris County TX SO
+Harrison County IN SO
+Hartland WI PD
+Hartselle AL PD
+Harvey IL PD
+Harwood Heights IL PD
+Havana FL PD
+Hayden AL PD
+Hazel Crest IL PD
+Hazel Park MI PD
+Hazelwood MO PD
+Heart of Texas Auto Theft Task Force
+Hebron IN PD
+Henderson County KY SO
+Henderson KY PD
+Henderson TX PD
+Hendersonville TN PD
+Hendry County FL SO
+Henry County IN SO
+Henry County OH SO
+Heritage Creek KY PD
+Hermitage PA PD
+Herrin IL PD
+Hickory Creek TX PD
+Hickory Hills IL PD
+Hidalgo County TX SO
+Higginsville MO PD
+High Springs FL PD
+Highland IN PD
+Highland Park MI PD
+Hilliard OH PD
+Hillsborough County FL SO
+Hinckley IL PD
+Hobart IN PD
+Holland MI PD
+Holly Hill FL PD
+Holmen WI PD
+Holmes County FL SO
+Homewood AL PD
+Homewood IL PD
+Hoopeston IL PD
+Hoover AL PD
+Hope IN PD
+Hopkinsville KY PD
+Horizon TX PD
+Houston Housing Authority TX
+Houston TX PD
+Howard County IN SO
+Huber Heights OH PD
+Hudson WI PD
+Hueytown AL PD
+Huffman ISD TX PD
+Hume PD IL
+Huntington IN PD
+Huntsville AL PD
+Huron Township MI PD
+Hurst TX PD
+IA - Eldridge PD
+IA - Storm Lake PD
+Illinois Attorney General
+IN - Angola PD
+IN - Jasonville PD
+IN - Noble County Prosecutors
+Indian Hill OH PD
+Indian Hills KY PD
+Indian River County FL SO
+Indian River Shores FL PD
+Indiana Department of Corrections
+Indiana Department of Natural Resources
+Indiana State Police IN PD
+Indianapolis International Airport IN PD
+Indianapolis Metro PD IN
+Ingalls IN PD
+Inkster MI PD
+Iowa Department of Corrections
+Iowa State University IA PD
+Ironwood PSD MI
+Iroquois IL SO
+Irving TX PD
+Itasca IL PD
+Jack County TX SO
+Jackson AL PD
+Jackson County IN SO
+Jackson County MI SO
+Jackson MI PD
+Jacksonville Beach FL PD
+Jacksonville FL SO
+Jasper AL PD
+Jasper CO IL SO
+Jasper County IN SO
+Jasper IN PD
+Jefferson City MO PD
+Jefferson City TN PD
+Jefferson County KY SO
+Jefferson County MO SO
+Jefferson County OH SO
+Jefferson County TN SO
+Jeffersontown KY PD
+Jemison AL PD
+Jennings County IN SO
+Johnsburg IL PD
+Johnson County IN SO
+Johnson County TN SO
+Johnson County TX SO
+Johnston City IL PD
+Joliet IL PD
+Juneau County WI SO
+Kalamazoo County MI SO
+Kalamazoo Township MI PD
+Kane County Forest Preserve IL PD
+Kankakee County IL SO
+Kaufman TX PD
+Kellogg Community College Campus MI PD
+Kenmore Village NY PD
+Kenosha County WI SO
+Kent County MI SO
+Kentwood MI PD
+Killeen TX PD
+Kingsford Heights IN PD
+Kingston Springs TN PD
+Kingston TN PD
+Kleberg TX County Attorney's Task Force
+Knox County IL SO
+Knox County IN SO
+Knox County TN SO
+Knoxville TN PD [Inactive]
+Kokomo IN PD
+La Grange Park IL PD
+La Porte TX PD
+Lackawanna City NY PD
+Lafayette IN PD
+Lafayette TN PD
+LaGrange County SO IN
+LaGrange IN PD
+LaGrange KY PD
+Lake City FL PD
+Lake County OH SO
+Lake Delton WI PD
+Lakeland FL PD
+Lakemore OH PD
+Lakeside Park-Crestview Hills KY PD
+Lakewood OH PD
+Lancaster TX PD
+Lansing IL PD
+Lantana FL PD
+Lapeer City MI PD
+Lapel IN PD
+Laporte County IN SO
+Laporte IN PD
+Las Vegas Metro Police Department - NV
+LaSalle Co. IL SO - New
+Lasalle IL PD
+Lathrup Village MI PD
+Lauderdale County AL SO
+Lavon TX PD
+Lawrence County IN SO
+Lawrence District Attorney PA
+Lawrence IN PD
+Lebanon TN PD
+Lee County AL SO
+Lee County IL SO
+Leeds AL PD
+Leesburg AL PD
+Lenawee County MI SO
+Lenoir City TN PD
+Leon County Sheriffs Office (FL)
+Lexington KY PD
+Liberty County FL SO
+Liberty Hill TX PD
+Liberty MO PD
+Licking County OH SO
+Ligonier IN PD
+Lima OH PD
+Lincoln AL PD
+Lincoln Park MI PD
+Lindale TX PD
+Linden IN PD
+Lineville AL PD
+Lithopolis OH PD
+Little Traverse Bay Band of Odawa Indians MI PD
+Live Oak FL PD
+Live Oak TX PD
+Livingston County IL SO
+Livingston County MI SO
+Livingston TX PD
+Livonia MI PD
+Lockland OH PD
+Lodi OH PD
+Lodi WI PD
+Logan County KY SO
+Logansport IN PD
+Long Beach IN PD
+Lorain County OH SO
+Loudon TN PD
+Louisville Airport PD
+Louisville Metro KY PD
+Louisville OH PD
+Loveland OH PD
+Lowe's Corporation
+Lowell MI PD
+Lubbock County TX SO
+Lucas County OH SO
+Lufkin TX PD
+Luling TX PD
+Lyndhurst OH PD
+Lyons IL PD
+Mabank TX PD
+Mackinaw IL PD
+Macomb County MI SO
+Macomb IL PD
+Macon County AL SO
+Madison County AL SO
+Madison County IN SO
+Madison Heights MI PD
+Madisonville KY PD
+Mahoning Twp PA PD
+Mahoning Valley Law Enforcement TF (OH)
+Manchester MO PD
+Mansfield OH PD
+Mansfield TX PD
+Maple Heights OH PD
+Maplewood MO PD
+Marathon County WI SO
+Marble Falls TX PD
+Margate FL PD
+Marianna FL PD
+Marion County IN SO
+Marion County OH SO
+Marion County WV SO
+Marion Health PD (IN)
+Marion IL PD
+Marion IN PD
+Markle IN PD
+Marquette County MI SO
+Marshall County AL SO
+Marshall County Prosecutor’s Office IN
+Marshall TX PD
+Marshall WI PD
+Marshalltown IA PD
+Martin County FL SO
+Martins Ferry OH PD
+Martinsville IN PD
+Maryland Heights MO PD
+Marysville MI PD
+Marysville OH PD
+Maryville TN PD
+Mason PD - OH
+Matteson IL PD
+Mattoon IL PD
+Maumee OH PD
+Mauston WI PD
+McCracken County KY SO
+McKinney TX PD
+McMinnville TN PD
+Meadows Place TX PD
+Medina County OH SO
+Medina Township OH PD
+Melvindale MI PD
+Menasha WI PD
+Menominee County SO MI
+Menomonee Falls WI PD
+Mentor OH PD
+Mercer County OH SO
+Mesquite TX PD
+Metamora IL PD
+Metamora Township MI PD
+Metro Police Authority of Genesee County MI
+Metropolis IL PD
+MI - Riverview PD
+MI - Saginaw County SO
+MI - Village of Middleville
+Miami County OH SO
+Miami Gardens FL PD
+Miami-Dade FL SO
+Miamisburg OH PD
+Michigan City IN PD
+Michigan Department of Natural Resources
+Michigan State Police
+Middle Tennessee State TN PD
+Middlebury IN PD
+Middletown KY PD
+Midland County TX SO
+Midlothian IL PD
+Milan MI PD
+Milan TN PD
+Milford MI PD
+Milltown IN PD
+Milton GA PD
+Milton IN PD
+Mineral Area Drug Task Force MO
+Mineral County NV SO
+Minster OH PD
+Miramar FL PD
+Missouri City TX PD
+Missouri Department of Conservation
+Missouri Department of Public Safety
+Mogadore OH PD
+Monahans TX PD
+Monmouth IL PD
+Monon IN PD
+Monroe County IN SO
+Monroe County MI SO
+Monroe County WI SO
+Monroe GA PD
+Monroe MI PD
+Monroeville OH PD
+Monterey TN PD
+Montevallo AL PD
+Montezuma IN PD
+Montgomery County Constable
+Precinct 3 (TX)
+Montgomery County Constable
+Precinct 4 (TX)
+Montgomery County TN SO
+Montgomery County TX SO
+Monticello IL PD
+Monticello IN PD
+Moody AL PD
+Moore County TX SO
+Mooresville IN PD
+Moraine OH PD
+Morehead KY PD
+Morgan County AL SO
+Morgan County IN SO
+Morgan County TN SO
+Morrison IL PD
+Morristown TN PD
+Morton Grove IL PD
+Mount Dora FL PD
+Mount Morris Township PD MI
+Mount Pleasant WI PD
+Mount Vernon IN PD
+Mount Vernon OH PD
+Mountain Brook AL PD
+Mountain City TN PD
+Mt. Washington KY PD
+Mt. Zion IL PD
+Muncie IN PD
+Murphysboro IL PD
+Muscle Shoals AL PD
+Muskego WI PD
+Muskegon County MI SO
+Muskegon Heights MI PD
+Muskegon MI PD
+Muskegon Township MI PD (Muskegon County)
+Napoleon OH PD
+Napoleon Twp MI PD
+Nappanee IN PD
+Nekoosa WI PD
+Nelson County KY SO
+New Albany IN PD
+New Baden IL PD
+New Baltimore MI PD
+New Berlin TX Marshal's Office [Inactive]
+New Bremen OH PD
+New Castle IN PD
+New Chicago IN PD
+New Haven IN PD
+New Knoxville OH PD
+New Lenox IL PD
+New London OH PD
+New Paris OH PD
+Newark OH PD
+Newburgh Heights OH PD
+Newport TN PD
+Niagara County NY SO
+Niceville FL PD
+Nicholasville KY PD
+NICTD - IN PD
+Niles OH PD
+Noblesville IN PD
+Nolanville TX PD
+Nolensville TN PD
+North Canton OH PD
+North County Cooperative MO PD
+North Muskegon MI PD
+North Richland Hills TX PD
+North Ridgeville OH PD
+North Royalton OH PD
+Northbrook IL PD
+Northfield KY PD
+Northport AL PD
+Northville Twp MI PD
+Norton Shores MI PD
+Norwood OH PD
+Nottawaseppi Huron Band of the Potawatomi Tribal Police MI
+Novi MI PD
+Oak Grove MO PD
+Oak Lawn IL PD
+Oak Park MI Dept of Public Safety
+Oak Point TX PD
+Oak Ridge TN PD
+Oakbrook Terrace IL PD
+Oakland County MI SO
+Oakland TN PD
+Oakwood Village OH PD (Cuyahoga)
+Oceana County MI SO
+Odessa MO PD
+Ogle County IL SO
+OH - Chillicothe PD
+OH - Highland County SO
+OH - Jefferson County Drug Task Force
+OH - Johnny Appleseed Metropolitan Park District PD
+OH - Mariemont PD
+OH - Metroparks Toledo
+OH - Milford PD
+OH - Oakwood PD
+OH - Sabina PD
+OH - South Bloomfield PD
+OH - U.S.23 Major Crimes Task Force
+OH - Willard PD
+OH - Williamsburg PD
+OH- Springfield Township PD (Hamilton Co)
+Ohio Department of Rehabilitation and Correction - Office of the Chief Inspector
+Ohio State Fire Marshal
+Okeechobee County FL SO
+Oldham County KY PD
+Olmsted Falls OH PD
+Olmsted Township OH PD
+Onalaska TX PD
+Ontonagon County MI SO
+Oolitic Marshal’s Office
+Opelika AL PD
+Orange Beach AL PD
+Orange County FL SO
+Oregon OH PD
+Orland Hills IL PD
+Orlando FL PD
+Osage Beach MO PD
+Osceola County FL SO
+Osceola WI PD
+Ottawa County MI SO
+Ottawa County OH SO
+Ottawa IL PD
+Overland MO PD
+Owen County IN SO
+Owensboro KY PD
+Oxford AL PD
+Paducah KY PD
+Palestine TX PD
+Palm Beach County FL SO
+Palmyra MO PD
+Palos Hills IL PD
+Paoli IN PD
+Paris IL PD
+Paris KY PD
+Paris TN PD
+Paris TX PD
+Park Forest IL PD
+Park Hills MO PD
+Parke County IN SO
+Parma Heights OH PD
+Parma OH PD
+Paulding County OH SO
+Pell City AL PD
+Pensacola FL PD
+Pentwater MI PD
+Peoria IL PD
+Peotone IL PD
+Perkins Township OH PD
+Perry County IN SO
+Perry County MO SO
+Perrysburg OH PD
+Perrysburg Twp OH PD
+Peru IL PD
+Peru IN PD
+Pharr TX PD
+Phelps County MO SO
+Phenix City AL PD
+Pierce Township OH PD
+Pinellas County FL SO
+Pinellas Park FL PD
+Pittsboro IN PD
+Pittsfield IL PD
+Plainfield IL PD
+Plainfield IN PD
+Plainview TN PD
+Plover WI PD
+Plymouth MI PD
+Plymouth PD IN
+Plymouth Township MI PD
+Pocahontas IL PD [Inactive]
+Pokagon Tribal MI PD
+Poland Township OH PD
+Polk County FL SO
+Polk County TX SO
+Ponder TX PD
+Port Clinton OH PD
+Port Huron MI PD
+Portage IN PD
+Portage MI PD
+Portage WI PD
+Porter County IN SO
+Porter IN PD
+Posen IL PD
+Posey County IN SO
+Powell OH PD
+Prairie Du Chien WI PD
+Prairie Grove IL PD
+Prattville AL PD
+Preble County OH SO
+Princeton IN PD
+Prospect PD KY
+Prosper TX PD
+Pulaski County IN SO
+Purdue University IN PD
+Putnam County IN SO
+Putnam County TN SO
+Quincy IL PD
+Racine WI PD
+Radcliff KY PD
+Ralls County MO SO
+Reading OH PD
+Reagan County TX SO
+Red Oak PD TX
+Red River TX SO
+Redford Twp MI PD
+Reedsburg WI PD
+Reeves CO TX SO
+Regional Vehicle Burglary Suppression Taskforce TX
+Reno NV PD
+Reno TX PD
+Richfield OH PD
+Richland County SC SO
+Richland County WI SO
+Richland Village MI PD
+Richmond Heights MO PD
+Richmond TX PD
+Ridgeland MS PD
+RIG WI DTF
+River Falls WI PD
+Riverdale IL PD
+Riverside PD - OH
+Riverton IL PD
+Riviera Beach FL PD
+Robertson County TN SO
+Robinson IL PD
+Robstown TX PD
+Rock Hill SC PD
+Rockdale IL PD
+Rockford Dept of Public Safety MI
+Rockwall County TX SO
+Rockwood TN PD
+Rocky River OH PD
+Roman Forest TX PD
+Rome WI PD
+Romulus MI PD
+Roseland IN PD
+Roseville MI PD
+Ross Township OH PD
+Ross Township PA PD
+Rossford OH PD
+Round Lake Beach IL PD
+Royal Oak MI PD
+Rush County IN SO
+Rusk CO TX SO
+Russell County AL SO
+Russellville AL PD
+Rutledge TN PD
+Saginaw MI PD
+Saint Clair Shores MI PD
+Saint Croix Falls WI PD
+Salem OH PD
+Saline County IL SO
+Sangamon County IL SO
+Santa Rosa County FL SO
+Sarasota FL PD
+Sauk County WI SO
+Sauk Prairie WI PD
+Sauk Village IL PD
+Sawyer County WI SO
+Schertz TX PD
+Schoolcraft College MI PD
+Schuyler Co. IL SO
+Scott City MO PD
+Scott County IN SO
+Scott County KY SO
+Scottsboro AL PD
+Scottsville KY PD
+Scurry County TX SO
+Seguin TX PD
+SEMO Drug Task Force MO
+Sevier County TN SO
+Sevierville TN PD
+Seymour IN PD
+Sharonville OH PD
+Sheboygan WI PD
+Shelby County AL SO
+Shelby County IL SO
+Shelby County IN SO
+Shelby County KY SO
+Shelby County TN SO
+Shelby Township MI PD
+Shelbyville IN PD
+Shepherdsville KY PD
+Shorewood IL PD
+Sidney OH PD
+Sikeston MO DPS
+Slinger WI PD
+Smith County TX SO
+Smyrna TN PD
+Snead AL PD
+Snyder TX PD
+Solon OH PD
+Sour Lake TX PD
+South Bend IN Airport Transit PD
+South Bend IN PD
+South Central OH Major Crimes Unit
+South Plains Auto Theft Task Force TX
+South Sioux City NE PD
+Southern Illinois University IL PD
+Southfield MI PD
+Southgate KY PD
+Southmayd TX PD
+Sparta TN PD
+Sparta WI PD
+Speedway IN PD
+Spencer County IN SO
+Splendora TX PD
+Spring Arbor MI PD
+Spring Hill TN PD
+Spring Valley IL PD
+Springdale OH PD
+Springfield OH PD
+Springfield TN PD
+Springport Twp MI PD
+St John IN PD
+St. Ann MO PD
+St. Augustine FL PD
+St. Charles County MO PD
+St. Clair County MI SO
+St. Clair MI PD
+St. Clairsville OH PD
+St. Cloud FL PD
+St. Francois County MO SO
+St. John MO PD
+St. Joseph County SO IN
+St. Joseph Department of Public Safety MI
+St. Louis County MO PD
+St. Matthews KY PD
+Starke County IN SO
+Ste. Genevieve County MO SO
+Steger IL PD
+Sterling Heights MI PD
+Steubenville OH PD
+Stow OH PD
+Strongsville OH PD
+Struthers OH PD
+Sturgis MI PD
+Sugarcreek Township OH PD
+Sullivan County IN SO
+Summit County OH SO
+Sumpter Twp MI PD
+Sumter County FL SO
+Sunbury OH PD
+Sunset Hills MO PD
+Sylvania OH PD
+Sylvania Township OH PD
+Talladega County AL SO
+Tarpon Springs FL PD
+Taylor MI PD
+Tell City IN PD
+Temple TX PD
+Terre Haute IN PD
+Texas Department of Criminal Justice
+Texas Financial Crimes Intelligence Center
+Texas Medical Center PD
+The Tribal Police of the Grand Traverse Band of Ottawa & Chippewa Indians MI
+Thomasville AL PD
+Thornton CO PD
+Three Rivers MI PD
+Tilton IL PD
+Tinley Park IL PD
+Tipp City OH PD
+Tippecanoe County IN SO
+Titusville FL PD
+Toledo OH PD
+Tomah WI PD
+Toronto OH PD
+Town & Country MO PD
+Traverse City MI PD
+Treasure Island FL PD
+Trenton IL PD
+Trenton OH PD
+Trenton PD MI
+Trotwood OH PD
+Trousdale County TN SO
+Troy AL PD
+Troy MI PD
+Truesdale MO PD
+Trussville AL PD
+Tuscaloosa AL PD
+Tuscaloosa County AL SO
+Tuscarawas County OH SO
+Tuscola County MI SO
+Twinsburg OH PD
+TX - Cuero PD
+TX - Horseshoe Bay PD
+TX - Krugerville PD
+TX - Mount Enterprise PD
+TX - Riesel PD
+TX - San Saba County SO
+TX - Seymour PD
+TX - Shelby County SO
+TX - Vidor PD
+TX - Young County SO
+Tyler TX PD
+Ulysses KS PD
+Union City TN PD
+Union County KY SO
+Union MO PD
+Union Township PD (Clermont Co) - OH
+University Circle OH PD
+University Heights OH PD
+University of Central Missouri PD
+University of Indianapolis IN PD
+University of Louisville KY PD
+University of Michigan Dearborn Campus MI PD
+University of Notre Dame PD (IN)
+University of South Florida at St. Petersburg FL PD
+University Park IL PD
+UT Southwestern Medical Center TX
+Utica MI PD
+Valparaiso IN PD
+Van Buren MI PD
+Van Wert OH PD
+Vandalia OH PD
+Vanderburgh County IN SO
+Vernon County WI SO
+Vestavia Hills AL PD
+Vicksburg MI PD
+Vienna IL PD
+Vigo County IN SO
+Villa Park IL PD
+Village of Dundee MI PD
+Village of French Island WI PD
+Village of Mukwonago WI PD
+Vincennes IN PD
+Virden IL PD
+Wadsworth OH PD
+Wakarusa IN PD
+Walker MI PD
+Walled Lake MI PD
+Walters State Community College TN Campus PD
+Walworth County WI SO
+Wapakoneta OH PD
+Wapello County IA SO
+Ward County TX SO
+Warren County OH SO
+Warren MI PD
+Warren OH PD
+Warrensville Heights OH PD
+Warrick County IN SO
+Warson Woods MO PD
+Wartburg TN PD
+Washington County IN SO
+Washington County OH SO
+Washington County WI SO
+Washington Island WI PD
+Washington MO PD
+Washoe County NV SO
+Waterford Township MI PD
+Watertown WI PD
+Waterville OH PD
+Wauconda IL PD
+Waukesha County WI SO
+Waukesha WI PD
+Waukon IA PD
+Wauwatosa WI PD
+Wayland MI PD
+Wayne IL PD
+Webster Groves MO PD
+Wells County IN SO
+Wentzville MO PD
+West Allis WI PD
+West Bend WI PD
+West Bloomfield Twp MI PD
+West Buechel KY PD
+West Carrollton OH PD
+West Chester OH PD
+West Chicago IL PD
+West Des Moines IA PD
+West Lafayette IN PD
+West Palm Beach FL PD
+West Tawakoni TX PD
+West Terre Haute IN PD
+Westchester IL PD
+Westfield IN PD
+Westlake OH PD
+Westland MI PD
+Westmont IL PD
+Wheaton IL PD
+White County IN SO
+White House TN PD
+White Lake Twp MI PD
+White Pine TN PD
+Whitehall MI PD
+Whitestown IN PD
+Whitewater WI PD
+Whitley County IN Prosector
+Wichita Falls TX PD
+Williamson Co. IL SO
+Williamson County TN SO
+Willoughby Hills OH PD
+Willoughby OH PD
+Willow Springs IL PD
+Wilmore KY PD
+Wilson County TX SO
+Wilton Manors FL PD
+Winfield AL PD
+Winnebago County IL SO
+Winnebago County WI SO
+Wisconsin State Capitol Police (WI)
+Wixom MI PD
+Wolverine Lake MI PD
+Wood Dale IL PD
+Woodford County IL SO
+Woodhaven MI PD
+Woodlawn OH PD
+Woodson Terrace MO PD
+Woodstock AL PD
+Wooster OH PD
+Wright City MO PD
+Wyandot County OH SO
+Wyandotte MI PD
+Wyoming MI PD
+Wyoming OH PD
+Xenia OH PD
+Youngstown OH PD
+Zanesville OH PD
+Zeeland MI PD
+Zionsville IN PD
+Policy & Trust
+
+Holland City ALPR System
+
+Our cameras are strictly still photograph cameras. They do not record any movements or actions. (Written within our department policy as well)
 
 Our cameras capture one moment in time and show the back of a vehicle and the license plate.
 
-Our cameras also show date, time and location of the camera providing the photo.What the ALPR System Does Not DoDoes not record audio or video.
+Our cameras also show date, time and location of the camera providing the photo.
+
+What the ALPR System Does Not Do
+
+Does not record audio or video.
 Does not show or provide any information about the occupants of the vehicle.
 Does not run the license plate or registered owner through the Secretary of State.
 Does not provide GPS data or tracking information.
@@ -930,27 +2440,62 @@ Does not continuously track an individual's movements.
 Does not use data to issue traffic tickets.
 Does not capture demographic data.
 Does not capture cell phone information or IP address data.
-Does not provide immigration information or status What the ALPR System Does DoThe System focuses on vehicles- not people.
+Does not provide immigration information or status
 
-Vehicles checked in the system are very limited and specifically selected based on information gathered by officers or detectives during law enforcement  investigations.
+What the ALPR System Does Do
+
+The System focuses on vehicles- not people.
+
+Vehicles checked in the system are very limited and specifically selected based on information gathered by officers or detectives during law enforcement investigations.
 
 These Checks are case-driven and because a vehicle is associated with criminal activity, wanted suspects, or lost individuals.
 
 Each check requires justification by entering a complaint number and law enforcement reason for the check into the system. (Policy strictly limits to law enforcement only)
 
-Each check is completely tracked and able to be audited.What the ALPR System Does DoFrom January 1, 2026 through August 31, 2026 the percentage of searches in the system by HPD staff in comparison to the number of license plate reads by HPD cameras= .0187%.
+Each check is completely tracked and able to be audited.
+
+What the ALPR System Does Do
+
+From January 1, 2026 through August 31, 2026 the percentage of searches in the system by HPD staff in comparison to the number of license plate reads by HPD cameras= .0187%.
 
 An extremely high percentage of information comes into the system and is automatically deleted after 30 days without ever being viewed by anyone.
 
-In addition, if you are not involved in any criminal activity- the chance of having your vehicle viewed drops to a substantially lower percentage.HPD ALPR PolicyAn officer must confirm that the vehicle is still stolen, wanted, or otherwise of interest before proceeding (absent exigent circumstances). Without confirmation, a vehicle cannot be stopped solely on an ALPR alert.
+In addition, if you are not involved in any criminal activity- the chance of having your vehicle viewed drops to a substantially lower percentage.
 
-Officers shall visually verify that the license plate of interest matches identically with the image of the license plate captured.  Including both the alphanumeric characters of the license plate, state of issue, and vehicle descriptors before proceeding.
+HPD ALPR Policy
+
+An officer must confirm that the vehicle is still stolen, wanted, or otherwise of interest before proceeding (absent exigent circumstances). Without confirmation, a vehicle cannot be stopped solely on an ALPR alert.
+
+Officers shall visually verify that the license plate of interest matches identically with the image of the license plate captured. Including both the alphanumeric characters of the license plate, state of issue, and vehicle descriptors before proceeding.
 
 Because the ALPR alert relates to a vehicle plate and may not relate to the person operating the vehicle, officers need reasonable suspicion and/or probable cause to make an enforcement stop of any vehicle.
 
-Our agency follows applicable laws and policies that govern the use of this technology, and we are committed to ensuring it is used responsibly and with appropriate safeguards, oversight, and accountability. 
+Our agency follows applicable laws and policies that govern the use of this technology, and we are committed to ensuring it is used responsibly and with appropriate safeguards, oversight, and accountability.
 
-Enter Policy HerePublic Search AuditDownload to view searches performed over the last 30 days.Download CSVSOC 2 Type IIIndependently audited controls covering security, availability, and confidentiality.ISO 27001Information security management aligned with international standards.Adherence to Key Privacy PrinciplesBuilt to focus on data minimization, purpose limitation, and transparency.More InfoData SecurityOur cameras have no IP address that is accessible to the public.
+Enter Policy Here
+
+Public Search Audit
+
+Download to view searches performed over the last 30 days.
+
+Download CSV
+SOC 2 Type II
+
+Independently audited controls covering security, availability, and confidentiality.
+
+ISO 27001
+
+Information security management aligned with international standards.
+
+Adherence to Key Privacy Principles
+
+Built to focus on data minimization, purpose limitation, and transparency.
+
+More Info
+
+Data Security
+
+Our cameras have no IP address that is accessible to the public.
 
 All data collection points are equipped with secure communication protocols to protect data in transit from interception and tampering.
 
@@ -958,16 +2503,16 @@ All data is encrypted using industry-standard algorithms.
 
 Certified by the FBI's Criminal Justice Information Services (CJIS).
 
-ALPR images and meta-data are permanently deleted and irretrievable after the retention period expires.Accreditation StandardsIn Michigan, 18% of law enforcement agencies are currently accredited by the Michigan Law Enforcement Accreditation Commission.
+ALPR images and meta-data are permanently deleted and irretrievable after the retention period expires.
+
+Accreditation Standards
+
+In Michigan, 18% of law enforcement agencies are currently accredited by the Michigan Law Enforcement Accreditation Commission.
 
 The Holland Police Department is an accredited agency.
 
-Accreditation standards related to ALPR were recently updated.  HPD already operates within these new standards.
+Accreditation standards related to ALPR were recently updated. HPD already operates within these new standards.
 
-The only new change impacting our department will be the requirement to annually report our audit as a proof to meet the accreditation standards.Provided by Flock Safety
-!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on","addSourceMiddleware","addIntegrationMiddleware","setAnonymousId","addDestinationMiddleware"];analytics.factory=function(e){return function(){var t=Array.prototype.slice.call(arguments);t.unshift(e);analytics.push(t);return analytics}};for(var e=0;e<analytics.methods.length;e++){var key=analytics.methods[e];analytics[key]=analytics.factory(key)}analytics.load=function(key,e){var t=document.createElement("script");t.type="text/javascript";t.async=!0;t.src="https://cdn.segment.com/analytics.js/v1/" + key + "/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n);analytics._loadOptions=e};
-    analytics._writeKey="Sn2m8PgcFXDidA2AhTvB0gZJolX33IIK";
-    analytics.SNIPPET_VERSION="4.13.2";
-    analytics.load("Sn2m8PgcFXDidA2AhTvB0gZJolX33IIK");
-    analytics.page();
-}}();
+The only new change impacting our department will be the requirement to annually report our audit as a proof to meet the accreditation standards.
+
+Provided by Flock Safety
